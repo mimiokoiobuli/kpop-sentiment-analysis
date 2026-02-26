@@ -1,0 +1,34 @@
+SOURCE 1
+Title: Using Twitter to Predict Chart Position for Songs
+Authors: K. Avouris, V. Tsiara, G. Dimitriadis, et al.
+Year: 2020
+Journal: EPJ Data Science
+DOI: 10.1140/epjds/s13688-020-00239-0
+
+SOURCE 2
+Title: Quantifying the Impact of Homophily and Influencer Networks on Song Popularity
+Authors: N. Reisz, L. Ceriani, A. L. Lafuerza, et al.
+Year: 2024
+Journal: Humanities and Social Sciences Communications
+DOI: 10.1057/s41599-024-02690-8
+
+SOURCE 3
+Title: Comparative Analysis of Naïve Bayes Classifier and Support Vector Machine in Sentiment Analysis of Social Media Data
+Authors: R. Aprinastya, et al.
+Year: 2024
+Journal: Jurnal Sistem Informasi
+DOI: Check first page of PDF
+
+SOURCE 4
+Title: Comparison of Naïve Bayes Classifier and Support Vector Machine in Classifying Public Responses on Twitter
+Authors: F. Millennianita, et al.
+Year: 2023
+Journal: JMAI
+DOI: Check first page of PDF
+
+SOURCE 5
+Title: A Study on the Impact of Social Media on K-pop Fans' Behavior and Emotions: Evidence from Chinese Fans
+Authors: See first page of article
+Year: 2023/2024
+Journal: Humanities/Communication journal - Dean Francis Press
+DOI: Check article header
