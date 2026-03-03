@@ -1,0 +1,11 @@
+1. What did they study? They studied the relationship between number of mentions of a song and its artist, as well as semantic (positive, negative and neutral) orientation of posts and the song's chart performance.
+2. What method did they use? They used regression analysis algorithm which estimated the difference between the actual and predicted chart positions and the moderated results. To get the official Billboard Hot 100 chart data they developed a method that extracted the artist name, song title and rank, and save them as .json and .csv files. They used Twitter Search API to collect relevant Twitter Posts.
+3. What did they find? There is a moderate correlation of 0.2917 between song mentions and chart performance. Meanwhile, the correlation between artist mentions and their success is little to none.
+
+Paragraph 1 — what they studied, what data they used, what method they used (~75 words)
+Avouris et al. (2020) examined the correlation between the number of mentions of a song and its artist, as well as the number of positive, negative, and neutral posts on Twitter, and the song's chart performance. Data  Artist name, song title and rank were collected from the official Billboard Hot 100 chart website and extracted into a .json and .csv file. The Twitter Search API was used to collect relevant posts. 
+A regression analysis algorithm was used to estimate the difference between the real and projected position and the controlled results.
+
+Paragraph 2 — what they found, and one sentence explaining why this is relevant to your project (~75 words)
+The study found a moderate correlation of 0.2917 between song mentions and chart performance. Whereas, the correlation between artist mentions and their success yielded insignificant results.
+This study shows that social media sentiment can affect the performance of a song which is relevant to my own project which will examine the correlation between social media sentiment and K-pop groups comeback performance across song and music video streaming and local and global chart performance.
