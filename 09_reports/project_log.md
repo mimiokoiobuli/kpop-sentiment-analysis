@@ -86,3 +86,30 @@ mentioning in limitations.
 - Supervisor response to methodology amendment email
 - Reddit Pushshift archive download (5 monthly files needed)
 - YouTube comments preprocessing (filter English, clean text)
+
+## 13 March 2026 (Evening)
+
+### Security Incident - API Key Exposed on GitHub
+
+Received an automated alert from GitGuardian shortly after pushing to GitHub.
+A Google API key had been exposed in the repository.
+
+What happened:
+Jupyter automatically saves checkpoint files (.ipynb_checkpoints) as you work.
+An earlier draft of the YouTube data collector notebook had the API key 
+hardcoded directly in the code before I switched to reading it from the 
+credentials file. This checkpoint file was committed to GitHub before the 
+.ipynb_checkpoints folder was added to .gitignore.
+
+Steps taken to fix it:
+1. Revoked the compromised API key immediately on Google Cloud Console
+2. Created a new restricted API key (restricted to YouTube Data API v3 only)
+3. Updated credentials/api_keys.txt with the new key
+4. Used git filter-branch to remove the checkpoint file from entire Git history
+5. Force pushed cleaned history to GitHub
+6. Cleaned up local repository with git gc
+
+Lesson learned:
+Never hardcode API keys directly in notebook cells even temporarily.
+Always read from a credentials file from the very first line of code.
+The .ipynb_checkpoints folder must be in .gitignore before any notebook work begins.
