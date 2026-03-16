@@ -113,3 +113,48 @@ Lesson learned:
 Never hardcode API keys directly in notebook cells even temporarily.
 Always read from a credentials file from the very first line of code.
 The .ipynb_checkpoints folder must be in .gitignore before any notebook work begins.
+
+## 16 March 2026
+
+### YouTube Comments Preprocessing Complete
+
+Ran the YouTube comments preprocessor notebook (youtube_preprocessing.ipynb).
+
+Results:
+- Raw comments loaded: 3,000 (500 per comeback)
+- After English language filter: 1,036 comments (34.5%)
+- After text cleaning: 1,026 comments
+
+English comment breakdown by group:
+- IVE Rebel Heart: 196
+- aespa Whiplash: 176
+- SEVENTEEN Thunder: 174
+- TWICE Strategy: 173
+- NCT DREAM When I'm With You: 162
+- Stray Kids Chk Chk Boom: 155
+
+Preprocessing steps applied:
+- Language detection (langdetect library) - filtered to English only
+- Lowercasing
+- URL, mention and hashtag removal
+- Special character and number removal
+- Tokenisation
+- Stopword removal
+- Porter stemming
+
+Output files:
+- 02_processed_data/youtube_comments_processed.csv (1,026 comments)
+- 03_labeled_data/youtube_comments_for_labelling.csv (labelling template)
+
+### Reddit Pushshift Downloads In Progress
+
+Started downloading monthly Reddit archive dumps via qBittorrent.
+Files needed:
+- Reddit comments/submissions 2024-07 (Stray Kids comeback month)
+- Reddit comments/submissions 2024-10 (SEVENTEEN + aespa comeback month)
+- Reddit comments/submissions 2024-11 (NCT DREAM comeback month)
+- Reddit comments/submissions 2024-12 (TWICE comeback month)
+- Reddit comments/submissions 2025-02 (IVE comeback month)
+
+Reddit filter script written and ready in reddit_filter.ipynb.
+Will run once downloads complete.
