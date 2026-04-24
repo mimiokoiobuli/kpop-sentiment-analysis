@@ -1,0 +1,14 @@
+file,total,kept,dropped,drop_pct,output
+aespa_Whiplash_reddit_cleaned.csv,2826,2812,14,0.5,aespa_Whiplash_reddit_en.csv
+ATEEZ_IceOnMyTeeth_reddit_cleaned.csv,4044,4032,12,0.3,ATEEZ_IceOnMyTeeth_reddit_en.csv
+IVE_RebelHeart_reddit_cleaned.csv,1763,1762,1,0.1,IVE_RebelHeart_reddit_en.csv
+NCTDREAM_WhenImWithYou_reddit_cleaned.csv,428,428,0,0.0,NCTDREAM_WhenImWithYou_reddit_en.csv
+StrayKids_ChkChkBoom_reddit_cleaned.csv,4642,4626,16,0.3,StrayKids_ChkChkBoom_reddit_en.csv
+TWICE_Strategy_reddit_cleaned.csv,2214,2209,5,0.2,TWICE_Strategy_reddit_en.csv
+youtube:ATEEZ_IceOnMyTeeth,526,489,37,7.0,youtube_comments_en.csv
+youtube:IVE_RebelHeart,576,228,348,60.4,youtube_comments_en.csv
+youtube:NCTDREAM_WhenImWithYou,555,506,49,8.8,youtube_comments_en.csv
+youtube:StrayKids_ChkChkBoom,538,477,61,11.3,youtube_comments_en.csv
+youtube:TWICE_Strategy,523,464,59,11.3,youtube_comments_en.csv
+youtube:aespa_Whiplash,565,455,110,19.5,youtube_comments_en.csv
+youtube:TOTAL,3283,2619,664,20.2,youtube_comments_en.csv

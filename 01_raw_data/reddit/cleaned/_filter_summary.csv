@@ -1,0 +1,7 @@
+comeback,total_raw,own_sub_kept,other_raw,other_kept,total_clean,dropped,drop_pct,output
+IVE_RebelHeart,7450,1305,6145,458,1763,5687,76.3,IVE_RebelHeart_reddit_cleaned.csv
+TWICE_Strategy,2792,1648,1144,566,2214,578,20.7,TWICE_Strategy_reddit_cleaned.csv
+aespa_Whiplash,2860,656,2204,2170,2826,34,1.2,aespa_Whiplash_reddit_cleaned.csv
+StrayKids_ChkChkBoom,4654,2830,1824,1812,4642,12,0.3,StrayKids_ChkChkBoom_reddit_cleaned.csv
+NCTDREAM_WhenImWithYou,534,92,442,336,428,106,19.9,NCTDREAM_WhenImWithYou_reddit_cleaned.csv
+ATEEZ_IceOnMyTeeth,4102,2560,1542,1484,4044,58,1.4,ATEEZ_IceOnMyTeeth_reddit_cleaned.csv

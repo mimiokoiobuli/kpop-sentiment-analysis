@@ -1,0 +1,603 @@
+@relation kpop_sentiment_training
+
+@attribute text STRING
+@attribute @@class@@ {negative,neutral,positive}
+
+@data
+"week let",neutral
+"happi congrat let go fight",positive
+"let hope week aespa anoth chanc win music show",neutral
+"road morn",neutral
+"let go week",neutral
+"winter uh sexiest uh ever heard whole life",neutral
+"aespa aespa fan watch time watch second",positive
+"aespa aespa fan watch time watch second",neutral
+"whi whiplash",neutral
+"let talk everi time keep say gonna better eta alway surpris us one best music video possibl legend could pull move",positive
+"okay aespa clap back hater",positive
+"love",positive
+"my come strm",neutral
+"",negative
+"everyon know",neutral
+"addict usual",positive
+"wow song mv perfect everyon shine incred bright",positive
+"comeback boldli introduc complet new concept alway stay fresh push boundari truli aespa year",positive
+"midzi support let get whiplash x gold",positive
+"haneul era fr",neutral
+"concept fit aespa well beat cool gisel pink hair pretti love song sm",positive
+"might aespa best music video yet visual outfit everythinggg",positive
+"one look give whiplash",neutral
+"someon tell differ hair part know pink hair gisel short black hair winter idk hair chang mv",neutral
+"nsx tho",neutral
+"limit edit shirt serv think qualiti photobook could improv got mine scratchlik small air bubbl cover visibl light scratch well somewhat affect overal appear photobook first page look like fall lot blotlik mark stapler area page",negative
+"everyon let strming spotifi harder youtub harder pleas",neutral
+"deem stream corretament mv my e de stream na msica spotifi",neutral
+"im love videoooo",positive
+"everi time someon like comment ill wathc",neutral
+"ningn part addict",positive
+"masterpiec deserv much attent",positive
+"whip whip whiplash",neutral
+"gisel leader free world",neutral
+"whip whiplash",neutral
+"coldest",neutral
+"need perform video sm",neutral
+"whiplash audio w musicbank",neutral
+"classi",neutral
+"one look givem whiplash",neutral
+"cant touch",neutral
+"whiplash audio w musicbank",neutral
+"get su metallica",neutral
+"cant get tire song",positive
+"thank women exist love",positive
+"love era song danc give psi vibe cant unse hope theyr challeng psi dope sure",positive
+"let go",neutral
+"whiwhiplash",neutral
+"comeback gisel era",positive
+"love vibe give smuch ate",positive
+"dive keep stream th win",neutral
+"stray kid poster",neutral
+"love",positive
+"amaz wonyoung",positive
+"remind much loona im gonna cri",positive
+"song liter wonni life hater cant realis also human",positive
+"carli rae jepsen x taylor swift code",positive
+"th win cmon",positive
+"pleas go check attitud concept film well",neutral
+"chanc th win",neutral
+"gaeul didnt say anyth song",negative
+"stray kid poster visibl mv funni lol",neutral
+"love hear song record",neutral
+"els come see straykid",neutral
+"leeseo wonyoung cute",positive
+"love love hate never never woni part",positive
+"swear listen song like year ago",neutral
+"readi attitud",neutral
+"wanna thank ive amaz perfect song new kpop song thrown deeper music stan",positive
+"hey guy good luck babebaobei babi right seattl dont settl januaryjanu love day love hurt annot",neutral
+"gaeul get part pleas let shine want see promin",positive
+"releas birthday im",neutral
+"energi comeback rebel heart who readi join journey let gather",neutral
+"see stray kid background",neutral
+"ill watch song everytim someon like comment",positive
+"love hate never gonna gonna icon line",positive
+"leeseo cri",neutral
+"rebel heart pm awarmmoon",neutral
+"wonyoung vocal omgg",positive
+"actual cri relat",positive
+"congrat winn ingkigayo today th win",positive
+"attitud concpet film noww",neutral
+"cant wait attitud",positive
+"beauti refresh music video lyric empow well liter outdo everi singl comeback talent",positive
+"rebel heart pm wonjin",neutral
+"im serious obsess song",positive
+"rebel heart",neutral
+"love hate never never never tri ill break free never never never rebel heart rebel heart rebel heart rebel heart rebel heart dont care move love hate never never never tri ill break free never never never rebel heart rebel heart rebel heart rebel heart rebel heart rebel heart alway rebel come join rebel one rebel one rebel heart rebel heart rebel heart rebel heart rebel heart",neutral
+"beauti get stuck head cant stop listen",positive
+"rebel heart pm awarmmoon",neutral
+"prereleas titl track cool",positive
+"improv visual everyth",positive
+"good like vocal rap danc",positive
+"best song year",positive
+"rebel heart pm wonjin",neutral
+"bop like agre",positive
+"rebel heart pm awarmmoon",neutral
+"either way sister",positive
+"tone rhythm remind love",positive
+"get win rebel heart",neutral
+"vote music bank",neutral
+"oncee vote twice app music show",neutral
+"twice es increbl",positive
+"watch twice interview promot us",neutral
+"twice vocalist talent awesom",positive
+"stream",neutral
+"",neutral
+"strategi loop day good song",positive
+"good daynight onc",neutral
+"come appreci work art",positive
+"glad kept girl away megan much possibl",negative
+"year ago twice mina deliv absolut stun grace enchant cover snowman sia",neutral
+"twice zach sang show",neutral
+"whole song english happen kpop lol love girl twice though im lowk concern",negative
+"one favorit twice song love",positive
+"le copiaron melani martinez en high school sweetheartsss",neutral
+"come stream million viewer",neutral
+"let stream twice reach strategi least million",neutral
+"twice greatest group time",positive
+"hey boy",neutral
+"minaa she pretti",positive
+"good morn",neutral
+"twice look super pretti",positive
+"slay ate",positive
+"onceee stream",neutral
+"strategi stream",neutral
+"love mina braid style",positive
+"go go twice never stop",positive
+"twice best gg",positive
+"stream massivo",neutral
+"let tri win chart",neutral
+"love twice",positive
+"love twice",positive
+"tast music everyth releas twice",positive
+"although blink song realli grab attent like vibe much",positive
+"strategi twice",neutral
+"jihyo part addict",positive
+"take anoth one alreadi",neutral
+"outfit white strategi pink short pink pant individu cloth dahyun heart black tie jihyo skirt alreadi wear perform pink jacket pant",neutral
+"la part de sana",positive
+"megan thee stallion",neutral
+"best son ever",positive
+"love twice",positive
+"twice love",positive
+"think twice realli humbl long versatil longev career wholesom discographi japanes korean comeback never overlap collabor work insan vocal year face card visual queen japan kind love fan think era kpop theyr still nation gg south korea daesang belt hit hit iu gdragon even icon recogn jyp realli hit jackpot debut group truli immacul",positive
+"te amo minaaaaaa",positive
+"hey man ima get ya ima get real good bet ya hey man get ya youll oh glad met ya",neutral
+"bought self digipack cant stop play strategi album mean show support time onlin btw fight onc twice fight",positive
+"stream",neutral
+"stream strategi onc",neutral
+"interest love call",neutral
+"oh good fineeeil stan",positive
+"yunho breathtak",positive
+"theyr cool",positive
+"masterpiec",positive
+"think would make sens actual ice teeth like diamond grill",neutral
+"last one today soon day keep fight atini",neutral
+"happi good morn",neutral
+"yeayyy good morn",neutral
+"happi jam",neutral
+"hate like f handsom hot fine make go crazi omg",positive
+"happi thanksgiv atini celebr",positive
+"need get diamond dentist stat san slap like",positive
+"know song mingi punchlin ice neck draw line name take dollar w upsid necklac ps video mv review pirat search valu shine like diamond",neutral
+"k left wonderland reach gooooo",neutral
+"let move million soon fight",neutral
+"hope continu path",positive
+"mv beauti well produc",positive
+"cant wait",positive
+"feel perform go crazi",positive
+"ateez go perform saturday melon music award let support",neutral
+"best kpop song year",positive
+"top trend mv",neutral
+"youd like know possibl interpret iomt check mv review pirat search valu shine like diamond",neutral
+"there someth intruig group dont listen kpop anymor theyr make get",positive
+"choi san im love",positive
+"wow guy fantast congrat",positive
+"exol support amaz boy kinda remind exo honestli",positive
+"ateez mansion",neutral
+"final",positive
+"ye happi",positive
+"keep move forward take ship right destin ateez break limit big way everi time cheer atini",positive
+"million almost",positive
+"song deserv like pleas fuck great song",positive
+"carat pass",neutral
+"eye ateez",neutral
+"good night iomt see morn",neutral
+"one ateez best mv ever",positive
+"atini fight",positive
+"ateez mafia era",neutral
+"mannnnn soti",positive
+"who background vocal goe hard asl",positive
+"million come soon",neutral
+"wow love song violin sound sooo cool",positive
+"kq know best group",positive
+"ice teeth ice om ateez",neutral
+"keep stream atini",neutral
+"mention mv came repeat even today cant get part yunho hit differ liter love movement simul play tenni move dont know simpli love",positive
+"confirm seonghwa duck snow shaper saw insta post",neutral
+"san era insan",positive
+"day sinc releas time fli fast",neutral
+"day night",positive
+"im dream",positive
+"everyth song beauti thank nct dream alway give us masterpiec",positive
+"thankyou sing beauti song thankyou alway happi healthi dreami guy realli human medicin wish album success wait dreami td concert jakarta wish chanc meet dreami",positive
+"oyi ayukkk stream pli",neutral
+"nct dream best",positive
+"congrasttt",positive
+"sugohesso",positive
+"kecanduan im",positive
+"like increas well",positive
+"fight",neutral
+"come nopogi time stay internet well agre shownu catchi inde",positive
+"come guy",neutral
+"dont forget listen song music platform",neutral
+"alway listen song wherev let watch listen mv often definit give lot win dream long stay consist",neutral
+"dont forget vote dream allchart pre vote guy",neutral
+"let consist strming let go guy fight",neutral
+"met alreadi love love song theyr great im brazil theyv gone far",positive
+"still dreami",positive
+"fight everyon",positive
+"sad okay",positive
+"keep stream guy dream",neutral
+"mc jeno back",neutral
+"feel jisung shine bright voic sing soo coool",positive
+"choreo honestli look fun def teach one studio",positive
+"wait behind scene",neutral
+"day night think dreami",positive
+"guy next comeback need spirit nct dream least mv first hs",neutral
+"know mean",positive
+"im im blind",positive
+"best vocal visual",positive
+"anyon keep spirit",positive
+"im",positive
+"im armi stay fan heartbreak sad see tiktok twt hate fan hate wtf like im sure work hard comeback even though idk mayb fan expect pleas respect boy idol also human guyss dont like song stfu support guy goddamn fan gosh suppos number support wtf",positive
+"wiwi rd win music core",neutral
+"let cmment amaz saturday dream song tell everyon esp knet dream song amaz",positive
+"nov happi birthday chenl",neutral
+"keep watch mv pleas",neutral
+"stream pl otw",neutral
+"go slowlu",negative
+"yall still stream want say thank fight",neutral
+"fight",positive
+"almost like let keep strming use mubank perform week filler",neutral
+"keep stream guy let go win next mushow fight dream",neutral
+"let go",neutral
+"song amaz",positive
+"im im",neutral
+"best song year",positive
+"im rd winn",neutral
+"bad thing song doesnt last long",positive
+"keep come back music video liter chang live",positive
+"sister show mv yesterday didnt watch listen sinc came world happi see ryan hugh stray kid mv wholesom friendship sn",positive
+"everyon tri search stray kid googl there new featur",neutral
+"love changbin",positive
+"happi birthday stay im proud",neutral
+"sad discov heard song past fell love ate feel bit sad lost much time preciou moment",positive
+"know stray kid best",positive
+"let go",neutral
+"stay",neutral
+"mani time play stray kid",positive
+"yup im fan ccb news",neutral
+"ate comeback",positive
+"calm give deserv",neutral
+"talent insan",positive
+"happi bd stay",neutral
+"stay fight",positive
+"one lee know a a",neutral
+"come soon",neutral
+"omg favorit enhypen mv ever",negative
+"didnt jyp give ad",negative
+"woooooow stari kid bangchang chanbin lee know han hyunjin sungmin felix love song much love th year old birthday august love guy cool cute handsom",positive
+"yesterday spent whole day listen song stay day kskqjqkak",positive
+"bro liter save summer that song special aura hear immedi want danc let get million",positive
+"stray kid world domin",positive
+"cecilia first go",negative
+"yallll got ryan reinold",neutral
+"chan cok atwslisin",neutral
+"stray kid music video addict",positive
+"stay go",neutral
+"hayir eleven ya da olemez ama teoril mikein olecegini ba ba bairiyor mike olurs aglarim ama steve de byk ihtimal olecekmi ama umarim olmez yoksa depresyon hirerim ama en cok olmasini istedigim sey eddienin geri gelmesi",neutral
+"love stray kid want say awesom comeback blew mind especi never disappoint",positive
+"im stream skincar hahaha",neutral
+"eat ryan fool us",positive
+"even day still continu listen without get bore made legendari song skz",positive
+"song best song ive ever heard",positive
+"amaz guy love",positive
+"need point mushow pleas rememb dont give",neutral
+"omg spanish ryan cameo ate",positive
+"ofsenaof",neutral
+"simpli incred",positive
+"cant get mv love",positive
+"stray kid secret boyfriend think cute im sad",neutral
+"tin tin tintintintin chk chk boom",neutral
+"song bang boil face doesnt look normal korean repres korea makeup shit toxic cultur seem",negative
+"love word catastroph sound dont hear often even impact song",positive
+"said need older groupmatei think mean new groupmat came stray kidsguy pl say mean that joke",neutral
+"k pop take right reason",positive
+"stray kid thank everyth us channi thank make beauti name minho thank good job binni thank power effort hyunni thank emot feel hanni thank song lyric smile lixi thank sunshin sweet messag minni thank diamond voic support us inni thank tell us beauti word smile stag cutest face love moon",positive
+"happi anniversari dear stay everi year member togeth well take care selv ilov im proud stayyyyy",positive
+"aespa fire like releas releas sooooo strong",positive
+"yeah expect increas sale economi isnt great there lot competit month aespa itzi illit etc sticki popular song chart chart determin casual listen core fanbas buy album mamamoo alway hover around similar album sale despit hit stayc steep declin despit teddi bear bubbl popular slight increas instead big increas worri mean need time build fanbas possibl might ship issu like lsf",neutral
+"imposs love almost everi comment aespa ive bside",positive
+"strict standard toward idol understand come earth person aespa charm still busi industri sometim industri cold place one self",neutral
+"fr think comeback get hate magnet huge give peopl excus call flop one doesnt somehow perform better ridicul alreadi monster rooki discours around comeback alreadi prove theyr someth right imo hater love target girlswomen success there need constantli write think piec dont like one song goe complain dont like recent comeback aespa jenni etc dont listen actual easi avoid music dont like",neutral
+"aespa fail song year omg hit back back omd rose get pak want song get pak",positive
+"anna put high heel danc till morn aespa strick",positive
+"third time ningn left group activ first time kinda understand record china im mistaken second third time liker dont even know solo schedul sick dont even tri accomod around gisel style kinda complic hair aespa alway seem abl choos hairstyl special music show gisel alreadi talk prefer loos straight hair sometim wavi hair cloth wise rememb hideou outfit drama promot simpler one compar member supernova far whiplash think get good outfit saw peopl complain cargo outfit baggi compar member think realli suit pretti didnt care tldr complain ningn schedul valid complain gisel style sometim valid sometim prefer",neutral
+"wait like say derogatori stuff popular group like nct skzaespa like true say made fun skz member height smth",neutral
+"mean know sme group like switch concept sound understand practic differ thing feel like key point aespa chang fast furiou soundtrack aespa said lsm watch movi heard soundtrack thought that probabl inspir creat lore sme univers episod hold unfortun said multipl time practic next level differ demo think winter even said tri sing song",neutral
+"btob changsub album specif titl track seventeen eye heon soo halo purpl kiss bike light way sole tonight cnblue person color aespa whiplash flower kiss life rem igloo itzi imaginari friend",neutral
+"honestli pretti much aespa output good element non song feel finish",negative
+"stream stat octob top song steadi nct wish nct wish minut nct wish supercut nct wish ill like illit mantra jenni whiplash aespa igloo kiss life iykyk illit moonstruck enhypen top artist nct wish enhypen nct dream kiss life aespa",neutral
+"glad aespa back post pinterest lol",positive
+"ningn",neutral
+"twice itzi brought kpop origin first group stan learn kpop landscap found aespa red velvet like music voic better twice itzi put sever comeback row meh chaeyoung wardrob snafu cherri top unstan watch withwtf go long time nmixx final pull sonardash red velvet aespa nmixx top three",positive
+"realiti situat must miss memo suddenli becam allknow psychic insid knowledg everi littl detail live aespa best friend confid talk fanbas want hard take serious your make wild assumpt idol youv never met known mayb time step outsid get fresh air",neutral
+"wow didnt think aespa would low",negative
+"dont top favourit group red velvet aespa nmixx big compani smaller compani consist deliv better qualiti across board your observ strictli base exposur big compani give group much fan prefer group know market promot year ive kpop ive seen time stan get big group end ult midsmal compani one",neutral
+"aespa one ult lol got drama era lot fav flower suprem never heard b side good aespa",positive
+"probabl least favorit aespa titl track past two year infinit relisten",negative
+"hi post remov reason follow titl guidelin submit full list titl guidelin new releas teaser content type titl format exampl album teaser yymmdd artist miniful album titl teaser type member aespa rd mini album world strang phenomenon teaser imag karina winter album teaser yymmdd artist miniful album titl teaser type member aespa th mini album drama schedul titl track teaser yymmdd artist titl teaser type aespa better thing mv teaser titl track teaser yymmdd artist titl teaser type aespa spici concept photo misc teaser yymmdd artist titl teaser type member aespa season greet teaser imag misc teaser yymmdd artist titl teaser type member aespa aespa fan meet drama teaser video karina winter singl follow format titl track social media content type titl format exampl sn group yymmdd aespa platform updat caption aespa instagram updat karina sn group yymmdd aespa platform updat member caption aespa tiktok updat karina gisel sn individu yymmdd member platform updat caption ningn instagram updat sn individu yymmdd member platform updat member caption winter wevers updat karina sn nongroup yymmdd handl platform updat member caption red velvet twitter updat aespa sn nongroup yymmdd handl platform updat member caption itzi ryujin instagram stori updat karina danc challeng group yymmdd aespa platform updat member caption group member aespa tiktok updat gisel imthedrama yeji itzi yeji danc challeng nongroup yymmdd handl platform updat member caption group member le sserafim tiktok updat winter boom boom boomwith aespa winter kim chaewon _caption requir instagram twitter post english caption major award event translat allow long make sense_ video content type titl format exampl mv yymmdd artist titl aespa drama danc practic yymmdd artist titl type aespa drama danc practic perform yymmdd artist song titl show aespa thirsti sb inkigayo live yymmdd member platform live ningn wevers live varieti aespa origin yymmdd artist titl winter trip done winter okinawa winter vlog varieti yymmdd artist show aespa weekli idol ep varieti teaser yymmdd artist show teaser aespa weekli idol ep preview brand content magazin appear content type titl format exampl commerci film yymmdd artist titl karina lott chilsung beer kloud krush brand ad yymmdd artist titl winter mamond magazin appear yymmdd artist titl addit info karina vogu korea octob issu misc content type titl format exampl stage perform pictur yymmdd artist song titl perform date show stage pic aespa drama show champion stage pic newsinfo yymmdd articl titl sm confirm aespa make comeback may post date follow korean standard time regardless locat aespa offici styliz lowercas form style use offici content remov",neutral
+"def ningn",neutral
+"know back particip aespa hate train fair point finger fandom group werent even debut time",neutral
+"aespa doesnt get straight hate comment unlik fandom pretti much accept blame world problem my ive seen slightli shadi comment bring plagiar alleg due lyric went viral day ago im content reddit final feel less neutral toward girl bp get vile comment like actual vile comment reddit someon felt jobless enough even creat snark sub dont think apt mantra prais last long time cant even describ shit nj get liter paragraph written psychoanalyz girl claim theyr sociopath redditor behav like flatearth steroid come girl sad",neutral
+"cant deni like apt among song releas month aespa compet bp alreadi great achiev like ningx said dont focu much chart enjoy music inde mani multistan well fed month",neutral
+"aespa tiktok",neutral
+"someon got back kpop year listen follow current girl group strong bia choos song poll id say listen le sserafim aespa",positive
+"octob alon heavi hitter releas itzi illit aespa bp solo etc time upcom month also arent slow either group still schedul releas like misamo xg babymonst rose full album rumour jisoo comeback fan music specif group isnt say name list arent favorit love get hard keep haha",neutral
+"gisel era bop runway bop mv goe crazi wow catchi hell wow stuck head whole month rest year aespa",positive
+"damn im shock low aespa",negative
+"everi big compani accus someth point time repeatedli aespa accus copi bp never singl live rv critiqu like bp twice yeri hate routin year itzi gotten hate sinc gen group debut liter anyth everyth hybe use sparkl gem industri peopl swore would becom big instead big part come bigger peopl target",neutral
+"ahahahah love manag insert fave everywher lol someon said hybe respons hate train aespa suffer debut friend work digit market monitor everi singl comment made onlin peopl discov market beauti lol",neutral
+"aespa lsrfm nwjn",neutral
+"think definit aespa nmixx option crush year",neutral
+"twice x aespa challeng repeat twice x aespa challeng sick see combo",positive
+"bit like one parti consent come record sk visibl part convers question publish court media would also touch ownership basic court would need establish one parti consent record also grip written commun b public interest specif messag would take long time dont think anybodi want touch kkt right would get involv b given aespa thing didnt come chanc seen interconglomer bulli build case around right nowsorryfight nj ceo issu anyth wouldnt see specif messag public interest note hybe messag still consid leak given see record pr person correct fals report whistleblow alway rule yee mhee someth hybe didnt hold presser messag furthermor b establish vp either use work comput commun via kkt use work comput sent kkt archiv third parti either way stuff work comput therefor like moment properti hybe dear reader havent read data privaci polici employe compani mayb would good time get popcorn readi shooketh compar even hybe publish fair also understood messag ambigu court that thing believ want btss idol copi morn stretch danc routin doesnt mean real court doesnt care believ",neutral
+"bia ningn look super cute camo fit cant take",positive
+"welcom world aespa igloo kiol cooki new jean find stayc thing stayc trick trick aespa sour grape le sserafim stayc lucid dream aespa icon aespa",neutral
+"wish would shown camo fit caus favorit still great jacket behind looksaespa ate",neutral
+"one stylish high fashionperfum ad kpop video ive ever seen present whiplash new fragranc aespa",positive
+"itzi copi aespa caus four member era ah ye lia went hiatu ape aespa patent member concept seem legit",neutral
+"pretti welllik reddit signific part fanbas asia especi china arent mention often peer anoth factor debut sort inbetween two biggest girl group cluster debut closer time blackpink aespa ivel sserafimnewjean realli associ blackpinktwic velvet technic th gen feel like arent realli group much younger recordbreak th gen girl group either left lot convers",neutral
+"exactli aespa xg charli xcx grime doja kim petra mv visual remind ine anoth hyperpop cyberpunk techno aesthet idea concept overlap",neutral
+"supernova aespa million replay kinda never want hear song",negative
+"tought choreo bore simpl lame saw mv wa like make sens caus song feel like runway pose kind song thank present mind chang love choreo suit song well special winter first vers ningn first last part still need see choreographi vid releas earlier today",positive
+"dunno point stand billli releas lost octob aespa releas whiplash octob show music core last night",neutral
+"winter ningn absolut kill releas photo card base photo need",positive
+"sm shouldv gave aespa better titl success supernova seem like theyr tri copi formula whiplash fall flat one worst releas next girl",negative
+"dreamlik izon lovin shine ive star loona burn bridg lsrfm payback ive icu aespa love like viviz back citi keper rewind fromis_",neutral
+"youtub top artist ateez top listen stray kid txt seventeen onf top track alpha boy stori liar bu killin pharmoni geekin younit fxx one pact im shock top artist top track dont coincid minut total",neutral
+"rec peopl miss ateez older sound go vibe instead similar song world sound psycho jun pandora mave villain kda supercalifragilist xiker silent night dreamcatch mayb fit treasur idk kinda similar horizon hold tight aespa dark side muse like song go explor synthwav cyberpunk genr sharp object sorn peopl might find mid love one god newjean treasur sound outro cross line vibe mysteri creepi distinctli en might still like etern txt side effect skz sweet juic purpl kiss everybodi got secret billli never vain luci lion gidl futakoita faki idk mayb sound like ateez mayb doesnt kind remind still fever sound rumor billli realli idea fit kinda emot lyric talk struggl childhood ill put vocaloid btw absent school kikuo mixtap skz rhythm ta ikon",neutral
+"agre iomt lyric lot especi choru great although nice compar rest album feel like weakest song instrument great though way perform also great actual disagre rest album dont think cold iomt feel cold rest song dont give vibe biggest problem album iomt doesnt repres rest album well probabl shouldv gh pt im sure would one song titl track rest album seem like need titl track much style iomt rather like incept deja vu perform desir recent song like also wouldv amaz vibe titl track album isnt mv san shirtless miss someth know he show bodi lot live performancesfestivalsphotoshoot sinc around time last year seem fine think alway he one comfort seonghwa also reveal outfit tourfestiv lesser extent level he comfort im assum gener unpopular opinionim sure unpopular opinion critiqu wish san would find balanc perform live sing choreograph song know he main dancer he also lead vocalist one member sing live least thing pretti notic concert especi wooyoung live unpopular opinion think shouldv promot song besid empti box work kind get alsoth fact still dont perform song sad even gmf whole concert length set list opportun",negative
+"ff amex still recov ateez london januari",positive
+"person dont think theyr perform song gh live concert theyv perform concert korea that happen halazia set list didnt chang eu leg even though wit adjust perform halazia anchor encor concert dont think gmf wouldv right stage blind either ateez stage usual huge product layout gmf seem pretti simpl comparison san mention live earlier camera work kgma yesterday wasnt abl properli captur danc break sound like logist realli import",neutral
+"think valid take comfort fact ateez said realli enjoy album excit come realli super straightforward exampl recent txt hueningkai said current titl track moon first one he like sinc loserlov comeback sinc loserlov came august guess count two english collab last year werent full comeback doesnt mean everyth sinc bad even though theyv experi even member felt havent definit pander especi two collab half englishenglish version song experi popular style member like unfortun realiti need succeed sometim mean give popular trend think ateez theyr tri balanc tri new thing want tri make titl track gener success gain wider audienc also tri balanc thing whatev concept specif era",neutral
+"make much sens san perform definit one thing suck unsustain long run take lot control perform find right balanc allow surviv tour promot high level take toll bodi eventu someon tricki knee said issu actual realli enjoy laidback choreo theyr talent exud charisma babi atini im enjoy last tt fun anoth comment said anyth sound like halazia guerilla soul",positive
+"sourc",neutral
+"ye thought weather id hate cancel rain hope anoth venu spend money arrang go id hate rain help pretti much expect ive concert one kpop dreamcatch last year way differ skz ateez unfortun miss price ateez expect skz badi might straight price anyway mayb venu wont make much differ end",neutral
+"might singlehandedli convinc get tiktok account caus im die see especi hwa open panic attack feel poor man particular algorithm bad complet agre that one favorit hongjoong quot watch woo yunho crack matz mani time drunk vid ty also im glad fortun enough see tour incred stage dont think ill ever see anyth like went time would gone everi week year possibl",positive
+"ultim bia hongjoong main bia line yunho mingi prioriti hj come pc sign album wouldnt call bia wrecker ill call second bia line seonghwa wooyoung yeosang san jongho usual say im ot rather explain though lol favorit song dune world ep outlaw love whole album actual sever favorit throughout discographi recent favorit matz blind empti box man fire enough royal",neutral
+"wooyoung",neutral
+"id say cult forev chang perspect men neg way see ateez group like sibl rais differ kind cult mayb highdemand highcontrol patriarch system watch work way publicli grant escap cult feel like see gener system patriarch control everywher case sympathet ateez best behav correctli system still buck trend reach outsid help kq men concern good year deconstruct devot separ tangl line patriarch control head life easi went stage grief multipl time support system separ complet famili origin safe feel free dm instead",neutral
+"ice teeth lyric",neutral
+"longest time better ateez favorit song origin japanes track end korean version later well still prefer origin",neutral
+"kpop becom weird anim peopl invest much someth affect person someth chang dont know handl musician dancer artist artist creat evolv flow express experi differ thing person influenc spirit someon choos invest lot time hundr thousand dollar group see theyll feel littl disconnect dont like titl track wonder peopl devot yet hostil get person want everi time least give comeback decid move away least listen rest album lol mayb theyr impati perform act fan belong group peopl theyv turn entir ident actual music perform happen latch onto group instead group feel cant thing like edit fanart stream make outfit make fan merch obsess photocard etc didnt like main track mv dont know enjoy comeback without thing enjoy rest album never album realli event mean give live guess sure peopl enjoy differ reason im guess one trip iomt like havent seen singl bad word iomt though thread realli surpris hear iomt actual goe hard heavi way instead fast way sure might like ateez liter tell us theyr tri someth new album dont know anyon shock doesnt hit first listen also said tri someth new last album cuz that kinda ateez whole thing peopl got lucki like last sever comeback guess dont open enough mind accept art ateez offer tri explor group let digest rather glut spit without even tast",positive
+"hi op post remov type content suit weekli tavern kind casual chitchat discussionflair question elicit longer discours dont one specif answer pleas let us know question regard altern also check explan content guidelin",neutral
+"except last four album dont sound like first album think main issu origin fandom along feel way drew ateez wherea peopl found ateez explod last two year know new sound better dont nostalgia would wrong peopl spam ask redo album go back arent even put comment social fandom space respect discours",neutral
+"second final episod salari lupin led full time fan start wooyoung bia drunkteez episod medic one great get know love charact slip littl episod",positive
+"shockingli guess almost everi singl soundvib base segment highlight reel im glad say due well know wasnt let ok mayb littl bc ill alway hope top outlaw lol rate tent im still process hadnt heard highlight medley longggg time im gonna start listen decent accur tent final feel also alway listen album watch mv went titl track total blind besid highlight reel man fire song base track list although waver im back top pick vibe right littl drama need deliv enough im super glad san chose sing like babi version turbul ice teeth tast tyga string mingi part cultur insan mv also look fine deep dive favorit highlight medley expect part intro deeper duneesqu choru surpris littl disappoint ran back actual choru good either way though selfish waltz synthpop usual favorit depend execut im surpris far amaz song especi end definit anywher near favorit album wow im feel left everyon except super love alreadi scene valu expect lot higher cuz usual rank interludesintrosoutro super high vibe sinc everyth els spectacular drop rank lot album rate would say",positive
+"ye love softer song show vocal prowess much well especi fact theyr lengthi fell ateez primarili vocal listen song make feel elat",positive
+"random one mine ateez rhythm ta cover kingdom ateez wonderland second weekend coachella wish releas festiv footag releas guerrilla perform fancam ateez firework im one radio perform cute fun shine excus miss perform one best perform ive ever seen like shine perform even song listen much love perform much shine evil think cool perform shine hitchhik tokyo dome favorit vocal end shine tell radio perform fun taemin kgma especi guilti around minut vocal jonghyun perform juliettecrazi guilti pleasur sketchbook also vocal love version juliett txt thursday child far go lollapalooza joy epic btss mma perform minut long favorit part start around minut solo perform dionysu bonu full group soloist fancam basic fancam seonghwa solo scene toward light tour everi singl perform differ crazi magic girl cover fancam san seonghwa yunho differ energi make perform tbh seonghwa halazia fancam one favorit time jungkook mma dionysu fancam probabl one first individu member fancam ever watch get kpop realli enjoy",neutral
+"gotta admit wasnt vibe ice teeth first probabl caus expect go hard song seem much laidback usual put gave second chanc listen day earphon time ohmygod drippi whole album feel pretti ici somewhat hiphop influenc freakin love ateez yet ateez switch experi sound heck even scene valu sound hella cool godfatheresqu noirlik dont listen rose much feel enough give rose vibe lil bit post malon make sens dont even get start man fireimma need busi day recov sexi ahem im glad ateez took risk one fun whatev want add much colour discographi",positive
+"thank first time get skz ticket wasnt sure ateez seventeen fan club presal",neutral
+"bless sign hongjoong diari version trade kid dont beat ateez",neutral
+"think go ateez gidl bibi kard probabl stray kid mayb order realli cant predict song well see",neutral
+"sourc",neutral
+"robot arm feel like apocalyps hit ateez octopu arm",neutral
+"sourc",neutral
+"thank share miss ateez due work tri go stray kid hope get vip least one na citi",neutral
+"uwegooverthehorizon said correct indic atini fan meet concept photo hokey rink",neutral
+"wt ateez europ tour lyon atini vip xlyon atini vip euro bought seperatli proof paypal gs ebay link ebayusmeighc",neutral
+"moatini made realli happi funni chemistri",positive
+"sourc",neutral
+"peopl dont like wooyoung go find problem whatev doessay matter san akga especi issu liter smallest nonsens thing ever alreadi hate think joke appear weird person dont like wish theyd stop well wont worri much grown peopl could simpli talk like hey pleas stop joke look even ridicul peopl get upset behalf san known member doesnt shi away call fan address bad fan behavior head peopl dont think friend bandmat also person find men tend kind mean joke even dont like joke theyv made whatev lol idk tbh wish peopl gener would stop infantil san parent bc ive notic mention comment idk think know wooyoung well enough point entir view rock bc made coupl joke even dont like also sorri sound harsh english isnt first languag struggl get across tone right sometim",neutral
+"thank one agreeabl opinion see ateez artist creativ artist u experi put new sound realli dishearten see peopl like experimentalcr side whole album amaz love differ sound artist",positive
+"theyr realli come atini saniti comeback",positive
+"agre much im actual glad differ sound still signatur ateez sound also album got hear everyon differ tone feel also yeosang bia felt heard alway plu enough also least favourit track haha interest see everyon love much",positive
+"know ateez first perform ever saw coachella onlin intro vcr glass atini twitter explain meaningimport",neutral
+"fun see wooyoung element hope discov audiobook stephen fri",neutral
+"ateez work demon yeah know that actual group song name",neutral
+"weve major produc shift think gone well leez departur edenari one along album work outsid produc base id heard nonedenari folk theyd brought sort expect got album seem like ollound also leav edenari seem like old anthem ateez go around",neutral
+"episod absolut must watch episod ateez get drunk",neutral
+"saw tweet mani peopl quot piss eden one leav instead im genuin start wonder peopl actual like ateez music would want get rid huge part sound idec person level anyth despit critic edenari whole respect produc peopl make fandom look immatur hell embarrass point",neutral
+"sourc",neutral
+"unspoken storylin work gold iomt diamond ateez prepar launch jewelri line univers that that next connect thread jewelri mayb also crime mostli jewelri",neutral
+"sourc",neutral
+"atini stream pow clear skin",neutral
+"ive definit felt especi atini friend feel like im far behind even though ive atini sinc like dont time consum everi singl piec media know love appreci feel real genuin atini love ateez supplement life know guy group stan would want love focu first think hongjoong rest guy would appreci hard work music reson much becam atini",neutral
+"wasnt one saw similar eden danc moonlight ateez selfish waltz synthi vibe im say louder everyon hear ateez ateez",positive
+"second ive realli got love girl person get see work togeth team got good amount differ varieti content behind scene stuff particularli like first season sinc show prepar debut",positive
+"kinda agre start appreci heya lot see fun live perform",positive
+"yujin lot racecar theme solo shot mayb someth relat bold presenc fast pace industri think rei gaeul liz might rebel express individu rei uniqu style stand bustl citi scene could relat show color person foreign idol liz surround soft comfort blanket anim think could show journey extrem shi debut kindheart confid artist see today gaeul im sure mayb uniqu item featur scene show versatil idea feel free debat",neutral
+"even know annyeongz still close unni im one peopl accus wonyoung stupid thing clearli introvert homebodi celebr crumb interact offcamera nontv starship clearli still instruct",neutral
+"perspect prior ive debut starship lose money even yoo jaesuk talk super stress ceo starship look whenev ran gym preiv starship revenu liter doubl first year ive debut turn compani profit necessarili starship anyth particular special ive starship one abil go abil get qualiti song group far compani size abl get swing way weight class term well construct ive member paid far better anyon expect tbh dive starship realli luck success ive hesit give margin credit starship ive success brought good song everyth els ive member talent effort splash good luck craviti nonbig boy group liter debut absolut nadir boy group dark age opinion still kinda complet screw produc seri controversi fantast credit overcom catastroph natur disast success wjsn unfortun starship construct group around center go temporari best starship paid poor plan group go anywher said center left least starship seem tri right wjsn member support nd phase career w act produc songwrit etc",neutral
+"sourc link",neutral
+"keep replay wonyoung holssi loop love chill deep vocal n never got tire em kind song realli suit im afraid long ryan jhun keep produc song never get wonyoung",positive
+"ive say fuck starship sinc doesnt chang",neutral
+"good seem win one long time",positive
+"last time mention dream collab without hope hell could happen ive x david guetta im gonna go anoth one lsf x britney spear unit even festiv stage collab rapasa x rei dancekoko x iroha vocalliz x iu varietyyujin x haewon",neutral
+"blackpink jennielisa theyr pretti popular imo differ isnt major skz probabl felix think dispar pretti big bt jungkookvjimin dispar big ive wonyoungyujin dispar big kiss life nattyjuli im honestli sure think popular member somewhat popular huge gap like mayb medium lol",neutral
+"could th gen hybe slowli die th gen group debut attent given nowday ive use digit monster alongsid nj nowaday chart stagnat overal kchart losin audienc spotifi th gen gg chart le sserafim aespa number nowaday",neutral
+"thx",neutral
+"ive vote team x",neutral
+"bit repetit still pretti good fav ive track continu releas banger",positive
+"total lol",neutral
+"ok got saw song top chart still rise kind confus one question feel like rememb peopl say ul melon group true confus someth els",neutral
+"",neutral
+"even twitter main kpop sub seem posit sub dont know peopl want anymor",neutral
+"wonyoung wed dress hous fire back fuck shot song alway tast mean im obsess like enough put playlist",positive
+"im exactli sure point respons doesnt realli anyth said minu first sentenc alreadi state intent matter workplac screw bad",neutral
+"post link caption move",neutral
+"good life motto well guess ill play along let see take",neutral
+"dont love fan",neutral
+"post link caption",neutral
+"sourc link",neutral
+"know im gaeul bia extra pain",negative
+"might help know group youv look think th gen girl group im familiar gidl ive nmixx le sserafim stayc aespa full member look differ uniqu person come varieti show star like haewon yujin yoon etc exhaust list name establish persona two group anyth like one anoth anyway cant realli empath your say",neutral
+"look forward watch woni chef fridg reach netflix see countri probabl come februari",positive
+"illit ticktack kiss life noth itzi blossom nmixx boom kiss life igloo keper flower flutter heart kiss life te quiero enhypen teeth keper curiou zerobaseon insomnia dreamcatch ring gidl bloom keper dear diari gidl fate kiss life mani alex ive blue heart nmixx beat beat everglow back luv stray kid mountain oh girl start yuta prison itzi yet xiker supercalifragilist txt kitto zutto boynextdoor honor mention nct pricey pharmoni countdown love twice get enhypen crimin love purpl kiss heart attack stray kid twilight",neutral
+"yuta bad euphoria yuta goodby yuta last song yuta prison artm butterfli effect dreamcatch stomp qwer run run run billli dream diari etch mmoir midnight rveri le sserafim hot n fun dreamcatch ring xdinari hero moneybal le sserafim chase lightn nmixx run rose loosembl confess cotton candi yuta butterfli depth ver qwer soda xdinari hero money mind everglow colourz qwer ferri wheel gidl fate nmixx boom zerobaseon solar power madein dadarida yve diorama ive blue heart hm ive ice queen keper doubl dreamcatch intro dreamcatch loossembl fanatisc loossembl secret diari yve diorama qwer let love tripl yuta save",neutral
+"look forward attitud track name alon",positive
+"congratz",positive
+"post link caption meow",neutral
+"miss lee hyunseo",positive
+"went back rap love",positive
+"cours hate industri prevent even solid vocalist sign live often would say aespa ive exampl suffer deliv solid live sometim arent allow alway idol",neutral
+"sorri mid",negative
+"everyon look beauti alway liz variou anim freak cute leeseo think bridg liz sound amaz think everyon sound vocal realli nice one cuff fav ive fun may becom addict listen ill find",positive
+"love ive concept alway slay",positive
+"ill honest talk like ive weki meki level popular west someon went sold arena show us definit still fan sure might huge le sserafim newjean even aespa differ big peopl think end day ive still sell album peer tour number pretti good like underperform peopl use think twice would never abl success west concept lack english speaker look ive year anniversari month ago know theyll two year",positive
+"harsh truth that way run busi sacrific relationship growth group good choreographi take song long way know girl capabl im hold hope second singl rumour hardest choreographi butit doesnt reflect arm movement walk circl",neutral
+"aespa live life kiss life back babymonst love heart ive blue heart nmixx love lone aespa anoth girl babymonst dream ive wow enhypen highway yuqi minni everytim itzi five babymonst like iu stan u riiz love purpl kiss heart attack",neutral
+"im nyc im plan go see pari would first time europ",positive
+"readi sacrific firstborn get leeseo yt guest like pleas get talk show format sole attent realli feel dont know much person kill year let place starship",positive
+"gaeul look absolut stun mv",positive
+"best style yet least top",positive
+"think leader face group dont usual correl ex wonyoung face ive leader yujin",neutral
+"love live vocalswer turn loud stage realli cant live without ive",positive
+"song throwback",neutral
+"hot candi cover nct dream",neutral
+"ill also say im grown probabl still favorit album dilig stream week ive come quit like danc crew decid cover songchoreo ive stream time probabl wouldv otherwis realli done thing quit enjoy origin complaint lack music interest part think postchoru rap bridg grown ye bias haechan bia legitim wouldv gone fli kiss best",positive
+"box nct dream",neutral
+"transit youheavenlynight poem top tier dont think ive ever tran like first heard trio come wall take danc floor absolut love album album partli respons keep aliv oh dreamscap theyll never make hate",positive
+"dont understand slander jeno jaemin jisung person think dream solo potenti still think still talent got dream knew mark exposur multipl team awar jeno differ nct u smtown collab he hard imagin dream member solo asid mark haechan moment doesnt mean wont chang genuin think everyon els need time develop find style think jisung talent year experi could solo want voic impress th album love chenl voic well he alway great could see promo china mayb even korea depend sm promot hard disagre tripl js smaller vocal rang think jisung even jeno sing well havent given enough opportun usual take rap line dream song",neutral
+"okay didnt realiz bad busi enjoy album see haechan bubbleand apolog shortcom talk lot compani member better manag even felt bad album understand album promot rollout real tight given schedul awar tour schedul sinc begin year upset couldnt korea comeback live press confer fault im sure sm knew riski probabl best could schedul given mark haechan schedul feel realli tri best given time constraint dont like entitl kfan understand larg dream could come back togeth member deserv hate work hard prep album past year particip product everyth dream deserv much im tire see group drag hurt alreadi hard stay togeth team member feel like done isnt enough theyr lack drop amaz th full album well put togeth theyr even back home begin promot yet let wrap europ tour liter fault complain isnt go chang fact what alreadi done im tire fan entitl without think consequ word dream go feel like didnt enough apolog someth liter fault readi let go selfish greed dream well chart given album rollout promo omg im go stream like crazi tire boy abl catch break jesu fuck christ",positive
+"think got pit ticket see wonder girl pm less make sad think im done kpop concert price got front row seat sang concert band grew listen paid see anyth pit nct dream",negative
+"due releas day dreamscap nct dream mine night poem",neutral
+"friend atini well stay text releas stress nct dream came back well she mark fan still yet get giant dicon chan changbin man drop money itzi aespa back octob bought chan dicon recent got well least fed great music last month new year",neutral
+"nct dream wouldv debut dang",neutral
+"engen might downvot think first vote lead second engen definit start get way toococki think secur engen alway habit blame fandom lose someth honestli mostli vote happen recent nct dream blame music show loss fraudul sale happen dreamcatch show champion prevot insomnia ask fandom help vote happen jimin",neutral
+"get wors keep call dreamscap dreamscap instead dreamescap take regist",neutral
+"nct dream mark mark superm mark soloist mark join tho",neutral
+"someth forgot add post dont problem fan call misinform defend idol situat theyv unfairli drag one come mind group like exo nct dream accus bulli anoth group zero evid suggest ever happen take issu fan creat problem frame peopl respond instig",neutral
+"lucki get day seem like realli golden ticket day lucki day right blackredwhit outfit cute idea great get meet friend concert sit near guy meet later eat wish friend share experi lol hope much fun that cool there foreign nctzen live korea chat",neutral
+"nct fact nct two regular boy group origin crop ten one babyshinkidream anoth feel like hurt nct dream bc feel like theyr place ident wise lack focu year also ten debut taeyong group togeth whole damn time svt post hybe svt actual like music hot bang god music fit right freshteen catalogu still feel wors pre hybe discographi love money fame particular wasblech first time felt like svt sound truli neuter fit tiktok sludg mold soshi mani korean bside kind ass hit though shine shine r perfect note jk thought solo year mid hope taemin particular cours correct he gotten use new compani",neutral
+"nct dream",neutral
+"istj sure everyth choreo haechan shine song renjun moonwalk breakdown perfect",neutral
+"yeah jeno sentiment similar mark mark full send like leader mode like ye that dream leader fuck apolog hard work yall put like peopl go talk shit everi right say honestli like yeah hasnt easi schedul yet still put music need idol speak put fan place bc get harass idol eat cake time fuck shit ye agre might canadian side mark leader side whatev proud speak respect feel bad haechan though seem like took heart messag hurt like know much work put team fact particip much album jeno made sad someon tell get mad often easili he calm gentl see turn knew bad bad im glad end messag posit said dream compani work hard tri best instead blame anyon wanna work hard like ye jeno fault",positive
+"imagin group debut like txt nct dream",neutral
+"comment jisung interest feel like he huge slept come solo potenti convers ye he shi he someth els entir perform voic develop lot last year give anoth year two chanc step coupl time feel like hed incred soloist even term appear varieti show there peopl find shyness charm might actual benefit sens dont think would take much peopl becom quit endear kind feel similar regard jeno though feel like vocal also kind underr especi hear tour recent album give fight chanc hed also pretti solid soloist tbh peopl dont like admit lot nctzen stuck idea dream member name mark haechan simpli cant soloist werent part grown unit perceiv infinit talent stuck idea theyr young stunt growth idol bias even put object head theyr much capabl even nctzen give credit",positive
+"smoothi nct dream caus theyr definit talk give head",neutral
+"bt fan big bang know haechan big taemin fanshawol",neutral
+"nah theyr depend pick itd mark haechan jeno",neutral
+"nct dream overwork sm esp haechan mark music qualiti went sinc candi imo major public interest manag yechan got recogn keeho brother cix bad manag jinyoung left contract end last august boyz manag uncertain futur left ist contract pow manag stayc expir music concept super rooki midterm th gen gg nmixx much mixxpop experiment lsf sing skill hate train sinc coachella nwjn hybe blackpink jenni hate train lisa crazi hors perform blink",negative
+"problem nct space tour would hard mark haechan two group know like yeah get point dont think itd work also correct im wrong wasnt dream vs dream usual shot mv set vagu rememb see mark jeno dream vs dream diggiti set",neutral
+"whoever member bubbl twitter pleas send love especi haechan jeno whoever go london concert pleas make best crowd im honestli realli speechless everyth couldnt write much realli dream shouldnt one apolog whole situat sm realli need manag tour comeback better tbh unsustain",neutral
+"nct haechan fanboy shine taemin haechan reason tri audit sment watch replay tv get see shi intern fanboy tri hard compos nct wish ryo also diehard fan doyoung he one true success fan abl interact group",neutral
+"id say overal idol realli solo potenti tbh nct dream honestli idk besid mark mayb haechan potenti get big soloist see actual want go solo mayb chenl would well ballad chines mayb ballad still focus chines market like lay reason see happen other idk realli see differ type solo gig like act photographi thing jaemin case music regard jline fulli agre comment mark lee group automat gravit attent term rap he good that part least challeng one mostli go hard evolv rapper arent realli given opportun well rap although must say even though jline isnt mark level rap skill theyr still improv got lot better comeback pleasantli surpris still get good memor part definit dont understand call talent jaemin memor beauti voic fav one among dreami actual realli good part great dancer good stage presenc jisung jeno",positive
+"dreami nct dream",neutral
+"nct dream would debut instead zb would debut march next year assum th birthday korean age major differ yujin wont legal adult korea januari",neutral
+"feel like cri discov dream dreamscap cant believ im album good represent nct dream sound like album cohes af dream sound top bottom liter skip intro quit someth emot yet techno bright time wimw chill choru actual work prechoru rap part make wrap perfectli fli kiss confid say unanim agre one coupl song hate fruit song fun escap song neo sound one love gritti sound outro wild song gonna good concert best synth sound prechoru remind someth weeknd song give old shine vibe im live yall wtf way song switch r u kid last minut song crazi jesu trip pretti heavenli everyon sound heavenli track voic sound like honey quintessenti dream sound song group choru tug heart rn love vocal layer track night poem ok point cant choos favorit bside wtf dream lol omg rap vocal line harmoni pleaas choru dreami jisung narrat end plz wall finish review unbias love ooh ahh fresh funki vibe way say wall dream code ofc rain heaven fit perfectli isnt dream album put idk initi fav ihatefruit heavenli im gonna go listen repeat cri",positive
+"year ive seen everglow ten onlyoneof nmixx stray kid billli wayv ace xg favourit concert wayv stray kid perform anoth level soooooo much fun would go see heartbeat concert miss ikon got cancel devast ive seen blew away also miss nct dream monetari reason also seen setlist didnt appeal much time enjoy neg mostli appli venu xg didnt like venu bad seat lessen experi littl bit would tri better seat come back also billli onlyoneof stand smaller venu dont like im short hate queu never good view",negative
+"wrote similar comment cant deal dare put song back back expect ascend heaven dreamscap album love dreami much hope good fellow nctzen alway got back",positive
+"unitzen especi dreamzen vs zen beef group mark haechan love babe theyr group fight",neutral
+"mark haechan",neutral
+"nct mainli soso nct dream releas th album great btw knetz hate fact werent korea releas made apolog remind much hatr knetz nct dream doyoung nct also releas brand new singl stori encod concert great love vocal music video excel bring releas count year solo song group song yuta nct also solo japanes debut long ago excel person favorit last song jaehyun comeback solo singl uncondit nct wish promot steadi still releas st full japanes album great incred overwork riku sit promot tour well favorit unit wayv wayv rd comeback year frequenc great bad part whole controversi yeonjun txt stan claim yangyang copi yeonjun ggum intens feel slime anyway overal pretti good guess",neutral
+"went concert year chill bit focus ult bia group saw nct dream night td im go encor next weekend svt follow incheon nonkpop also saw taylor swift tokyo group amaz part reason choos ult group live perform id seen knew theyd great energi high mic love setlist meet fan show fun miss live seoul technic everi group tour concert ticket didnt get iu also realli sick miss svt right tour look forward alreadi ticket smtown coldpay show twice open ive never seen twice love coldplay show tokyo im excit also predict td mayb right encor show hope anoth iu tour",positive
+"okay know though true ten nightwalk instant spooki season hit replay halloween taeyong moon tour soft sweet genuin love song doyoung begin stori insan beauti vocal power ive listen releas download song album fell nct dream last year think check releas year breath softest lilt swear despit dislik dreamscap titl hate fruit amaz wall funki heavenli liter heavenli anxieti escap subsum chord im like sound wayv hi five far nct isnt group subgroup im fan vibe ive enjoy much year even releas havent enjoy person like perfum wayv releas year love nct wish felt realli solid even though im listen love post op honestli pretti fun reflect absolut great year nct whole music",neutral
+"beatbox nct dream",neutral
+"wow lucki abl secur vip guess wont stay hotel abl book economi packag cancel still thank caus gener ticket thru melon aw go nd time go seoul probabl visit nct dream line pop seongsu mayb kwangyaseoul forest find mark bench think om free day",neutral
+"weird choic alway go back candi sinc first nct dream song instantli made stan hard becam top play song caus play time",neutral
+"day attend day get melon global packag melonnnn im resid korea solo friend come your comfort share technic solo meet friend anoth part korea seoul go wear concert im dress black red white theme match dreamscap who bia jisunggggg freebi heard offer ill probabl make extra album card first time korea noooo ive year anyway haha excit plan outsid concert particularli form group chat twitter kakao reddit etc open idea im alway gc foreign nctzen live korea alreadi",neutral
+"chinduck u thought u kpoophead decid treat icon kpoophead phrase uj im listen nct dream new album rn would last first day nct novemb",neutral
+"everybodi buzz smoothi promot concept solid snippet video everyth didnt cb drop pic call day fan right mad call sm could push aftermath escap mini album scenario sinc album happier vibe previou one dont realli one sm drop one album full dreamvib core nct dream fan like grant everybodi cup tea dream never favorit softer vibe id like clear eventhough entitl kfan jump dream lot kfan speak im get tire knet vs intl fan discours kfan evil entitl minor fan anti end louder actual fan scenario",positive
+"funni tho caus hate ass bitch made fuss migrat stan wiish lmao riiz lost lot sheen korea idk sm focus keep relev know kfan fickl what proof everi singl ot left wish wish dont seem sell riiz chart better what base ive also heard peopl say nct dream kfan left wish far nct dream sell much usual dislik way seunghan situat handl act like riiz lost fickl kfanbas base tweet ridicul need wait comeback actual gaug demograph fandom",neutral
+"skz danceracha solo stan especi hyunjin felix toxic solo stan hate member hyunjin solo stan anoth level come say horribl thing member say thing like hyunjin dont get promot liter member featur magazin year member skz havent even gotten chanc solo magazin brand ambassador versac cartier member like han havent even attend solo fashion show expect hyunjin felix havent becam solo brand ambassador brand popular member alongsid felix get much screentim alway get danc break center also alway get main part like choru part outro song still alot hyunjin fan alway cri get proper promot realiti member alongsid felix get promot toxic weird ship war especi weird minsung shipper hate seungmin lee know ship popular korea japan minsung nct think hate goe fandom differ subunit especi nct stan vs nct dream stan nct stan problem mark haechan part nct dream nct dream stan say mark haechan perform nct time nct dream perform ot event attend expect world tour solo stan well especi solo stan popular member vs undera member like stan member get line screentim like taeyong jaehyun mark vs stan member get least line like alot johnni yuta stan get upset get proper line think everyon satisfi song walk johnni yuta got line song ive basic wonyoung yujin stan vs rest member stan obviou favourit toward wonyoung yujin member stan get upset bia get equal treatment two member group",neutral
+"realli love futur perfect bless curs loser lover aurora didnt like futur perfect first bc concept seem bit mismatch hybe boy group isnt bt especi enhypen grew enjoy ive alway bless curs enjoy think loser lover got critiqu bc peopl saw similar lovesong case okay tend like skz later titl track much stuff",neutral
+"hey post felix page want see felix page",neutral
+"kinda get kid didnt talk much hard time although far rememb hyunjin talk levant one live shoot lmb nyc latest vid talk lmb perform kinda similar levant that",neutral
+"alright got entir screw presal link never got sent sydney get link separ time possibl get soundcheck ticket hope get soundcheck ticket tomorrow releas resal site later know noth stray kid realli want make happen wife t_t",neutral
+"hyunjin lee know choru kill also emo hyunjin second look",positive
+"sourc caption skzbehind becom attract eat open sandwich",neutral
+"ahhh insan fave last photo first photo han lee know guitar pic pic hyunjin guitar remind famou versac parti pic",positive
+"hi submiss rstraykid manual remov follow reason collect relat content identif photocard signatur album etc showcas photocard album collect offici poster showcas collect art kind collag scrapbook etc ask photocard ticket price content regard collect merch type post fall rule fluff content best suit rskzcollect weekli stay discuss thread pin top rstraykid read submiss guidelin question submiss guidelin post remov feel free send moder mod mailmessagecomposetofrfstraykid",neutral
+"yup alway harder chart dont know talk kpop stan im also wonder bg hardli chart sinc realli good number spotifi exampl chk chk boom spotifi like top",neutral
+"rock star star oddinari favourit overal album although top favourit skz song album mention show simpli cannot satisfi us everi album",neutral
+"idea havent seen movi yet pack crosscountri move reddit stray kid relax min distract cat accumul much stuff anyway ill watch point get back list list long sigh goal corvu need go watch new dp movi ye ok apolog appear adhd med wear",neutral
+"han second pic make face see hyunjin first pic",neutral
+"starset ateez stray kid dont realli spot guess ill go linkin park ne",neutral
+"rank song mountain jjam remix honestli love song headbang remix actual slap harder ccb first listen runner ccb realli grew actual didnt like ccb much song first realli start vibe love reggaeton beat like grow honeslti bop twilight stray kid theyr bad prefer fastnoisi skz song gener",positive
+"person prefer bside think titl track make sens build toplin discographi skz member seem agre god menu found ident respect move forward want defin selfproduc choic seem express look forward see come postcontract renew see becom experiment commerci safe navig group ident littl freedom individu ident form",neutral
+"dont think aveeno sponsor allow show unaffili brand hyunjin felix what bag interview show brand werent affili that what bag video work",neutral
+"actual quit funni stori begin found kpop extrem cringeik apolog mainli cuz kpop fan around type obsess member judg everyon like throughout time start discov new thing kpop think first kpop song beauti day myday got introduc skz wont believ hannah bahng actual found channi hannah brother iron lmao listen song perfect blue oleand found old q n video chan mention know lead im stay im happi listen music person realli love han songwritingthey help lot mental unstabl scenario make laugh inspir much wish chanc meet broke ye say thank cuz realli save lifenot joke student suffer lot help hope continu stay long possibl btw guy pleas tell bias comment mine hanni bangchan biaswreck oki bye guyss sorri long paragraph",positive
+"stray kid itzi specif hwang duo debut would amaz doubt that gonna happen xd either way think theyd stun solo debut lee know yuna mayb ryujin could act debut",neutral
+"honestli im even properli stream lol ive enjoy album much keep rotat chk chk boom heatwav version far best remix lol festiv version mountain like song good resist lol",positive
+"yeah thought skz log last year fav div rent place rest end fanmeet show bit dinner wasnt like skz code im guess film someth like milano that went extra earli itali",neutral
+"hi submiss rstraykid manual remov new content follow reason new content comment content less hour old allow weekli discuss thread redirect comment actual thread prevent weekli discuss thread overcrowd submiss either repost belong alreadi exist thread topic pleas search sub correct thread read submiss guidelin question submiss guidelin post remov feel free send moder mod mailmessagecomposetofrfstraykid",neutral
+"reddit search tri find marveldeadpool fan perspect dp soundtrack stumbl upon old think piec like year ago stray kid never go popular amus look back knowledg st post see come back main page made giggl",positive
+"absolut insan omg love everi bit much grown still skz feel trash talk well deserv confid brag perfect",positive
+"sourc twitter bang chan lee know changbin hyunjin han felix seungmin",neutral
+"boom boom chk chk boom",neutral
+"subkshop us base skzoo stock legitim retail batch magic school merch origin mini cm stuff know peopl want skzoo",neutral
+"finish stray kid",neutral
+"stay good hard work paid stray kid stay rockstar",positive
+"adlib chk chk boom heart specif amigo also seugmin bang chan adlib lmb",positive
+"full impress whole album follow gush chk chk boom biggest changbin moment ever ive alway thought incred im glad see know ccb song know alway racha usual song brainchild particular usual flow fire feel aliv ccb lazi raspi rap first vers would drive sane person feral cant speak second vers pur make borderlin unhing great time binni bia",positive
+"good love im jazz hell hip hop track signatur funki skz sound moodi interest skz love korean even went asian cover love design cover theyr forc western come halfway think brilliant bold move stay true alway fear got bigger theyd sell way faith ever changbin deliv yet seungmin sound gloriou moment shine instrument flawless realli dig diff sound mix even tho mani diff sound cohes god versachoi good esp love piano sound feel real pianokeyboard play rather use piano sound that that cool mayb chan play lol build choru sooo good love interest chord progress choic besid subtl slow build begin end realli add sooo much anoth thing versachoi good ah love biggest movi year theyr titl track feel unreal time deserv ryan realli took care new adopt kid",positive
+"awesom song came perfect time stray kid renew contract love lyric mention ate track repeat late amaz album",positive
+"talk wonho spring look great lighter hair realli short hairstyl pain haha like hyunjin grew though fortun",neutral
+"day onc leav stray kid alon day peac instead scream favourit payola fraud misogyni everi stray kid activ focu twice",neutral
+"btw today last day vote stray kid chk chk boom mcountdown prevot mnet plu app tie st place let push thru st place bigger gap",neutral
+"want feel good content like watch video skz time around kcon ny like music bank berlin fun",neutral
+"chk chk boom sooo good festiv version even better",positive
+"yeah stray kid song us stay make emot",positive
+"seem like boyz foresaw stray kid go dial back nois level comeback decid jump fill gap though sound smcode like nct superm track dont dislik itll probabl need coupl listen decid go grow probabl check rest album point",neutral
+"understand feel free correct im wrong acquisit also go complet acquir cube vt japan within third quarter integr restructur cosmet depart cube recent movement mostli chang articl talk month cube publish quarterli report might get detail cube get readi gidl renew alreadi btob renew cube th year month contract expir see group good renew tend month ahead actual expir like stray kid recent",neutral
+"rank far jjam runner chk chk boom mountain stray kid like chk chk boom festiv remix twilight ill rate album",neutral
+"id say favorit stray kid newjean le sserafim im particularli impress newjean stage good number backup dancer energi chart danc break also pretti nice like tri go someth differ",neutral
+"wait didnt insult skz ask question fandom insult jimin day row thought someth like yall defens dont problem skz congratul",neutral
+"much content come recent cant point specif interview but jeongin lee know talk come eat dinner togeth dorm hyunjin made comment stick also seungmin recent talk drive member vocal lesson member know vocal lesson minho jeongin seungmin felix also middl comeback probabl didnt dorm rearrang fli festiv prep comeback perform music show",neutral
+"id add stay engen well felix chan friend jake well hyunjin niki",neutral
+"think suppos plan hasnt start yet tomorrow think skz nd",neutral
+"txt ghost realli feel like one best song exist hahah pretti boy falsetto alway favorit part music skz god menu perfect song handcraft god bt butter know there probabl lot armi whod hate anyon say dynamit butter favorit bt song theyr undeni catchi there reason theyr two btss popular song",neutral
+"wont comment rank obvious matter tast howev stray kid includ ton song titl track ton mv bside album mv",neutral
+"person dont take serious sinc pretti obvious good fun exampl hyunjin like delulufe brutal reject fan found chan toxic boyfriend bubbl genuin hilari think fan fun play along lol",neutral
+"sourc caption chkchkboom",neutral
+"sure world collid like insan friend mention cleanest megan ever simultan raunchiest twice ever said im obsess song good wtf",positive
+"got nayeon jeongyeon haha",positive
+"tzuyu recent glow confid she mesmer",positive
+"mean last time got twice bside mv might main problem special present hand live clip releas without preannounc often enough",neutral
+"oh yeah didnt want come close member parent even live complex mean look nayeon momo vs idk jeongyeon dahyun there differ sens public display friendship interact camera look even perform camera even fansign casual event cannot perform forev time nayeon momo seem like deepli connect way that face like recent seen dinner togeth that stage know mean point dahyun that realli strang think consid she face group mean given bright extra person onc notic she quieter usual say she final",neutral
+"nayeon solo perform let gooooooo",positive
+"without noth wrong feel random suddenli rap ass doesnt fit twice vibe",negative
+"jype kpop compani compani pursu similar goal bound similar rule still doesnt discredit best choic twice especi consid go compani snsd taeyeon soloist tvxq prime even biggest industri treat slave contract career suicid tri get better deal somewher els even slightest compar twice get mani idol sinc left compani still good term jyp anyon actual read kg statement understand critic direct whole kpop industri often debat issu like misogyni overwork cultur korea imposs unrealist standard alon sub compani famili compani jyp might weird best compani current avail idol even go back sixteen get clear pictur jype within idol industri weight alway huge factor femal idol normal rip jihyo weight got constantli critic would deem fair game debut wasnt abl manag weight extens idol howev jyp brush priorit aspect skill charact jihyo fix posit twice right start greedi industri aspect debut children would definit make money could also debut somi clearli star even back consid age debut also mean deal aspect caus mental health issu sulli come mind somi would great addit twice debut delay older deal mani aspect idol life also recent heard jyp educ mandatori traine cant guarante everyth pan kid least theyll plan b lastli mental health mention mani time jype unheard get mental health break career basic cant deal idol pressur come overwork stay competit market unrealist expect place yet mina jeongyeon came back happier confid right twice jype activ push industri forward set exampl invest girl group push give good contract expand market oversea keep activ like indemand activ girl group understand wish industri would improv dont get punishingboycot two main player actual advoc better condit industri actual set industri backward",neutral
+"tbh need moorreee twice appear celebr show",positive
+"abcd nayeon strategi twice cosmic red velvet swan song le sserafim gpt stayc",neutral
+"that lyric grammar last consider behind mean lyric tone shape word syllabl stuff japanes lyric especi difficult your learn fit music sentenc split across sound like entir differ line often stand twice translat especi sound ear your use jpop song lyric written song rather translat cover fit certain mean certain rhythm also sometim particl get drop context clear enough need well eg alcoholfre rap noth ever stood wrong word awkwardli though im fluent got n read lot id like think know sound normal even couldnt write lol mayb nativ would differ opinion",neutral
+"ye peopl start receiv post pull behind spoiler tag first time order twiceshop normal speed term process order compar sign copi previou album inventori one lot thu lot order fulfil sign version step step still avail natur still bunch order pack ship twiceshop oper like amazon network fulfil center like get order even actual place order normal speed twiceshop add fact decemb holiday rush everi warehous order ship courier task pick stuff work beyond capac wait isnt fun excruci get get order soon enough",neutral
+"bp member ive seen commonli interact twice lisa ro like often twice member alway said interview schedul pack time interact friend outsid compani make new friend matter",neutral
+"chang everi month lol right jihyo",neutral
+"know nayeon donat twice ha donggang hospit patient cant otherwis afford surgeri st time anoth let know fund use initi want stay anonym patient want know made surgeri possibl reveal twice nayeon",neutral
+"there alreadi thread",neutral
+"sourc link",neutral
+"idk peopl make twice main charact issu like someth happen vcha main focu boycot twice direct link issu",neutral
+"solidifi desir full song get full album least full cover song voic realli balanc well think there lot charisma nayeon voic clear pop star voic make wanna listen think jeongyeon voic middl ground jihyo nayeon power jihyo voic sweet nayeon voic power boot jihyo cours twice vocal queen",positive
+"twice momo doubt main dancer term techniqu mina better jihyo sana latter stand stage presenc",neutral
+"twice offici content use lot mostli video subtitl also twitter post recent exampl",neutral
+"yessss nayeon fix smoothli satisfi watch tbh",positive
+"even us plethora master degre program exist complet via distanc learn even cours year even us reput school facilit onlin distanc master program includ columbia john hopkin harvard brown upenn rice cornel furthermor varieti colleg offer acceler distanc bachelor degre program consid tzuyu graduat high school hanlim muli art school back februari quit conceiv almost year sinc finish high school could complet undergradu master level studi said span time",neutral
+"shop cart coolest prop ive ever seen need review twice fave good chanc dethron level textur synth insan megan rap mad twice good get lost song structur minut second feel like noth compos strategi evid effect one thing id chang swap cowbel beat chaeyoung part end even get cowbel tune differ play beat id also cut clean voic nayeon end",positive
+"hate whoever thought that ill hear listen strategi sourc",neutral
+"sourc link",neutral
+"rm right place wrong person iu win twice youth plave asterum nct walk",neutral
+"jihyo",neutral
+"probabl overdefens onc annoy anyon question tzuyu degre credibl",neutral
+"oh god ive final wait day twice releas bass heavi album full english track oh man theyr total get readi world tour",positive
+"profan sure still nose obviou said id love see raunchier version twice feel like definit step direct bit lose lyric get floor make say sluttier twice needthat",positive
+"clumsi nayeon favorit nayeon",positive
+"chaeyoung reson deepli also she realli weird pretti like",positive
+"wish would titl track wouldv gotten like viral tiktok treatment vers give new jean bridg choru sooo twice love song",positive
+"tzuyu she ador she beauti she well spoken love voic love see come shell especi solo plu mesmer gaze gifgiphyjsmbutgpkjoyrbdr",positive
+"name",neutral
+"agre least part said offer anyth music talent like us rapper twice enjoy collab realli matter support twice matter",positive
+"im confus purpos releas anoth mv compet view one alreadi dont understand thing div twice fact almost never consid give bside video easili could basic wast opportun",neutral
+"op cosmic song warm heart give goosebump everi time even th relisten similar song snsd new world fx beauti goodby gfriend gusta tu twice feel special ne lone blackpink stay among other",neutral
+"hello usa onc want support twice cb hot chart pleas buy strategi ft megan digit song itun amazon also pandora premium offer free month subscript cancel week allow loop titl track strategi importantli pleas use playlist oncestreamtwic spotifi spotifi account account allow count per ip address chart purpos like spotifi global bbhot account allow filter stream per song per day stream filter one still count spotifi counter unfilt stream thank onc support twice comeback twice us fellow onc appreci effort",neutral
+"twice",neutral
+"thank much explan im actual program similar tzuyu soon hybrid master psycholog program im us interest see differ chang countri im glad she passion psycholog interest topic your correct program titl noth right mind board would give accredit without practicum advanc topic experi",neutral
+"great thing kpop normal idol soloist without choos group solo work nayeon ro etc success soloist also valuabl member group dont think anyon better soloist dont need leav group dont want",neutral
+"first thing internet came back open youtub almost r e love ittt hey boy catchi love love love choru sweet catchi prechoru tzuyu voic love sound good vers fun overal want go back listen right realli catchi song love megan part sound good im glad got film twice unfortun without misamo put bridg mark climax song good idea realli excel job make feel hot wanna rap along anyway realli like song thank internet come back instead anoth day",positive
+"nayeon even explain",positive
+"tag",neutral
+"mean itzi nmixx sale back januari realli number jype stock price lol cant imagin bad would twice downturn",neutral
+"manag get vip front row ticket show metlif ticket around piec that miracul got good place queue buy ticket hotel cost around one night plu add extra money sinc got food deliv afterward say grate front row far one end stage twice didnt actual perform front us often encor wander around group danc took place mainli center intend get ticket ground floor recommend aim center even front row unless your short person abl attend tour ill look ticket first level instead ground floor despit front row last time watch perform screen anyway make sens let know question tri best answer ive ever one concert metlif",neutral
+"jihyo find realli good look she talent plu love figur person dont want size watch motiv regularli exercis keep shape",positive
+"find playlist spotifi peopl made specif stream song bside look strategi stream select playlist mani pop one your suppos stream filter playlist two three differ twice song main titl track strategi feat megan thee stallion twice also find mani playlist twitter fan commun also song playlist strategi youtub",neutral

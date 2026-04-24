@@ -1,0 +1,1041 @@
+@relation youtube_full
+
+@attribute text STRING
+@attribute @@class@@ {negative,neutral,positive}
+
+@data
+"week let",neutral
+"happi congrat let go fight",neutral
+"let hope week aespa anoth chanc win music show",neutral
+"road morn",neutral
+"let go week",neutral
+"winter uh sexiest uh ever heard whole life",neutral
+"aespa aespa fan watch time watch second",neutral
+"aespa aespa fan watch time watch second",neutral
+"whi whiplash",neutral
+"let talk everi time keep say gonna better eta alway surpris us one best music video possibl legend could pull move",neutral
+"okay aespa clap back hater",neutral
+"love",neutral
+"my come strm",neutral
+"",neutral
+"everyon know",neutral
+"addict usual",neutral
+"wow song mv perfect everyon shine incred bright",neutral
+"comeback boldli introduc complet new concept alway stay fresh push boundari truli aespa year",neutral
+"midzi support let get whiplash x gold",neutral
+"haneul era fr",neutral
+"concept fit aespa well beat cool gisel pink hair pretti love song sm",neutral
+"might aespa best music video yet visual outfit everythinggg",neutral
+"one look give whiplash",neutral
+"someon tell differ hair part know pink hair gisel short black hair winter idk hair chang mv",neutral
+"nsx tho",neutral
+"limit edit shirt serv think qualiti photobook could improv got mine scratchlik small air bubbl cover visibl light scratch well somewhat affect overal appear photobook first page look like fall lot blotlik mark stapler area page",neutral
+"everyon let strming spotifi harder youtub harder pleas",neutral
+"deem stream corretament mv my e de stream na msica spotifi",neutral
+"im love videoooo",neutral
+"everi time someon like comment ill wathc",neutral
+"ningn part addict",neutral
+"masterpiec deserv much attent",neutral
+"whip whip whiplash",neutral
+"gisel leader free world",neutral
+"whip whiplash",neutral
+"coldest",neutral
+"need perform video sm",neutral
+"whiplash audio w musicbank",neutral
+"classi",neutral
+"one look givem whiplash",neutral
+"cant touch",neutral
+"whiplash audio w musicbank",neutral
+"get su metallica",neutral
+"cant get tire song",neutral
+"thank women exist love",neutral
+"love era song danc give psi vibe cant unse hope theyr challeng psi dope sure",neutral
+"let go",neutral
+"whiwhiplash",neutral
+"comeback gisel era",neutral
+"love vibe give smuch ate",neutral
+"goodmon everyon",neutral
+"favorit song",neutral
+"aespa year releas supernova song year releas armageddon wait song year releas hot mess sigh what next releas whiplash hear song year",neutral
+"wowthey beauti cool",neutral
+"winter human ai doubt",neutral
+"one look give em whiplash",neutral
+"perfect song yeah yeah yeah",neutral
+"next level drama armageddon whiplash gogogo",neutral
+"awesom best aespa",neutral
+"perfect song mv vocal visualal perfect",neutral
+"definit gisel era slay pink hair",neutral
+"spa histori longest chart melon supernova day geni bug vibe circl week youtub next level week",neutral
+"today my come",neutral
+"aespa bia ningn",neutral
+"mystream aespa audio black mamba next level savag dream come true girl illus hold tight spici drama supernova armageddon whiplash",neutral
+"gisel reveng ningn apart",neutral
+"girl gener catch",neutral
+"aespa whiplash whiplash titl ki flight feel pink hoodi flower anoth girl",neutral
+"top music video",neutral
+"blink love song",neutral
+"aespa own year",neutral
+"high fashion mv",neutral
+"manifest rd win",neutral
+"mother gisel pleas adopt",neutral
+"sunday gone like wushhhh",neutral
+"whipwhiplash",neutral
+"yege semeyi tekledi",neutral
+"capcut yazisini silmemisl aq",neutral
+"sm mal",neutral
+"tirnagim olamazlar",neutral
+"ok rrrrrrrock",neutral
+"vamo por my let",neutral
+"sound like diss track hybe",neutral
+"im deobi im whiplash challeng gisel sunwoo",neutral
+"aespa group year",neutral
+"let go my need continu",neutral
+"pleaseeee vot x aespa whiplash let get win aespa work hard",neutral
+"omg beat insan start end",neutral
+"repeat hot gisel top",neutral
+"first reaction",neutral
+"visual vocal danc sing rap love theemmm",neutral
+"song fire aespa",neutral
+"winter feel like drop final fantasi univers aftet hang nocti waht",neutral
+"im coldest",neutral
+"drama almost spotifi let go my",neutral
+"my next level supernova armageddon whiplash black mamba spici",neutral
+"faitin my est vamo hold de mongmong",neutral
+"song would definit play catwalk",neutral
+"one look giveem whiplash",neutral
+"happi my road soon",neutral
+"whip whiplash one look giveem whiplash",neutral
+"song becom top spotifi wrap lmaooo im obsess",neutral
+"cant wait godspa sweep award year",neutral
+"icon gisel realli catch attent",neutral
+"stram harder spotifi appl music whiplash banger",neutral
+"aespa whiplash rank nd place spotifi global weekli chart stram",neutral
+"godspa alway give us hit hit",neutral
+"happi my let push faster",neutral
+"love icon fall go histori",neutral
+"im new aespa someon tell know karina",neutral
+"toca uma pra gay",neutral
+"choru use jyp style accent interest",neutral
+"lmao thought",neutral
+"first listen song think like song im addict song aespa song alway effect",neutral
+"winterr",neutral
+"take test whipwhiplash whipwhiplash whipwhiplash whipwhiplash whipwhiplash whipwhiplash whipwhiplash one look give em whiplash",neutral
+"million viw pleas",neutral
+"bro aespa mv alway fire",neutral
+"realli get month",neutral
+"mighti aespa",neutral
+"thought black mamba wickedbut whiplash wickederrr",neutral
+"tell jenni thank beyonc",neutral
+"love gisel new hairstyleso hot",neutral
+"winter",neutral
+"ningn beauti",neutral
+"favorit music",neutral
+"club classic",neutral
+"yeeeessss song fire servedddddd",neutral
+"remind charli xcx odd reason",neutral
+"song much aespa cri",neutral
+"gisel realli ate bright comeback",neutral
+"whiplash",neutral
+"cant touch",neutral
+"give bell deserv attent keep back ditch diamond format",neutral
+"vibe ningn voic litt",neutral
+"song catchi love aespa style look like spicyarmageddonhot messsupernova love",neutral
+"one look give em whiplaash",neutral
+"kpop like",neutral
+"one look give whiplash",neutral
+"better song",neutral
+"song power",neutral
+"whip whiplash",neutral
+"forget brat summer whiplash winter",neutral
+"listen whiplash next level time im get addict go aespa",neutral
+"mv top tier",neutral
+"aespa releas hit hit im complain",neutral
+"part",neutral
+"sound fvcking freshhh old school disco type beat fashion mv product everyth new awesom complet new concept",neutral
+"whiplash",neutral
+"listen everyday addict",neutral
+"one look give em whiplsh",neutral
+"actual song grow",neutral
+"slay comeback karina biagfydc",neutral
+"winter prettyyyy alway soti",neutral
+"love aespa much ningn bia era uwaaaaaaaaaaaaa karina winter gisel pink hair especi cool osso isnifjniosjosjoskjsokoso pretti non aespa stan definit miss outtttttttt love u aespa",neutral
+"fall ate",neutral
+"brat code",neutral
+"k hour",neutral
+"vote aespa mnet fan choic",neutral
+"look like could final fantasi",neutral
+"behind scene",neutral
+"lmfao sound like jingl bell rock like im highlight red light rock night awayyyi know site next sigh go glidin onehors sleighhh",neutral
+"come strm",neutral
+"imma make free audio",neutral
+"pleas stop cut winter hair",neutral
+"ningninggggg main slayeerrr profession model love youuu keep slay",neutral
+"keep stream fight my",neutral
+"sm youtub acc old",neutral
+"th worldwid mv",neutral
+"love concept like aespa balenciaga",neutral
+"hate sm channel fg slow strxming could better aespa releas mv channel ik would happen",neutral
+"aespa whiplash whiplash titl ki flight feel pink hoodi flower anoth girl",neutral
+"dive keep stream th win",neutral
+"stray kid poster",neutral
+"love",neutral
+"amaz wonyoung",neutral
+"remind much loona im gonna cri",neutral
+"song liter wonni life hater cant realis also human",neutral
+"carli rae jepsen x taylor swift code",neutral
+"th win cmon",neutral
+"pleas go check attitud concept film well",neutral
+"chanc th win",neutral
+"gaeul didnt say anyth song",neutral
+"stray kid poster visibl mv funni lol",neutral
+"love hear song record",neutral
+"els come see straykid",neutral
+"leeseo wonyoung cute",neutral
+"love love hate never never woni part",neutral
+"swear listen song like year ago",neutral
+"readi attitud",neutral
+"wanna thank ive amaz perfect song new kpop song thrown deeper music stan",neutral
+"hey guy good luck babebaobei babi right seattl dont settl januaryjanu love day love hurt annot",neutral
+"gaeul get part pleas let shine want see promin",neutral
+"releas birthday im",neutral
+"energi comeback rebel heart who readi join journey let gather",neutral
+"see stray kid background",neutral
+"ill watch song everytim someon like comment",neutral
+"love hate never gonna gonna icon line",neutral
+"leeseo cri",neutral
+"atitud come soon",neutral
+"rebel heart pm awarmmoon",neutral
+"wonyoung vocal omgg",neutral
+"actual cri relat",neutral
+"congrat winn ingkigayo today th win",neutral
+"attitud concpet film noww",neutral
+"cant wait attitud",neutral
+"beauti refresh music video lyric empow well liter outdo everi singl comeback talent",neutral
+"rebel heart pm wonjin",neutral
+"im serious obsess song",neutral
+"rebel heart",neutral
+"love hate never never never tri ill break free never never never rebel heart rebel heart rebel heart rebel heart rebel heart dont care move love hate never never never tri ill break free never never never rebel heart rebel heart rebel heart rebel heart rebel heart rebel heart alway rebel come join rebel one rebel one rebel heart rebel heart rebel heart rebel heart rebel heart",neutral
+"beauti get stuck head cant stop listen",neutral
+"rebel heart pm awarmmoon",neutral
+"prereleas titl track cool",neutral
+"improv visual everyth",neutral
+"good like vocal rap danc",neutral
+"best song year",neutral
+"rebel heart pm wonjin",neutral
+"bop like agre",neutral
+"rebel heart pm awarmmoon",neutral
+"either way sister",neutral
+"tone rhythm remind love",neutral
+"get win rebel heart",neutral
+"still watch mv",neutral
+"th win congrat girl",neutral
+"say louder wongyoung",neutral
+"rebel heart pm wonjin",neutral
+"rebel heart pm awarmmoon",neutral
+"rebel heart pm wonjin",neutral
+"th win rebel heart inkigayo congratul",neutral
+"mani ive support",neutral
+"great ive go ive",neutral
+"word prefect amaz",neutral
+"rebel heart",neutral
+"best wonyoung",neutral
+"woni fianli got recognit deserv",neutral
+"rebel heart th consecut music show win achiev",neutral
+"leeseo look cute pink hair",neutral
+"rebel heart fav song ive alway releas great music",neutral
+"congrat girl th win",neutral
+"congratul ive rebel heart th win",neutral
+"love ive meaning song good lyric made even better genr alway amaz",neutral
+"good song love",neutral
+"rebel heart pm awarmmoon",neutral
+"song catchi",neutral
+"excit attitud",neutral
+"comgrat ive take week trophi guy truli deserv win",neutral
+"best song mv qualiti melodi ack ate",neutral
+"rebel heart",neutral
+"rebelheartthwin",neutral
+"th win proud ive",neutral
+"win im proud guy dive",neutral
+"rebel heart",neutral
+"rebel heart pm wonjin",neutral
+"next goal fight dive",neutral
+"song mean love song know mean love hate never",neutral
+"rebel heart th win",neutral
+"rebel heart pm awarmmoon",neutral
+"happi th win rebel heart heal us everi day",neutral
+"th win today omg let stram next week",neutral
+"prereleas main tract goin releas feb view rightt",neutral
+"love hate never ate wonni",neutral
+"th win",neutral
+"yasss congratul th win today",neutral
+"ive discographi never disappoint",neutral
+"cant wait attitud im seat",neutral
+"rebel heart deserv lot award fr",neutral
+"rebel heart pm awarmmoon",neutral
+"ive said ill say ive alway outdon believ ive empathi best album genuin think rebel heart one best song ive ever heard kpop icon soul never give alway rebel reach dream time rather expect etern want understand shockingli last time touch watch either way first time ive",neutral
+"essenc kpop type messag reason kpop becam fundament platform teenag year",neutral
+"rebel heart intro jang wonyoung rebel heart vers yujin liz rei leeseo choru jang wonyoung yujin gaeul leeseo love hate never never never tri ill break free never never never rebel heart rebel heart rebel heart rebel heart rebel heart vers rei gaeul leeseo dont care move prechoru jang wonyoung oh choru yujin liz jang wonyoung rei love hate never never never tri ill break free never never never rebel heart rebel heart rebel heart rebel heart rebel heart rebel heart postchoru yujin jang wonyoung lalalala lalala lalala rebel heart rebel heart lalalala lalala lalala rebel heart rebel heart bridg jang wonyoung liz alway rebel choru yujin leeseo liz come join rebel one rebel one rebel heart rebel heart rebel heart rebel heart rebel heart",neutral
+"pl reach goal least week",neutral
+"wonyoung own song love song mean lyric emot like song super short lyric make sens beat",neutral
+"come guy view k like",neutral
+"stream pl need stream",neutral
+"still promot rebel heart next week",neutral
+"im exagger say ive consist group amaz bridg vocal tune im even dive hardcor listen everi song ive listen realli doesnt disappoint ive even disappoint song produc favorit group idol never ive person think song never made sole purpos tiktok audio",neutral
+"ive fight dive pleas keep send girl love support",neutral
+"best kpop song mile",neutral
+"congrat ive win music bank",neutral
+"come everyon dive let increas number view rebel heart come",neutral
+"vote music bank",neutral
+"oncee vote twice app music show",neutral
+"twice es increbl",neutral
+"watch twice interview promot us",neutral
+"twice vocalist talent awesom",neutral
+"stream",neutral
+"",neutral
+"strategi loop day good song",neutral
+"good daynight onc",neutral
+"come appreci work art",neutral
+"glad kept girl away megan much possibl",neutral
+"year ago twice mina deliv absolut stun grace enchant cover snowman sia",neutral
+"twice zach sang show",neutral
+"whole song english happen kpop lol love girl twice though im lowk concern",neutral
+"one favorit twice song love",neutral
+"le copiaron melani martinez en high school sweetheartsss",neutral
+"come stream million viewer",neutral
+"let stream twice reach strategi least million",neutral
+"twice greatest group time",neutral
+"hey boy",neutral
+"minaa she pretti",neutral
+"good morn",neutral
+"twice look super pretti",neutral
+"slay ate",neutral
+"onceee stream",neutral
+"strategi stream",neutral
+"love mina braid style",neutral
+"go go twice never stop",neutral
+"twice best gg",neutral
+"stream massivo",neutral
+"let tri win chart",neutral
+"love twice",neutral
+"love twice",neutral
+"tast music everyth releas twice",neutral
+"although blink song realli grab attent like vibe much",neutral
+"strategi twice",neutral
+"jihyo part addict",neutral
+"take anoth one alreadi",neutral
+"outfit white strategi pink short pink pant individu cloth dahyun heart black tie jihyo skirt alreadi wear perform pink jacket pant",neutral
+"la part de sana",neutral
+"megan thee stallion",neutral
+"best son ever",neutral
+"love twice",neutral
+"twice love",neutral
+"think twice realli humbl long versatil longev career wholesom discographi japanes korean comeback never overlap collabor work insan vocal year face card visual queen japan kind love fan think era kpop theyr still nation gg south korea daesang belt hit hit iu gdragon even icon recogn jyp realli hit jackpot debut group truli immacul",neutral
+"te amo minaaaaaa",neutral
+"hey man ima get ya ima get real good bet ya hey man get ya youll oh glad met ya",neutral
+"bought self digipack cant stop play strategi album mean show support time onlin btw fight onc twice fight",neutral
+"stream",neutral
+"stream strategi onc",neutral
+"imma getcha real good betcha",neutral
+"stream slo",neutral
+"wow song awesom",neutral
+"new",neutral
+"love life live",neutral
+"onc dont stop yet let give twice view",neutral
+"good way end",neutral
+"loveeeee song realli",neutral
+"enough love good love alway twice megan devour",neutral
+"song deserv success keep stream listen everyday",neutral
+"ovo colher de sopa de acar colher de sopa de chocol em p colher de sopa de leo colher de sopa de leit colher de sopa de farinha de trigo colher de caf de fermento qumico em p cobertura xcara de ch xcara ml de leit colher de sopa de acar colher de sopa de chocol em p colher de sopa de margarina",neutral
+"hey boy ima get ya ima get real good bet ya hey boy get ya youll oh glad met ya ow twice step one highlight make shine bright moonlight step two silhouett tight babi even shadow look good right step three arriv make look way heart eye step four got floor make say say hi im feel attent hi reason shi aint gonna bite come know wanna move littl closer yeah got plan get got radar soon your gonna strategi strategi get ya get ya babi win trademark soon youll never wanna leav strategi strategi get ya get ya babi hey boy ima get ya ima get real good bet ya hey boy get ya youll oh glad met ya cheek go red that cute wanna danc said oh cool til im head cruel cant forget your feel thing your confus watch bodi get loos dont know your gonna your mine say hi im feel attent hi reason shi aint gonna bite come know wanna move littl closer yeah got plan get got radar soon your gonna strategi strategi get ya get ya babi win trademark soon youll never wanna leav strategi strategi get ya get ya babi real hot girl shh like huh smack watch bounc right back realli lost saw right left hmm im man eater light snack baow got press like he workin tricep hmm ima flirt ima teas hurt told babi what player game sand need worri bout bringin beach jealou girl pleas left right left right beat beat talk bodi that strategi baow baow girl tri im realli hard beat im realli hard beat hell mine strategi yeah yeah left right left right beat beat talk bodi that strategi baow baow girl tri im realli hard beat yeah im realli hard beat hell mine strategi yeah yeah strategi strategi like graviti graviti one look look bet ya bet ya bet ya boy youll knee call beg dont leav strategi strategi get ya get ya get ya boy ahoh hey boy ima get ya ima get real good bet ya real good bet ya hey boy get ya youll oh glad met ya oh glad ooh hey boy ima get ya hey boy yeah ima get real good bet ya good bet ya hey boy get ya hey boy youll oh glad met ya oh glad met ya hey boy ima get ya ima get real good bet ya",neutral
+"omg love song love one milln need song like one twice",neutral
+"twice kind song fell love perfect",neutral
+"im back masterpiec",neutral
+"talent queen",neutral
+"theyr stun",neutral
+"beauti",neutral
+"one listen",neutral
+"disband lol",neutral
+"goodd",neutral
+"highlight",neutral
+"silhouett tight",neutral
+"got plan get",neutral
+"make year end",neutral
+"genuin obsess song",neutral
+"youll knee call beg dont leav im alreadi knee",neutral
+"ah song good love everyth",neutral
+"song good id listen everi time went love twice",neutral
+"guy stream doinnn",neutral
+"visual serv",neutral
+"stream stream",neutral
+"stream",neutral
+"twice deserv dont help",neutral
+"feel eve vibe song",neutral
+"welcom",neutral
+"guy im love twice",neutral
+"hey twice imma getcha",neutral
+"alway perfect song twice babi",neutral
+"best comeback love much",neutral
+"aint gonna bite come lie cuz ate",neutral
+"week",neutral
+"stream once",neutral
+"let gooo",neutral
+"song sooo cvnti",neutral
+"stream strategi pleas lbum spotifi",neutral
+"perfect",neutral
+"say hi",neutral
+"loooov whole album",neutral
+"peopl keep say like comeback twice never comeback caus never left theyv year still go",neutral
+"twice strategi feat megan thee stallion debut week billboard global chart debut excl us chart",neutral
+"keep stream onc",neutral
+"strategi twice surpass copi sold circl chart",neutral
+"mk keep go stream everyon",neutral
+"love twice",neutral
+"support girl",neutral
+"strategi strategi getcha getcha babi",neutral
+"yall didnt realiz cc turn thought stroke context current learn korean fluent english even though nativ languag belatedli regist english track",neutral
+"strategi icon song",neutral
+"yess love song",neutral
+"twice strategi",neutral
+"everi time someon like comment ill watch",neutral
+"view like comment",neutral
+"readi come twice world tour citi think theyll visit",neutral
+"let broadcast even",neutral
+"stream twice",neutral
+"onc need win prevot music bank th dec chanc win prevot second trophi prevot start next week mayb go onc",neutral
+"let go third week",neutral
+"let reach let goo onceuuuu",neutral
+"listen st time sinc kind didnt like one spark love twice heart realli good love fact megan crazi dont know els say actual ye visual vocal concept realli nice realli like thank twice red velvet special mention caus end best song ever",neutral
+"love twice",neutral
+"wish meagan partttt wouldv even better",neutral
+"strategytrategi korean version got speak korea",neutral
+"love song",neutral
+"song enter top playlist",neutral
+"masterpiec keep repeat head even tho im middl import exam",neutral
+"daili view better one spark",neutral
+"twice activ kpop girl group year song alway good",neutral
+"stream strategi onc",neutral
+"masterpiec realli live brain free",neutral
+"remind pl use cap lock your comment freez view",neutral
+"mina stan",neutral
+"let keep stream onc let appreci girl effort deliv masterpiec us",neutral
+"reach million new year let give girl gift onc",neutral
+"day million stream mama award",neutral
+"parti oclock choru",neutral
+"stream month million atleast plzzz",neutral
+"let go oncee",neutral
+"pretti sad world wasnt happi cute clean group add crass megan thee stallion",neutral
+"best video year",neutral
+"pretti girl",neutral
+"cant stop sing song mom also like cryy",neutral
+"love nayeon end one spark strategi",neutral
+"win trademark soon youll never wanna leavr",neutral
+"congratul twice youv done well promot strategi hard work queen",neutral
+"real hot girl shhhh",neutral
+"stram onceu",neutral
+"hey boy",neutral
+"stream",neutral
+"strm harder",neutral
+"goood that freak awesom",neutral
+"bangerr",neutral
+"welcom",neutral
+"hey boy ima get ya",neutral
+"welcom",neutral
+"keep use song everywher tiktok x fb ig yt",neutral
+"comment eyyy ur still stream",neutral
+"hey boy",neutral
+"midzi thank support gold itzi",neutral
+"still want long journey twice els",neutral
+"hey boy ima getcha ima getcha real good betcha megan thee stallion hey boy getcha youll oh glad metcha twice ahoh step highlight make shine bright moonlight step silhouett tight babi even shadow look good right step arriv make look way heart eye step got floor make say say hi im feel attent hi reason shi aint gonna bite com know wanna move littl closr yeah got plan get ah got radar soon your gonna strategi strategi getcha getcha babi win trademark soon youll never wanna leav strategi strategi getcha getcha babi hey boy ima getcha ima getcha real good betcha hey boy getcha youll oh glad metcha cheek go red that cute wanna danc said oh cool til im head cruel cant forget your feel thing your confus watch bodi get loos dont know your gonna your mine say hi im feel attent hi reason shi aint gonna bite come know wanna move littl closer yeah got plan get ah got radar soon your gonna strategi strategi getcha getcha babi win trademark soon youll never wanna leav strategi strategi getcha getcha babi real hot girl sheeee like smack youwatchitbounceit right back realli lost saw right left ima man eater light snack got press like he workin tricep ima flirt ima teas babi hurt tellem babi what player game sayin need word bring beach jealou girl pleas left right left right beat talkwith bodi that strategi girl tryin im reallyhard beat hell mine strategi left right left right beat talkwith bodi that strategi girl tryin im reallyhard beat hell mine strategi strategi strategi like graviti graviti one look look betcha betcha betcha boy youll yourkne call beg dont leav strategi strategi getcha getcha getcha boy ahoh hey boy ima getcha ima getcha real good betcha hey boy getcha youll oh glad metcha hey boy ima getcha ima getcha real good betcha hey boy getcha youll oh glad metcha hey boy ima getcha ima getcha real good betcha",neutral
+"legend",neutral
+"love girl",neutral
+"interest love call",neutral
+"oh good fineeeil stan",neutral
+"yunho breathtak",neutral
+"theyr cool",neutral
+"masterpiec",neutral
+"think would make sens actual ice teeth like diamond grill",neutral
+"last one today soon day keep fight atini",neutral
+"happi good morn",neutral
+"yeayyy good morn",neutral
+"happi jam",neutral
+"hate like f handsom hot fine make go crazi omg",neutral
+"happi thanksgiv atini celebr",neutral
+"need get diamond dentist stat san slap like",neutral
+"know song mingi punchlin ice neck draw line name take dollar w upsid necklac ps video mv review pirat search valu shine like diamond",neutral
+"k left wonderland reach gooooo",neutral
+"let move million soon fight",neutral
+"hope continu path",neutral
+"mv beauti well produc",neutral
+"cant wait",neutral
+"feel perform go crazi",neutral
+"ateez go perform saturday melon music award let support",neutral
+"best kpop song year",neutral
+"top trend mv",neutral
+"youd like know possibl interpret iomt check mv review pirat search valu shine like diamond",neutral
+"there someth intruig group dont listen kpop anymor theyr make get",neutral
+"choi san im love",neutral
+"wow guy fantast congrat",neutral
+"exol support amaz boy kinda remind exo honestli",neutral
+"ateez mansion",neutral
+"final",neutral
+"ye happi",neutral
+"keep move forward take ship right destin ateez break limit big way everi time cheer atini",neutral
+"million almost",neutral
+"song deserv like pleas fuck great song",neutral
+"carat pass",neutral
+"eye ateez",neutral
+"good night iomt see morn",neutral
+"one ateez best mv ever",neutral
+"atini fight",neutral
+"ateez mafia era",neutral
+"mannnnn soti",neutral
+"who background vocal goe hard asl",neutral
+"million come soon",neutral
+"wow love song violin sound sooo cool",neutral
+"kq know best group",neutral
+"ice teeth ice om ateez",neutral
+"keep stream atini",neutral
+"mention mv came repeat even today cant get part yunho hit differ liter love movement simul play tenni move dont know simpli love",neutral
+"confirm seonghwa duck snow shaper saw insta post",neutral
+"san era insan",neutral
+"ateez la grand class",neutral
+"sorri im fan want know",neutral
+"jongho tell love cover",neutral
+"xg amaz kard fusion ateez load banger bounci guerilla firework taemin solo artist nd gen group call shine",neutral
+"drippp tho killaz heart",neutral
+"think gonna stan ateez",neutral
+"nd name",neutral
+"damn never ateez guess",neutral
+"let go cheer atini",neutral
+"comeback time made excit felt strang time cours realli like comeback probabl like like even",neutral
+"song good",neutral
+"fight",neutral
+"ateez still win win",neutral
+"ice teeth",neutral
+"give",neutral
+"almost week sinc song mv came still obsess",neutral
+"hongjoong yunho wink make heart flutter",neutral
+"carat pass idea what go w mv storylin bc idk lore crazi good song definit gonna listen lot",neutral
+"mean masterpiec alright",neutral
+"smooth",neutral
+"helloatini ice teeth jam",neutral
+"babi atini check debut song pirat king treasur noth passion determin go check youll see growth",neutral
+"mv goooodddd",neutral
+"emm yunhoi bia wreck help",neutral
+"violin heaven",neutral
+"choic back",neutral
+"wooyoung choha iomt challeng reel one highest highest number view yt wish peopl stop lazi find hello hashtag exist reason googl free leav nice comment appropri age atini pl dont dumb",neutral
+"love ateez much",neutral
+"live aesthet make chest tingl",neutral
+"todayic path",neutral
+"cub pass good even",neutral
+"white tee",neutral
+"best song ateez mind",neutral
+"theyr alway kill",neutral
+"love instrument",neutral
+"im fine yall",neutral
+"happi thursday start thanksgiv ateez main cours mani thank atini friend help stream iomt",neutral
+"love chocol",neutral
+"hace mucho frooooo",neutral
+"love song",neutral
+"ice teeth centr jung wooyoung",neutral
+"shtt whisper smack your one im tri finish san shoulder scenedawg ateez",neutral
+"power hold insan",neutral
+"ice teethic tee ice teeth white tee",neutral
+"start song",neutral
+"k wonder thursday atini jensett mantra x ice teeth",neutral
+"join stationhead streem parti atini",neutral
+"found ateez finalist bbma vted jam",neutral
+"mv actual fantast magnific",neutral
+"back",neutral
+"today visit leemujin servic san",neutral
+"ateez alway stylist satisfi mv",neutral
+"love",neutral
+"love greec",neutral
+"ok atini go crazi tell guy",neutral
+"jam get ice teeth jo ici x ateez ice teeth",neutral
+"let keep stream atini thank love",neutral
+"visit snow cover day ice teeth like way ateez kim woojin",neutral
+"current contribut view millionand there stop",neutral
+"interest love call chew em keep em shut ooooooooo",neutral
+"aye global top music",neutral
+"answer",neutral
+"note ice teeth",neutral
+"whoever convinc ateez sing abt money n dime great job",neutral
+"ayyy im still atini",neutral
+"good morn atini friendsm come soonhav fun swim fight",neutral
+"lawd merci",neutral
+"let go atini",neutral
+"hit booti shake violat",neutral
+"yunho realli shine cb",neutral
+"wish everyon great day",neutral
+"morn",neutral
+"work art pleasant eye ear",neutral
+"kq good advertis ateez music get known ateez atini imagin kq put effort advertis thatll huugge",neutral
+"take bear work day",neutral
+"morn happi thursday keep work",neutral
+"love keep root ateez",neutral
+"im alway side ice teeth",neutral
+"get cuntier everybodi comeback",neutral
+"ot bridg crazi good",neutral
+"insist mind pay rent live anthem",neutral
+"let fun today",neutral
+"yeosang beauti almost hurt",neutral
+"chess refer",neutral
+"one black mine",neutral
+"road let goooo",neutral
+"recontra like temazooo",neutral
+"glam slam like teni",neutral
+"im moa im give love song congratul",neutral
+"keep stream atini go go milion",neutral
+"ice teeth ice teeth",neutral
+"view frozen keep go atini",neutral
+"san defo smack like",neutral
+"asian rap silli like british peopl rap take violenc emot american rap made sole sex appeal youd everi singl male kpop rapper",neutral
+"deserv",neutral
+"risk exam prep stream",neutral
+"still love",neutral
+"rise",neutral
+"back",neutral
+"swim carat",neutral
+"good morn rhyme tenni tenni okay bc fishi fishi like",neutral
+"definit put money mouth",neutral
+"back show support ice teeth",neutral
+"congratul let go atini ice teeth",neutral
+"never enough come pirat",neutral
+"first katsey ateez chandeli yall",neutral
+"day think becom atini",neutral
+"morn atini still vote ice teeth st win success support gorgeou pirat king ateez till end gajja",neutral
+"im happi sing lower regist love deep voic that prefer boy group",neutral
+"even beat pleas im love song liter",neutral
+"speechless dammmmmmmnnnnnnnnnn first ateez mv forc comment even look youtub like serious damn pleas keep love mv song everi thing",neutral
+"who watch",neutral
+"wonderland work close next million",neutral
+"final compani place advertis done return",neutral
+"kinda wish anoth music video made one bside album man fire exampl imagin choreographi track",neutral
+"last time around todayse tomorrowlet keep good workgood night",neutral
+"hater back",neutral
+"godfac hair song aghas show",neutral
+"yooo ateez billboard artist cri byee",neutral
+"heart stop",neutral
+"joke song releas birthday",neutral
+"your one im tryna finish aliv total",neutral
+"mv beauti",neutral
+"end amaz",neutral
+"cool",neutral
+"im total obsess mv song flow rythm stun visual synchro danc everyth cool dont give damn lyric caus im french didnt understood anyth",neutral
+"make rain",neutral
+"whole mv knee song repeat sinc came good lord",neutral
+"let move million soon fight",neutral
+"omgi realli love song",neutral
+"hope win unit come atini possibl everi grain sand count",neutral
+"complet videographi love song beat danc style video aesthet everyth point",neutral
+"fight",neutral
+"win",neutral
+"vote mubeat music core",neutral
+"mingi say chocol think song work dress like willi wonka",neutral
+"crazi finish video go anoth ateez video univers said im finish listen song gotta god say listen song anoth time",neutral
+"keep yunho open ateez song alway amaz",neutral
+"ear worm love",neutral
+"good night see ya morn",neutral
+"fantasi enter atini airspac",neutral
+"dont word describ feel song perfect",neutral
+"support pirat everyth possibl cheer atini",neutral
+"atini pleas dont support ai fancal",neutral
+"mingi guapo ice teeth",neutral
+"cri watch masterpiec love u ateez",neutral
+"enough",neutral
+"bought diamond dentist",neutral
+"good man",neutral
+"good man",neutral
+"miss opportun coulda put grill",neutral
+"lot love india love u ateez",neutral
+"pleas atini vote mubeat",neutral
+"plz tell your one im tryna finish mean im sorryi dont get",neutral
+"ateez",neutral
+"great mv",neutral
+"let give least one win comeback",neutral
+"atini pleas help us vote mubeat music core need",neutral
+"love mv much",neutral
+"catchi song",neutral
+"best fk mv ever love",neutral
+"theyr crazi good",neutral
+"korean final enter trill era paulwal",neutral
+"k fight",neutral
+"wow expect ateez seonghwa part realli choke fr",neutral
+"terngiang ngiang ice teeth",neutral
+"video hour long",neutral
+"still get album pleas buy person free fall bb chart",neutral
+"hi boss dito n nmn em",neutral
+"love like love iam obsess",neutral
+"cannot watch song russia",neutral
+"ateez best",neutral
+"pleas atini vote ateez atini top kpop fan armi poll bbma pleas pleas vote",neutral
+"bro look like mafia",neutral
+"good nightatini thank support jam",neutral
+"im atini vibe got good vibe yeah",neutral
+"dentist assist part bought diamond dentist agre caus get thous realli realli expens",neutral
+"like ballet",neutral
+"watch reaction korean girl english sub realli like reaction mention didnt know ateez debut year ago never heard bounci thought visit channel ask react kill voic mayb korean peopl would get know thought case want see reaction channel mumuto",neutral
+"omg love",neutral
+"wow ice teeth one best solo amaz kpop ateej love",neutral
+"yessss leader back",neutral
+"nice song love",neutral
+"hip hop lover rhyme tenni tenni lazi good song choru rhyme scheme need match great visual alway though",neutral
+"good morn yay million",neutral
+"ateez what",neutral
+"k happi million beauti wednesday atini jensett mantra x ice teeth",neutral
+"peopl keep search lucinta luna comment someon pirat work make edit mv lure everyon ps indonesian atini respect",neutral
+"great day atini choic",neutral
+"sannnn weeksss im still attacehdjdkndksj",neutral
+"what cutest thing saw today video iomt mansion made anim cross",neutral
+"fantasi come check diamond still place great day atini friend ice teeth x dwbh ateez x sf",neutral
+"ice teeth",neutral
+"ohhhh hot",neutral
+"im obsess",neutral
+"kpop peaki blinder ahh vibe",neutral
+"need anoth like button would like press million time",neutral
+"refresh concept bad boy villain mafia ceo need see matur men concept kpop",neutral
+"congrat atini addict jam",neutral
+"crime dont studio choom version",neutral
+"best vocal rap line",neutral
+"carat right heree_ ateez ice teeth x seventeen love money fame",neutral
+"guy get mubeat widen gap gogogo",neutral
+"join ststionhead atini streem parti",neutral
+"dont forget visit answer left",neutral
+"eat chocol accord mingi",neutral
+"visual comeback crazili good happi",neutral
+"eye hong joong white teeth",neutral
+"swing answer",neutral
+"yall proudli say probabl million view mv spirit thanksgiv grate piec art lol",neutral
+"congrat ice teeth u say ateez kim woojin",neutral
+"continu end",neutral
+"cant get head",neutral
+"like chocol purpos gave mingiiii",neutral
+"mubeat vote music core ongo",neutral
+"morn let best today",neutral
+"littl littl ateez get",neutral
+"ice teeth ice teeth white tee say unison",neutral
+"hello atini midzi support let get ice teeth x gold",neutral
+"ateez music bank pre vote hope theyll receiv st ever win comeback come friday",neutral
+"good morn atini friendswish wounder wednesday",neutral
+"san look scare",neutral
+"day sinc releas time fli fast",neutral
+"day night",neutral
+"im dream",neutral
+"everyth song beauti thank nct dream alway give us masterpiec",neutral
+"thankyou sing beauti song thankyou alway happi healthi dreami guy realli human medicin wish album success wait dreami td concert jakarta wish chanc meet dreami",neutral
+"oyi ayukkk stream pli",neutral
+"nct dream best",neutral
+"congrasttt",neutral
+"sugohesso",neutral
+"kecanduan im",neutral
+"like increas well",neutral
+"fight",neutral
+"come nopogi time stay internet well agre shownu catchi inde",neutral
+"come guy",neutral
+"dont forget listen song music platform",neutral
+"alway listen song wherev let watch listen mv often definit give lot win dream long stay consist",neutral
+"dont forget vote dream allchart pre vote guy",neutral
+"let consist strming let go guy fight",neutral
+"met alreadi love love song theyr great im brazil theyv gone far",neutral
+"still dreami",neutral
+"fight everyon",neutral
+"sad okay",neutral
+"keep stream guy dream",neutral
+"sedih mian dream",neutral
+"mc jeno back",neutral
+"pliss ayo ttp stream gyu",neutral
+"feel jisung shine bright voic sing soo coool",neutral
+"choreo honestli look fun def teach one studio",neutral
+"wait behind scene",neutral
+"day night think dreami",neutral
+"guy next comeback need spirit nct dream least mv first hs",neutral
+"know mean",neutral
+"im im blind",neutral
+"best vocal visual",neutral
+"anyon keep spirit",neutral
+"im",neutral
+"im armi stay fan heartbreak sad see tiktok twt hate fan hate wtf like im sure work hard comeback even though idk mayb fan expect pleas respect boy idol also human guyss dont like song stfu support guy goddamn fan gosh suppos number support wtf",neutral
+"wiwi rd win music core",neutral
+"let cmment amaz saturday dream song tell everyon esp knet dream song amaz",neutral
+"nov happi birthday chenl",neutral
+"keep watch mv pleas",neutral
+"stream pl otw",neutral
+"go slowlu",neutral
+"yall still stream want say thank fight",neutral
+"fight",neutral
+"almost like let keep strming use mubank perform week filler",neutral
+"keep stream guy let go win next mushow fight dream",neutral
+"let go",neutral
+"song amaz",neutral
+"im im",neutral
+"best song year",neutral
+"im rd winn",neutral
+"congrast nct dream dreamzen",neutral
+"im back",neutral
+"kereen third win",neutral
+"congrat third win dreamiesss",neutral
+"song masterpiec cant stop listen helppbro done make obsess",neutral
+"happi rd win wiwi",neutral
+"pleas watch music bank perform lot add broadcast point",neutral
+"let go next week",neutral
+"guy let stream littl go go go",neutral
+"wiwi rd win cheer",neutral
+"th win dreami let strammm guyssss",neutral
+"congrat dreami hwait dreamzen",neutral
+"congrat dream",neutral
+"jisung bag",neutral
+"rd win congrat dreami",neutral
+"fight",neutral
+"realli cute help",neutral
+"nct dream wiwi rd win yeyi",neutral
+"let make win music show let go let go jeno mc need win keep stream",neutral
+"congrat dream im rd win whenimwithyourdwin nctdreamrdwin",neutral
+"us danc song best refresh love",neutral
+"menikmati hujan sambil nonton im",neutral
+"na jaemin",neutral
+"ive replay album two week great album",neutral
+"im dream",neutral
+"congratul st win show champion nd win music bank rd win music core th win",neutral
+"obsess song",neutral
+"like song",neutral
+"love nct",neutral
+"anyon still stream masterpiec",neutral
+"congratul dreami",neutral
+"fan choic male",neutral
+"nct dream",neutral
+"way mv gonna new view week happen everyon collect give stream",neutral
+"replayyyi teruss",neutral
+"love nct doesnt matter dream wayv wish stream im high five steadi walk",neutral
+"fight",neutral
+"chenl bridg let go",neutral
+"let go third win",neutral
+"haechan falsettoish highnot ascend heaven yall",neutral
+"renjun best",neutral
+"anyway congratul dreami alway proud",neutral
+"sinc yesterday think yt freez vlew let censor word strm pl idk anymor isnt like first week",neutral
+"dont count old kpop group count best success young boy group teenag time still ye still young cheer",neutral
+"preciou memori happen today jaemin mc chenl bd wiwi nd win mama fan choic take care health dreami",neutral
+"chenl birthday jaemin mc dream mushow nd trophi mama fan choic best day ever",neutral
+"album great hope dream happi nct dream never lose",neutral
+"happi birthday chenl love",neutral
+"yessssss im blind ur crazi visual",neutral
+"come everyon",neutral
+"congratul dream win mama fan choic male",neutral
+"nct dreammmmm congratulatiooooonnnnn",neutral
+"happi rd birthday chenl",neutral
+"feel happi cannot describ success bring home trophi dream let gather energi fight hard regret minim possibl congratul dream dreamzen happi birthday angel chenl",neutral
+"im day night mujigaereul daleun neon nal binnag hae im im blind nan neoman boyeo eoneusa eojireowo babe neoui du nuneul bomyeon saljjak meomchitha akka junbihaetdeon maldo itg dwae seollemi jeomjeom deo keojyeo kkumeul bon deutha nae mame ilgop gaji jangmyeon damana mallo da pyohyeon mot hal gamjeong sok keojineun kkeullim sesangi black white neoman ppaego ppeonhan neukkim yeah yeah yeah im day night mujigaereul daleun neon nal binnag hae im im blind du nune beonjyeoganeun saek neora bureulla im im im im bulg muldeuneun feel nae mameul piwona modeun gamgakdeureul kkaewo scent sigyetbaneuldo meomchwo goyohaejin place keug ullyeo peojin simjang sori eodinga cheoeum bon deuthan jangmyeon sok sinbiroun neukkim deo yoksimna make mine tumyeonghi nal dameun ne nunbit yeah yeah yeah im day night mujigaereul daleun neon nal binnag hae im im blind du nune beonjyeoganeun saek neora bureulla im honjabodan duri joa duri bodan neoga joa know mean mean honjabodan duri joa duri bodan neoga joa know mean mean joa boda joeun geon love know know mean yeah yeah honjabodan duri joa duri bodan neoga joa know mean mean im satisfi matdaeun eye shine bright nal seolleg hae nal kkumkkug hae yeah yegodo eopsi neon naegero ssodajyeo geoya deo wanjeonhaejyeo caus im day night night mujigaereul daleun neon nal binnag hae im im im blind ooh im blind du nune beonjyeoganeun saek neora bureulla im honjabodan duri joa duri bodan neoga joa know mean mean honjabodan duri joa duri bodan neoga joa know mean mean im im im honjabodan duri joa duri bodan neoga joa know mean mean honjabodan duri joa duri bodan neoga joa know mean mean im im",neutral
+"happi birthday chenl",neutral
+"nct song beauti wonder like member handsom hardwork idol career like dream concept song im thank haechan haechan doyoung reason enter neo cultur technolog world czenni",neutral
+"wiwi nd win mama fan choic congrat dreami happi birthday uri chenl",neutral
+"congratul nd win wiwi",neutral
+"happi birthday chenl",neutral
+"aa dreami second win congrat dreamiess",neutral
+"fight",neutral
+"congrat dream happi birthday chenl",neutral
+"congrat dreami happi birthday chenl",neutral
+"td lima peru",neutral
+"congratul nd win",neutral
+"dream",neutral
+"chenl happi birthday",neutral
+"yeah yeah yeah im",neutral
+"congrat nd win dreammm",neutral
+"musicbanknct dream whenimwithyoundwin happychenleday",neutral
+"nd win congrat dreami",neutral
+"today nd win meaning",neutral
+"congrat dream",neutral
+"love dream",neutral
+"happi birthday chenl congratul st music bank",neutral
+"nd win",neutral
+"deserv view deserv win music show deserv soti",neutral
+"dont forget vote dreami mnet guy",neutral
+"chenl birthday pleas",neutral
+"happiest birthday babi chenlee wish best",neutral
+"honestli best nct song sinc neozon came incred",neutral
+"fight guysss",neutral
+"best",neutral
+"hbd chenl love song much let go nct dreammm",neutral
+"love nct dream",neutral
+"love im",neutral
+"let give nd win dreami mubank today",neutral
+"let give dream anoth trophi",neutral
+"guy let stream still chanc win next week mushow",neutral
+"havent guy group almost year point id expect someth person least matur concept",neutral
+"realli addict song",neutral
+"cuyyy stuck",neutral
+"czenni love dreami im perfect love brazil",neutral
+"happi birthday hope best birthday ever",neutral
+"let get win music bank today super excit encor stage dreami",neutral
+"let go dream",neutral
+"happi birthday chenl",neutral
+"stream guyssss",neutral
+"let pray togeth luck dream side guyss",neutral
+"im fallin love song",neutral
+"happi birthday lele",neutral
+"start morn listen songlet cheer everyon give dream lot win",neutral
+"happi birthday chenl",neutral
+"td lima peru",neutral
+"happi birthday tuan muda chenl",neutral
+"td lima pleas nct dream come back peru",neutral
+"stream teru gayssss",neutral
+"happi birthday chenlee",neutral
+"view stuck keep streamingidk wkwk",neutral
+"happi birthday chenl",neutral
+"morn",neutral
+"guy",neutral
+"happi chenl dayyy",neutral
+"congratul nct dream come back third win show champion music bank music core",neutral
+"today chenl birthday happi birthday chenl",neutral
+"ill never get enough jisung sing",neutral
+"guy think need mass sream deserv much express",neutral
+"let stop stream hit guy",neutral
+"nct dream best boy",neutral
+"im",neutral
+"guy need make win tomorrow music bank chenl birthday jaemin special mc",neutral
+"one best album",neutral
+"stream teru guy",neutral
+"love chenl bridg much",neutral
+"icon chenl bridg",neutral
+"puzzl piec omg",neutral
+"bad thing song doesnt last long",neutral
+"keep come back music video liter chang live",neutral
+"sister show mv yesterday didnt watch listen sinc came world happi see ryan hugh stray kid mv wholesom friendship sn",neutral
+"everyon tri search stray kid googl there new featur",neutral
+"love changbin",neutral
+"happi birthday stay im proud",neutral
+"sad discov heard song past fell love ate feel bit sad lost much time preciou moment",neutral
+"know stray kid best",neutral
+"let go",neutral
+"stay",neutral
+"mani time play stray kid",neutral
+"yup im fan ccb news",neutral
+"ate comeback",neutral
+"calm give deserv",neutral
+"talent insan",neutral
+"happi bd stay",neutral
+"stay fight",neutral
+"one lee know a a",neutral
+"come soon",neutral
+"omg favorit enhypen mv ever",neutral
+"didnt jyp give ad",neutral
+"woooooow stari kid bangchang chanbin lee know han hyunjin sungmin felix love song much love th year old birthday august love guy cool cute handsom",neutral
+"yesterday spent whole day listen song stay day kskqjqkak",neutral
+"bro liter save summer that song special aura hear immedi want danc let get million",neutral
+"stray kid world domin",neutral
+"cecilia first go",neutral
+"yallll got ryan reinold",neutral
+"chan cok atwslisin",neutral
+"stray kid music video addict",neutral
+"stay go",neutral
+"hayir eleven ya da olemez ama teoril mikein olecegini ba ba bairiyor mike olurs aglarim ama steve de byk ihtimal olecekmi ama umarim olmez yoksa depresyon hirerim ama en cok olmasini istedigim sey eddienin geri gelmesi",neutral
+"love stray kid want say awesom comeback blew mind especi never disappoint",neutral
+"im stream skincar hahaha",neutral
+"eat ryan fool us",neutral
+"even day still continu listen without get bore made legendari song skz",neutral
+"song best song ive ever heard",neutral
+"amaz guy love",neutral
+"need point mushow pleas rememb dont give",neutral
+"omg spanish ryan cameo ate",neutral
+"ofsenaof",neutral
+"simpli incred",neutral
+"cant get mv love",neutral
+"stray kid secret boyfriend think cute im sad",neutral
+"tin tin tintintintin chk chk boom",neutral
+"song bang boil face doesnt look normal korean repres korea makeup shit toxic cultur seem",neutral
+"love word catastroph sound dont hear often even impact song",neutral
+"said need older groupmatei think mean new groupmat came stray kidsguy pl say mean that joke",neutral
+"k pop take right reason",neutral
+"stray kid thank everyth us channi thank make beauti name minho thank good job binni thank power effort hyunni thank emot feel hanni thank song lyric smile lixi thank sunshin sweet messag minni thank diamond voic support us inni thank tell us beauti word smile stag cutest face love moon",neutral
+"happi anniversari dear stay everi year member togeth well take care selv ilov im proud stayyyyy",neutral
+"im addict thisssnkdkdn",neutral
+"love love life may etern ate muero hablaron espaol",neutral
+"stray kid world domin",neutral
+"stay keep stramng soon",neutral
+"still cant believ well skz done god dududu that deadpool theme deadpool wolverin mv im proud",neutral
+"suit green vest give lokiiii sorri theyr move fast see",neutral
+"ceyli nbrr",neutral
+"platinum blond felix give major hector castlevania vibe",neutral
+"stray kid made revolutionari special amaz album",neutral
+"ugh song damn good",neutral
+"danceracha outdid themself time cant believ talent peopl exist rap line vocal goin",neutral
+"omg mv got soo emot like end mv damnnn",neutral
+"chef kiss",neutral
+"best",neutral
+"good amaz well done stray kid came support fellow stay well go back brought heat back engen",neutral
+"bc cheap trick obv stream silent stream instead flaunt fan work chariti idk know fandom beg activ group fandom view bc help stram also bc xyz group get success bc fandom help like trick mafia behind new stan would understand whole scenario lot type comment hope understand im tri say",neutral
+"happi stay day last time today yall",neutral
+"back watch stray kid mv caus heart cant take grown much proud happi stay day last time today yall log",neutral
+"freakin bombshel",neutral
+"could anyon beat stray kid",neutral
+"love song",neutral
+"stray kid handsom perceft mv bia jeongin",neutral
+"soon youtub block russia",neutral
+"stray kid leader fourth gener",neutral
+"collab jyp pleas",neutral
+"boy grow well stay",neutral
+"everytim watch stray kid mv",neutral
+"might stupid ccb news stand chk chk book news coz know bbc news",neutral
+"hyunjin leeknow last part one tge histori",neutral
+"k happi million goodnight stay jensett spot x chk chk boom",neutral
+"boom boom chk chk boom surpass",neutral
+"utterli complet obsess video song god menu final competitor st place heart",neutral
+"boom boom chk chk boom",neutral
+"stray kid amaz",neutral
+"refer love skzzz",neutral
+"fantasi bibora x love x chk chk boom",neutral
+"make sob",neutral
+"arriv week aee chk chk boom",neutral
+"bang christoph chan look good damn u look good edit thx much like like omg like sec",neutral
+"coolest mv ever",neutral
+"love bangchan wish could get autograph wish",neutral
+"beauti",neutral
+"feel much effort spent comeback one ate realll",neutral
+"first time watch",neutral
+"even youtub think shit ate",neutral
+"music video insan cant get enough",neutral
+"fill truck yeah want riiiiiiiid boom hit like truck imma make flyyyyi",neutral
+"let make real quick",neutral
+"stray kid best world",neutral
+"oha lan kims yok ortam nerd",neutral
+"afraid summer would like",neutral
+"rap vocal visual choreographi perfect",neutral
+"felix changbin rrrrrrra part give newton vibe like uhh even say scienc student realli song attract graviti",neutral
+"thing brain forev",neutral
+"ate swallow leav crumb",neutral
+"whole song part",neutral
+"song",neutral
+"stay let work hard music core inkiyago win",neutral
+"chk chk boom",neutral
+"come",neutral
+"beauti mv ever seen",neutral
+"stray kid kid everywher around world make stray kid stay life choic fandom light hous spark hellav hugour knowour dwekkiour jinnieour quokkaour chickenour puppyour babi breadour world cant hurt r sheild sword homew protect dont worri go ur waypur wing never whatev happen go love stay love stray kid",neutral
+"favorit music video ever oh gosh guy make best music",neutral
+"song soooo fckggg gowdddddd",neutral
+"stray kid forev favorit group stray kid everywher around world",neutral
+"stray kid chk chk boom highest chart th gener boy group song circl weekli global chart chk chk boom maniac sclass good boy gone bad lalalala sugar rush ride",neutral
+"lee know",neutral
+"cool",neutral
+"never understand feel love someon never met found stray kid help toughest moment life im forev grate",neutral
+"happi birthday stayi",neutral
+"long watch chk chk boom",neutral
+"well alway",neutral
+"support stray kid forev",neutral
+"guy come let get soon",neutral
+"best releas mannnn",neutral
+"thank hugh ryan",neutral
+"member shine comeback",neutral
+"forev proud stay im grate found right time stray kid",neutral
+"want see felix drama",neutral
+"stray kid everywher around world",neutral
+"chk chk boom",neutral
+"first dayi one sing along kingsbut whole famili sing alongayeee chk chk boom",neutral
+"stray kid home",neutral
+"bit late happi birthday stay",neutral
+"alway great comeback stray kid leader kpop industri",neutral
+"second man alreadi actor watch six seri",neutral
+"watch lighten mood watch stray kid mv",neutral
+"crossov song video danc that want",neutral
+"who sound goe viral",neutral
+"k lobo cannot stop hunt jensett spot x chk chk boom",neutral

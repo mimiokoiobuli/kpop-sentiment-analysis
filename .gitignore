@@ -1,4 +1,3 @@
-credentials/
-.ipynb_checkpoints/
-10_scripts/anaconda_projects/
-01_raw_data/reddit/comments/*.zst
+credentials/ 
+.ipynb_checkpoints/ 
+10_scripts/anaconda_projects/ 

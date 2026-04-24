@@ -1,0 +1,73 @@
+comeback,label,source,sentiment,count
+aespa_Whiplash,"aespa
+Whiplash",YouTube,Negative,6
+aespa_Whiplash,"aespa
+Whiplash",YouTube,Neutral,100
+aespa_Whiplash,"aespa
+Whiplash",YouTube,Positive,66
+aespa_Whiplash,"aespa
+Whiplash",Reddit,Negative,110
+aespa_Whiplash,"aespa
+Whiplash",Reddit,Neutral,1742
+aespa_Whiplash,"aespa
+Whiplash",Reddit,Positive,974
+IVE_RebelHeart,"IVE
+Rebel Heart",YouTube,Negative,1
+IVE_RebelHeart,"IVE
+Rebel Heart",YouTube,Neutral,60
+IVE_RebelHeart,"IVE
+Rebel Heart",YouTube,Positive,48
+IVE_RebelHeart,"IVE
+Rebel Heart",Reddit,Negative,23
+IVE_RebelHeart,"IVE
+Rebel Heart",Reddit,Neutral,1042
+IVE_RebelHeart,"IVE
+Rebel Heart",Reddit,Positive,698
+TWICE_Strategy,"TWICE
+Strategy",YouTube,Negative,6
+TWICE_Strategy,"TWICE
+Strategy",YouTube,Neutral,95
+TWICE_Strategy,"TWICE
+Strategy",YouTube,Positive,62
+TWICE_Strategy,"TWICE
+Strategy",Reddit,Negative,23
+TWICE_Strategy,"TWICE
+Strategy",Reddit,Neutral,1229
+TWICE_Strategy,"TWICE
+Strategy",Reddit,Positive,962
+NCTDREAM_WhenImWithYou,"NCT DREAM
+When I'm With You",YouTube,Negative,1
+NCTDREAM_WhenImWithYou,"NCT DREAM
+When I'm With You",YouTube,Neutral,102
+NCTDREAM_WhenImWithYou,"NCT DREAM
+When I'm With You",YouTube,Positive,76
+NCTDREAM_WhenImWithYou,"NCT DREAM
+When I'm With You",Reddit,Negative,12
+NCTDREAM_WhenImWithYou,"NCT DREAM
+When I'm With You",Reddit,Neutral,338
+NCTDREAM_WhenImWithYou,"NCT DREAM
+When I'm With You",Reddit,Positive,78
+ATEEZ_IceOnMyTeeth,"ATEEZ
+Ice On My Teeth",YouTube,Negative,1
+ATEEZ_IceOnMyTeeth,"ATEEZ
+Ice On My Teeth",YouTube,Neutral,149
+ATEEZ_IceOnMyTeeth,"ATEEZ
+Ice On My Teeth",YouTube,Positive,122
+ATEEZ_IceOnMyTeeth,"ATEEZ
+Ice On My Teeth",Reddit,Negative,34
+ATEEZ_IceOnMyTeeth,"ATEEZ
+Ice On My Teeth",Reddit,Neutral,2692
+ATEEZ_IceOnMyTeeth,"ATEEZ
+Ice On My Teeth",Reddit,Positive,1318
+StrayKids_ChkChkBoom,"Stray Kids
+Chk Chk Boom",YouTube,Negative,4
+StrayKids_ChkChkBoom,"Stray Kids
+Chk Chk Boom",YouTube,Neutral,67
+StrayKids_ChkChkBoom,"Stray Kids
+Chk Chk Boom",YouTube,Positive,69
+StrayKids_ChkChkBoom,"Stray Kids
+Chk Chk Boom",Reddit,Negative,18
+StrayKids_ChkChkBoom,"Stray Kids
+Chk Chk Boom",Reddit,Neutral,3228
+StrayKids_ChkChkBoom,"Stray Kids
+Chk Chk Boom",Reddit,Positive,1396

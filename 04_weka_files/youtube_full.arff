@@ -1,0 +1,2625 @@
+@relation youtube_full
+
+@attribute text STRING
+@attribute class {negative,neutral,positive}
+
+@data
+'streaaaaam',?
+'week let',?
+'happi congrat let go fight',?
+'let hope week aespa anoth chanc win music show',?
+'incrvel como part da ningn arrepiam',?
+'road morn',?
+'let go week',?
+'winter uh sexiest uh ever heard whole life',?
+'let go',?
+'que adiccin con est tema',?
+'aespa aespa fan watch time watch second',?
+'aespa aespa fan watch time watch second',?
+'aespa aespa fan watch time watch second',?
+'',?
+'hari naik juta',?
+'ningn tumben kamu ga bikin challeng sama jay park',?
+'',?
+'whi whiplash',?
+'let talk everi time keep say gonna better eta alway surpris us one best music video possibl legend could pull move',?
+'banger',?
+'k',?
+'favorit part',?
+'happi kst',?
+'look like blkpik',?
+'',?
+'okay aespa clap back hater',?
+'uh',?
+'big flash',?
+'winter',?
+'mi nobia si ke',?
+'love',?
+'aespa conquistando todo tipo de concepto todo esto es art',?
+'my come strm',?
+'',?
+'gen leader',?
+'everyon know',?
+'omg',?
+'lagunya bagu',?
+'malam gini streamingnya my gacor bener dah',?
+'icon',?
+'',?
+'addict usual',?
+'wow song mv perfect everyon shine incred bright',?
+'comeback boldli introduc complet new concept alway stay fresh push boundari truli aespa year',?
+'midzi support let get whiplash x gold',?
+'haneul era fr',?
+'aespa world dominion',?
+'muito bom',?
+'concept fit aespa well beat cool gisel pink hair pretti love song sm',?
+'sebelum besok pagi dah juta yuk',?
+'mama girl behind',?
+'might aespa best music video yet visual outfit everythinggg',?
+'million',?
+'black mamba next level savag girl spici drama supernova armaggedon whiplash hit',?
+'',?
+'one look give whiplash',?
+'fodona da gerao',?
+'someon tell differ hair part know pink hair gisel short black hair winter idk hair chang mv',?
+'',?
+'nsx tho',?
+'limit edit shirt serv think qualiti photobook could improv got mine scratchlik small air bubbl cover visibl light scratch well somewhat affect overal appear photobook first page look like fall lot blotlik mark stapler area page',?
+'everyon let vote aespa harder mama kgmamma mani other',?
+'hope aespa get mani award daesang mama',?
+'everyon let strming spotifi harder youtub harder pleas',?
+'grupo mai babilnico kpop',?
+'deem stream corretament mv my e de stream na msica spotifi',?
+'finalment saiu daquel irritant',?
+'',?
+'im love videoooo',?
+'everi time someon like comment ill wathc',?
+'',?
+'ningn part addict',?
+'love yoou giseeeeeleee',?
+'giseelleeeee aaaaaaaaaaaaa',?
+'go aespa go',?
+'sound like xg song',?
+'masterpiec deserv much attent',?
+'whip whip whiplash',?
+'gisel leader free world',?
+'whip whiplash',?
+'coldest',?
+'',?
+'',?
+'benm btt gold gecyorum smd',?
+'olsaydm herkesn aksn nng karna shplerdm gb',?
+'red velvetten sonra best konseptl yeminl',?
+'oyi bu konsept nedir yakyo',?
+'k jensett',?
+'aespa sevmem yan daha dogrusu cok dnlemem ama sark guzel olmu',?
+'need perform video sm',?
+'',?
+'',?
+'flashi',?
+'classi',?
+'fanci',?
+'',?
+'omggggggg',?
+'masterpiec',?
+'fancyyyy',?
+'asm bu sarkyaaa',?
+'aespammmm',?
+'day',?
+'h',?
+'one look givem whiplash',?
+'best girl groupppp',?
+'grntleme',?
+'cant touch',?
+'get su metallica',?
+'focu my',?
+'fanci',?
+'cant get tire song',?
+'thank women exist love',?
+'hwait my',?
+'love era song danc give psi vibe cant unse hope theyr challeng psi dope sure',?
+'',?
+'let go',?
+'go go',?
+'whiwhiplash',?
+'comeback gisel era',?
+'love vibe give smuch ate',?
+'goodmon everyon',?
+'favorit song',?
+'aespa year releas supernova song year releas armageddon wait song year releas hot mess sigh what next releas whiplash hear song year',?
+'wowthey beauti cool',?
+'sm tolong rili lagu wake ningn dong',?
+'winter human ai doubt',?
+'aespa',?
+'winter',?
+'',?
+'whiplash',?
+'whip whiplash',?
+'one look give em whiplash',?
+'happi whiplash',?
+'like whiplash',?
+'k whiplash',?
+'perfect song yeah yeah yeah',?
+'next level drama armageddon whiplash gogogo',?
+'awesom best aespa',?
+'alway kerennnn',?
+'perfect song mv vocal visualal perfect',?
+'keep stream my',?
+'definit gisel era slay pink hair',?
+'my strming',?
+'k',?
+'canduuu bgt',?
+'spa histori longest chart melon supernova day geni bug vibe circl week youtub next level week',?
+'today my come',?
+'aespa bia ningn',?
+'mystream aespa audio black mamba next level savag dream come true girl illus hold tight spici drama supernova armageddon whiplash',?
+'aespaaaa music topp',?
+'gisel reveng ningn apart',?
+'w song',?
+'girl gener catch',?
+'slayningggg',?
+'jaim',?
+'le top de musiqu',?
+'',?
+'aespa whiplash whiplash titl ki flight feel pink hoodi flower anoth girl',?
+'love',?
+'anyon',?
+'top music video',?
+'',?
+'blink love song',?
+'',?
+'dont forget keep streamng sptifi global fan',?
+'like',?
+'flopp',?
+'aespa own year',?
+'kurdishnctzen',?
+'kurdishexol',?
+'kurdishmi',?
+'fanci',?
+'global top music video',?
+'aespa amaz',?
+'keep strame my',?
+'high fashion mv',?
+'manifest rd win',?
+'mother gisel pleas adopt',?
+'',?
+'sunday gone like wushhhh',?
+'whipwhiplash',?
+'gisel ningn rap skill omg',?
+'ateeeeee',?
+'ok kt',?
+'ogggg',?
+'',?
+'',?
+'igyenc',?
+'strming my',?
+'col ok kt',?
+'iyyyi',?
+'capcut yazisini silmemi sm iyyyi',?
+'yege semeyi tekledi',?
+'capcut yazisini silmemisl aq',?
+'aespa',?
+'salak',?
+'sm mal',?
+'yesil ekrancilar',?
+'cok kirinc arki bok gibi',?
+'winter dislanio',?
+'klip ok kt iyrenc olmu sarki',?
+'tirnagim olamazlar',?
+'iyyyi ok kt arki',?
+'bp best gg',?
+'ossuran winter besttt',?
+'trend trend trend trend trend trend',?
+'awesom',?
+'ok rrrrrrrock',?
+'gisella cakep bener rambut pink',?
+'winter va dar algoooooooooo',?
+'dyva',?
+'best girl',?
+'vamo por my let',?
+'sound like diss track hybe',?
+'im deobi im whiplash challeng gisel sunwoo',?
+'aespa group year',?
+'let go my need continu',?
+'pleaseeee vot x aespa whiplash let get win aespa work hard',?
+'pink hair slayyyyyysss',?
+'happi',?
+'omg beat insan start end',?
+'keep stream my',?
+'million view soon',?
+'cant get tire song',?
+'slaaaayi',?
+'saquen perfo',?
+'repeat hot gisel top',?
+'esta le vamo hacer strim al dancepractic',?
+'fasil pudo ser cualquiera de asepa',?
+'ya la quemadt',?
+'first reaction',?
+'el zara se pierd tremendo diyei',?
+'one look give em whiplash',?
+'visual vocal danc sing rap love theemmm',?
+'wow',?
+'wo',?
+'song fire aespa',?
+'winter feel like drop final fantasi univers aftet hang nocti waht',?
+'done',?
+'amaz',?
+'yooo',?
+'happi k cmt',?
+'whiplash',?
+'whip whiplash',?
+'im coldest',?
+'one look give em whiplash',?
+'happi whiplash',?
+'like whiplash',?
+'slay',?
+'k whiplash',?
+'drama almost spotifi let go my',?
+'happi pm kst',?
+'ningn sing like angel',?
+'my next level supernova armageddon whiplash black mamba spici',?
+'karina',?
+'ya vnfo',?
+'faitin my est vamo hold de mongmong',?
+'lavo la como se llama licuadora termino',?
+'unforgett',?
+'song would definit play catwalk',?
+'one look giveem whiplash',?
+'happi my road soon',?
+'whip whiplash one look giveem whiplash',?
+'happi pm kst',?
+'go go',?
+'view let go',?
+'',?
+'strmng di spotifi',?
+'song becom top spotifi wrap lmaooo im obsess',?
+'cant wait godspa sweep award year',?
+'icon gisel realli catch attent',?
+'gd oppa',?
+'stram harder spotifi appl music whiplash banger',?
+'aespa whiplash rank nd place spotifi global weekli chart stram',?
+'godspa alway give us hit hit',?
+'godspa alway give us banger banger',?
+'karina love',?
+'happi my let push faster',?
+'',?
+'love icon fall go histori',?
+'im new aespa someon tell know karina',?
+'eu amei muito perfeito que orgulho de voc',?
+'comment',?
+'my keep stream',?
+'happi million',?
+'k comment gogo',?
+'happi let go go go wiplash',?
+'song hard say',?
+'toca uma pra gay',?
+'im still',?
+'',?
+'yesssss',?
+'',?
+'lego',?
+'happi kst',?
+'happi',?
+'gogo',?
+'choru use jyp style accent interest',?
+'lmao thought',?
+'first listen song think like song im addict song aespa song alway effect',?
+'winterr',?
+'take test whipwhiplash whipwhiplash whipwhiplash whipwhiplash whipwhiplash whipwhiplash whipwhiplash one look give em whiplash',?
+'karina marri',?
+'day bad',?
+'million viw pleas',?
+'im still',?
+'',?
+'girl never disappoint',?
+'happi kst',?
+'bro aespa mv alway fire',?
+'realli get month',?
+'cool',?
+'soon',?
+'mighti aespa',?
+'im aespa',?
+'thought black mamba wickedbut whiplash wickederrr',?
+'tell jenni thank beyonc',?
+'view',?
+'love gisel new hairstyleso hot',?
+'winter',?
+'karina hot',?
+'ningn beauti',?
+'love',?
+'favorit music',?
+'juta sebentar lagi',?
+'habi bikin challeng whiplash sama papi jyp habi ini request sama yeji ya rin',?
+'whiplash',?
+'whip whiplash',?
+'one look give em whiplash',?
+'happi whiplash',?
+'like whiplash',?
+'k whiplash',?
+'club classic',?
+'prefiro winter com cabelo curto',?
+'yeeeessss song fire servedddddd',?
+'remind charli xcx odd reason',?
+'million',?
+'aespa never disappoint us',?
+'',?
+'im love aespa concept uniqu love',?
+'',?
+'winter short hair',?
+'song much aespa cri',?
+'meow gisel',?
+'juta yukgercepin yuk',?
+'gisel momi',?
+'gisel realli ate bright comeback',?
+'my',?
+'ningn',?
+'winter',?
+'gisel',?
+'karina',?
+'diva diva divaram divaaaaaaaaaa',?
+'whiplash',?
+'cant touch',?
+'awalnya ini aespa lama kegilaan track ini',?
+'give bell deserv attent keep back ditch diamond format',?
+'yk ive bad',?
+'vibe ningn voic litt',?
+'aespa song alway bangersss',?
+'hej winter',?
+'song catchi love aespa style look like spicyarmageddonhot messsupernova love',?
+'',?
+'te amo',?
+'one look give em whiplaash',?
+'kpop like',?
+'one look give whiplash',?
+'better song',?
+'song power',?
+'whip whiplash',?
+'k',?
+'',?
+'like love',?
+'forget brat summer whiplash winter',?
+'listen whiplash next level time im get addict go aespa',?
+'',?
+'best part',?
+'love',?
+'',?
+'sebulan jt yuu',?
+'slayyyyyi',?
+'minha rainha',?
+'mv top tier',?
+'gyatt',?
+'aespa releas hit hit im complain',?
+'ae',?
+'part',?
+'sound fvcking freshhh old school disco type beat fashion mv product everyth new awesom complet new concept',?
+'whiplash',?
+'listen everyday addict',?
+'',?
+'midzi let go aespa love youu',?
+'whip whiplash',?
+'divaaaaaaaaaaaaaaaa',?
+'illit',?
+'one look give em whiplsh',?
+'actual song grow',?
+'slay comeback karina biagfydc',?
+'',?
+'winter prettyyyy alway soti',?
+'essa era da gisel',?
+'soti',?
+'',?
+'love aespa much ningn bia era uwaaaaaaaaaaaaa karina winter gisel pink hair especi cool osso isnifjniosjosjoskjsokoso pretti non aespa stan definit miss outtttttttt love u aespa',?
+'fall ate',?
+'whiplash',?
+'whip whiplash',?
+'one look give em whiplash',?
+'happi whiplash',?
+'aespa never disappoint',?
+'like whiplash',?
+'k whiplash',?
+'diva',?
+'excel',?
+'happi kst',?
+'brat code',?
+'mukemmelsinizz',?
+'harikasiniz',?
+'wow',?
+'ningn pretti',?
+'best song',?
+'',?
+'k hour',?
+'',?
+'vote aespa mnet fan choic',?
+'vote aespa mnet fan choic',?
+'vote aespa mnet fan choic',?
+'vote aespa mnet fan choic',?
+'look like could final fantasi',?
+'vote aespa mnet fan choic',?
+'dmn gisel sexyy',?
+'karina',?
+'behind scene',?
+'lmfao sound like jingl bell rock like im highlight red light rock night awayyyi know site next sigh go glidin onehors sleighhh',?
+'',?
+'come strm',?
+'imma make free audio',?
+'pleas stop cut winter hair',?
+'ningninggggg main slayeerrr profession model love youuu keep slay',?
+'keep stream fight my',?
+'otw rd win',?
+'gisel take reveng ningn supernova mv lol',?
+'ess ano aespa',?
+'sm youtub acc old',?
+'k',?
+'go like',?
+'',?
+'',?
+'th worldwid mv',?
+'give goosebump everi singl listen',?
+'love concept like aespa balenciaga',?
+'isso aqui de outro mundo',?
+'hate sm channel fg slow strxming could better aespa releas mv channel ik would happen',?
+'go go',?
+'aespa whiplash whiplash titl ki flight feel pink hoodi flower anoth girl',?
+'dive keep stream th win',?
+'stray kid poster',?
+'made cri damn itlov girl',?
+'love',?
+'amaz wonyoung',?
+'remind much loona im gonna cri',?
+'love rebel heart',?
+'song liter wonni life hater cant realis also human',?
+'carli rae jepsen x taylor swift code',?
+'th win cmon',?
+'omg',?
+'pleas go check attitud concept film well',?
+'chanc th win',?
+'gaeul didnt say anyth song',?
+'',?
+'vm dar stream dive',?
+'rebelsw one',?
+'ive tem msica ruin',?
+'ela nunca decepcionam',?
+'vamo dar mto stream',?
+'best gg',?
+'que momento',?
+'ameiamei mto',?
+'amei',?
+'muito boa de escutar',?
+'stray kid god understand',?
+'straykid',?
+'stray kid poster visibl mv funni lol',?
+'attitud est chegando',?
+'attitud est vindo ai preparado dive',?
+'daquia pouco vai lanar msica nova ebaaaa',?
+'k',?
+'love hear song record',?
+'els come see straykid',?
+'leeseo wonyoung cute',?
+'la amooo',?
+'love love hate never never woni part',?
+'swear listen song like year ago',?
+'canduu canduuu',?
+'afterwork listen ive sleep',?
+'readi attitud',?
+'porqu hacen llorar esta hermosa la cancin',?
+'ela j ganharam win com essa msica estou muito feliz',?
+'perfect girl group',?
+'am sisterr',?
+'let goo',?
+'wanna thank ive amaz perfect song new kpop song thrown deeper music stan',?
+'gaeul get part pleas let shine want see promin',?
+'di menit juga muncul ada billboard stray kid lg dibelakang hehe',?
+'te amo',?
+'haha ada yg nyempil billboard stray kid di mv nya ive',?
+'mame diam nunca ser nunca ser nunca ser yo amooo',?
+'',?
+'releas birthday im',?
+'energi comeback rebel heart who readi join journey let gather',?
+'wonyoung',?
+'let go dive',?
+'',?
+'see stray kid background',?
+'esta cancin es increbl ive',?
+'ill watch song everytim someon like comment',?
+'liz amaz',?
+'love hate never gonna gonna icon line',?
+'leeseo cri',?
+'k',?
+'love hate',?
+'rebel heart',?
+'rebel heart pmkst',?
+'atitud come soon',?
+'rebel heart pm awarmmoon',?
+'',?
+'wonyoung vocal omgg',?
+'actual cri relat',?
+'congrat winn ingkigayo today th win',?
+'attitud concpet film noww',?
+'cant wait attitud',?
+'beauti refresh music video lyric empow well liter outdo everi singl comeback talent',?
+'rebel heart pm wonjin',?
+'rebel heart pm wonjin',?
+'let get dive ivet',?
+'rei',?
+'rebel heart pm wonjin',?
+'im serious obsess song',?
+'rebel heart pm wonjin',?
+'rebel heart pm wonjin',?
+'rebel heart',?
+'wow',?
+'rebel heart pm wonjin',?
+'beauti get stuck head cant stop listen',?
+'rebel heart pm wonjin',?
+'rebel heart pm wonjin',?
+'rebel heart pm awarmmoon',?
+'',?
+'prereleas titl track cool',?
+'improv visual everyth',?
+'good like vocal rap danc',?
+'best song year',?
+'lovee mee hate meee',?
+'heart rebel',?
+'rh selamat',?
+'tahniah th win rh',?
+'rebel heart pm wonjin',?
+'love hate',?
+'rebel heart pm wonjin',?
+'wonder song',?
+'rebel heart pm wonjin',?
+'bop like agre',?
+'rebel heart pm awarmmoon',?
+'',?
+'cool',?
+'either way sister',?
+'ive',?
+'tone rhythm remind love',?
+'get win rebel heart',?
+'rebel',?
+'still watch mv',?
+'win let gooo keep stream',?
+'fj',?
+'yang pale awal pake jaket merah namanya siapa',?
+'',?
+'th win congrat girl',?
+'jd',?
+'',?
+'sesuka itu ssma lagunya',?
+'say louder wongyoung',?
+'rebel heart pm wonjin',?
+'rebel heart pm wonjin',?
+'',?
+'rebel heart pm awarmmoon',?
+'love hate',?
+'rebel heart pm wonjin',?
+'rebel heart pm wonjin',?
+'rebel heart pm wonjin',?
+'rebel heart pm wonjin',?
+'came rinchii',?
+'th win rebel heart inkigayo congratul',?
+'mani ive support',?
+'great ive go ive',?
+'rebel heart pm wonjin',?
+'word prefect amaz',?
+'rebel heart',?
+'wonyoung',?
+'best wonyoung',?
+'woni fianli got recognit deserv',?
+'fantast',?
+'rebel heart th consecut music show win achiev',?
+'leeseo look cute pink hair',?
+'rebel heart fav song ive alway releas great music',?
+'congrat girl th win',?
+'rebel heart pm awarmmoon',?
+'congratul ive rebel heart th win',?
+'',?
+'happi win',?
+'win',?
+'happi',?
+'love ive meaning song good lyric made even better genr alway amaz',?
+'',?
+'',?
+'',?
+'good song love',?
+'win',?
+'rebel heart pm awarmmoon',?
+'song catchi',?
+'excit attitud',?
+'comgrat ive take week trophi guy truli deserv win',?
+'best song mv qualiti melodi ack ate',?
+'rebel heart',?
+'rebelheartthwin',?
+'rebelheartthwin',?
+'rebelheartthwin',?
+'rebelheartthwin',?
+'th win proud ive',?
+'win im proud guy dive',?
+'rebel heart',?
+'sebentar lagi ganti bulan yuk tetap smngat',?
+'rebel heart pm wonjin',?
+'ite dive',?
+'next goal fight dive',?
+'song mean love song know mean love hate never',?
+'rebel heart th win',?
+'go view',?
+'rebel heart pm awarmmoon',?
+'amaz',?
+'happi th win rebel heart heal us everi day',?
+'th win today omg let stram next week',?
+'',?
+'',?
+'',?
+'prereleas main tract goin releas feb view rightt',?
+'',?
+'love hate never ate wonni',?
+'th win',?
+'yasss congratul th win today',?
+'ive discographi never disappoint',?
+'cant wait attitud im seat',?
+'rebel heart deserv lot award fr',?
+'rebel heart pm awarmmoon',?
+'rebel heart deserv award',?
+'keep go dive',?
+'',?
+'ive said ill say ive alway outdon believ ive empathi best album genuin think rebel heart one best song ive ever heard kpop icon soul never give alway rebel reach dream time rather expect etern want understand shockingli last time touch watch either way first time ive',?
+'best part',?
+'win',?
+'view day ago',?
+'let count',?
+'essenc kpop type messag reason kpop becam fundament platform teenag year',?
+'',?
+'pl reach goal least week',?
+'wonyoung own song love song mean lyric emot like song super short lyric make sens beat',?
+'come guy view k like',?
+'stream pl need stream',?
+'still promot rebel heart next week',?
+'im exagger say ive consist group amaz bridg vocal tune im even dive hardcor listen everi song ive listen realli doesnt disappoint ive even disappoint song produc favorit group idol never ive person think song never made sole purpos tiktok audio',?
+'',?
+'ive fight dive pleas keep send girl love support',?
+'yessss',?
+'keep stream',?
+'best kpop song mile',?
+'love ive',?
+'love dive',?
+'congrat ive win music bank',?
+'come everyon dive let increas number view rebel heart come',?
+'posno la vda q',?
+'q sifu sofu nambr',?
+'la de zen avr mi telfono esta bien calient',?
+'pq soy rebeld',?
+'cuyo',?
+'vien promet',?
+'vote music bank',?
+'oncee vote twice app music show',?
+'yooo jihyoo latinaaa',?
+'strategi lbum',?
+'encantan su cancion chica',?
+'twice es increbl',?
+'watch twice interview promot us',?
+'twice vocalist talent awesom',?
+'pieza de art',?
+'k',?
+'stream',?
+'twiceeeeehheg',?
+'nuevo solooooooooooo',?
+'',?
+'strategi loop day good song',?
+'good daynight onc',?
+'come appreci work art',?
+'k',?
+'glad kept girl away megan much possibl',?
+'year ago twice mina deliv absolut stun grace enchant cover snowman sia',?
+'',?
+'pronto',?
+'k',?
+'vote music bank',?
+'let gooo',?
+'twice zach sang show',?
+'hermoso',?
+'getcha radar soon your gonna',?
+'todavia supero esta art',?
+'',?
+'whole song english happen kpop lol love girl twice though im lowk concern',?
+'ate',?
+'one favorit twice song love',?
+'le copiaron melani martinez en high school sweetheartsss',?
+'',?
+'amo',?
+'hey girl ima get ya',?
+'mm k',?
+'queen',?
+'bella',?
+'amo la colaboracin de megan con twice simplement iconico',?
+'sigamo sumando hoy millon',?
+'come stream million viewer',?
+'let stream twice reach strategi least million',?
+'alegro mucho de ser',?
+'toda preciosa',?
+'k',?
+'megan salvando',?
+'queen',?
+'gatinha',?
+'sana queen',?
+'twice greatest group time',?
+'nayeon reina',?
+'momo queen',?
+'',?
+'hey boy',?
+'minaa she pretti',?
+'good morn',?
+'el mejor comeback de twice est ao',?
+'twice look super pretti',?
+'slay ate',?
+'como te amo twice',?
+'queen twice',?
+'dio mo amo esta canciooooooooon',?
+'atraparon',?
+'la amo',?
+'si amigo',?
+'pagi',?
+'onceee stream',?
+'k',?
+'strategi stream',?
+'love mina braid style',?
+'go go twice never stop',?
+'twiceeee',?
+'ateeee',?
+'diva',?
+'twice best gg',?
+'strategyyyyi',?
+'stream massivo',?
+'let tri win chart',?
+'k',?
+'la mejor part',?
+'minha perfeio',?
+'linda',?
+'diva injusticada',?
+'mina',?
+'nayeon',?
+'jeongyeon',?
+'jihyo',?
+'twice_strategi',?
+'encanta twice haciendo colaboracion con otro artista',?
+'beauti queen',?
+'k',?
+'rap perfeito da megan',?
+'me',?
+'lindasss',?
+'que msica perfeita',?
+'k',?
+'meu aniversrio hoje twice',?
+'love twice',?
+'love twice',?
+'perfeita',?
+'minha me',?
+'linda',?
+'tast music everyth releas twice',?
+'k',?
+'beauti',?
+'k',?
+'k',?
+'hola',?
+'ame colaboracion que necesitaba',?
+'let go',?
+'although blink song realli grab attent like vibe much',?
+'k',?
+'step',?
+'strategi twice',?
+'momazo twice',?
+'siempr traen lo mejor',?
+'encanta twice',?
+'la mejor siempr',?
+'vamo arriba',?
+'',?
+'megaaaaan',?
+'jihyo part addict',?
+'omg',?
+'take anoth one alreadi',?
+'outfit white strategi pink short pink pant individu cloth dahyun heart black tie jihyo skirt alreadi wear perform pink jacket pant',?
+'la part de sana',?
+'',?
+'slay',?
+'k',?
+'',?
+'rein',?
+'twice',?
+'',?
+'megan thee stallion',?
+'',?
+'',?
+'amo todo',?
+'best son ever',?
+'love twice',?
+'twice love',?
+'estrategi',?
+'think twice realli humbl long versatil longev career wholesom discographi japanes korean comeback never overlap collabor work insan vocal year face card visual queen japan kind love fan think era kpop theyr still nation gg south korea daesang belt hit hit iu gdragon even icon recogn jyp realli hit jackpot debut group truli immacul',?
+'love twice',?
+'te amo minaaaaaa',?
+'k',?
+'bought self digipack cant stop play strategi album mean show support time onlin btw fight onc twice fight',?
+'stream',?
+'stream strategi onc',?
+'gostando muito dessa msica',?
+'stream',?
+'esto es amor',?
+'love',?
+'',?
+'imma getcha real good betcha',?
+'momo',?
+'stream',?
+'stream slo',?
+'beauti',?
+'love twice forev',?
+'love twice',?
+'viva twice',?
+'k',?
+'wow song awesom',?
+'new',?
+'mk',?
+'hola de nuevo lo v como vece',?
+'',?
+'love life live',?
+'fking good',?
+'onc dont stop yet let give twice view',?
+'im nayeon',?
+'son muy talentosa',?
+'',?
+'stream',?
+'k',?
+'otw',?
+'good way end',?
+'k',?
+'loveeeee song realli',?
+'mk',?
+'buenisimaaaaa',?
+'enough love good love alway twice megan devour',?
+'twice best gg',?
+'k',?
+'song deserv success keep stream listen everyday',?
+'mi nayeon',?
+'ovo colher de sopa de acar colher de sopa de chocol em p colher de sopa de leo colher de sopa de leit colher de sopa de farinha de trigo colher de caf de fermento qumico em p cobertura xcara de ch xcara ml de leit colher de sopa de acar colher de sopa de chocol em p colher de sopa de margarina',?
+'hey boy ima get ya ima get real good bet ya hey boy get ya youll oh glad met ya ow twice step one highlight make shine bright moonlight step two silhouett tight babi even shadow look good right step three arriv make look way heart eye step four got floor make say say hi im feel attent hi reason shi aint gonna bite come know wanna move littl closer yeah got plan get got radar soon your gonna strategi strategi get ya get ya babi win trademark soon youll never wanna leav strategi strategi get ya get ya babi hey boy ima get ya ima get real good bet ya hey boy get ya youll oh glad met ya cheek go red that cute wanna danc said oh cool til im head cruel cant forget your feel thing your confus watch bodi get loos dont know your gonna your mine say hi im feel attent hi reason shi aint gonna bite come know wanna move littl closer yeah got plan get got radar soon your gonna strategi strategi get ya get ya babi win trademark soon youll never wanna leav strategi strategi get ya get ya babi real hot girl shh like huh smack watch bounc right back realli lost saw right left hmm im man eater light snack baow got press like he workin tricep hmm ima flirt ima teas hurt told babi what player game sand need worri bout bringin beach jealou girl pleas left right left right beat beat talk bodi that strategi baow baow girl tri im realli hard beat im realli hard beat hell mine strategi yeah yeah left right left right beat beat talk bodi that strategi baow baow girl tri im realli hard beat yeah im realli hard beat hell mine strategi yeah yeah strategi strategi like graviti graviti one look look bet ya bet ya bet ya boy youll knee call beg dont leav strategi strategi get ya get ya get ya boy ahoh hey boy ima get ya ima get real good bet ya real good bet ya hey boy get ya youll oh glad met ya oh glad ooh hey boy ima get ya hey boy yeah ima get real good bet ya good bet ya hey boy get ya hey boy youll oh glad met ya oh glad met ya hey boy ima get ya ima get real good bet ya',?
+'omg love song love one milln need song like one twice',?
+'amoooo',?
+'twice es lo mejor encanta',?
+'k',?
+'twice kind song fell love perfect',?
+'amei amei amei',?
+'',?
+'momo recuerda ella',?
+'im back masterpiec',?
+'k go everyon',?
+'stream',?
+'sana',?
+'talent queen',?
+'theyr stun',?
+'beauti',?
+'twicee',?
+'e e',?
+'',?
+'',?
+'twice',?
+'flop',?
+'one listen',?
+'disband lol',?
+'aint gonna bite',?
+'',?
+'say hiiii',?
+'goodd',?
+'highlight',?
+'step',?
+'silhouett tight',?
+'wow',?
+'got plan get',?
+'aint gonna bite come',?
+'make year end',?
+'keep stream onc',?
+'',?
+'strategi',?
+'genuin obsess song',?
+'strategi',?
+'',?
+'strategi',?
+'youll knee call beg dont leav im alreadi knee',?
+'',?
+'k go',?
+'k',?
+'momo captain',?
+'ah song good love everyth',?
+'gonna copi doja cat',?
+'vamo por ms',?
+'holi',?
+'',?
+'song good id listen everi time went love twice',?
+'guy stream doinnn',?
+'visual serv',?
+'k',?
+'strategyyyyi',?
+'hey boy',?
+'stream stream',?
+'stream',?
+'im addict',?
+'knew kpop thqt song appear radio',?
+'',?
+'k',?
+'encanta tanto esta cancinnn',?
+'k',?
+'k',?
+'k keep go',?
+'k comment',?
+'k',?
+'que lluevan la vista',?
+'twice deserv dont help',?
+'feel eve vibe song',?
+'happi',?
+'welcom',?
+'muito muito boa',?
+'encanta esta cancion',?
+'view',?
+'strategi',?
+'twice um grupo perfeito',?
+'hi boy ol mnino',?
+'k',?
+'guy im love twice',?
+'hey twice imma getcha',?
+'go',?
+'hooray like',?
+'view letsgo everyon',?
+'letsgo',?
+'k',?
+'aee conseguimo e de like',?
+'alway perfect song twice babi',?
+'let get',?
+'life sanaaaaaa',?
+'best arkimmm',?
+'best comeback love much',?
+'strategi',?
+'k',?
+'aint gonna bite come lie cuz ate',?
+'strategi soti',?
+'week',?
+'stream once',?
+'let gooo',?
+'song sooo cvnti',?
+'stream strategi pleas lbum spotifi',?
+'vote inkigayo hot stage oncee',?
+'melhor',?
+'perfect',?
+'say hi',?
+'loooov whole album',?
+'peopl keep say like comeback twice never comeback caus never left theyv year still go',?
+'twice strategi feat megan thee stallion debut week billboard global chart debut excl us chart',?
+'k',?
+'k',?
+'sigamo vamo',?
+'keep stream onc',?
+'strategi strategi',?
+'heyi boyyyi im getchha',?
+'wanna danc said',?
+'k ms para',?
+'k',?
+'k',?
+'strategi twice surpass copi sold circl chart',?
+'mk keep go stream everyon',?
+'love twice',?
+'soti',?
+'obsesionada con la reina del kpop',?
+'let go',?
+'support girl',?
+'soti',?
+'k',?
+'strategi strategi getcha getcha babi',?
+'vamo por ello',?
+'puedo parar de escuchar strategi el album completo es perfecto',?
+'pronto',?
+'k',?
+'yall didnt realiz cc turn thought stroke context current learn korean fluent english even though nativ languag belatedli regist english track',?
+'strategi icon song',?
+'yess love song',?
+'yaaaaaaaaaaa love girl stan twice',?
+'k',?
+'twice strategi',?
+'everi time someon like comment ill watch',?
+'hi',?
+'view like comment',?
+'view like comment',?
+'view like comment',?
+'view like comment',?
+'view like comment',?
+'streammmmm',?
+'readi come twice world tour citi think theyll visit',?
+'get radarr',?
+'twice',?
+'de like',?
+'hmm',?
+'let broadcast even',?
+'stream twice',?
+'girl',?
+'amo',?
+'onc need win prevot music bank th dec chanc win prevot second trophi prevot start next week mayb go onc',?
+'',?
+'ewww',?
+'guy',?
+'yesss million like',?
+'chi ln yahhhh',?
+'hey boy',?
+'rap part',?
+'let go third week',?
+'let reach let goo onceuuuu',?
+'k',?
+'favorit song',?
+'gara gara mbak meghan stal',?
+'step',?
+'step',?
+'step',?
+'step',?
+'listen st time sinc kind didnt like one spark love twice heart realli good love fact megan crazi dont know els say actual ye visual vocal concept realli nice realli like thank twice red velvet special mention caus end best song ever',?
+'love twice',?
+'wish meagan partttt wouldv even better',?
+'strategytrategi korean version got speak korea',?
+'flop',?
+'b deserv',?
+'es oooo',?
+'strategi strategi get cha getcha babi',?
+'k',?
+'',?
+'love song',?
+'k',?
+'k',?
+'',?
+'girl',?
+'',?
+'k',?
+'song enter top playlist',?
+'masterpiec keep repeat head even tho im middl import exam',?
+'daili view better one spark',?
+'twice activ kpop girl group year song alway good',?
+'stream strategi onc',?
+'masterpiec realli live brain free',?
+'remind pl use cap lock your comment freez view',?
+'',?
+'mina stan',?
+'',?
+'let keep stream onc let appreci girl effort deliv masterpiec us',?
+'twice',?
+'reach million new year let give girl gift onc',?
+'day million stream mama award',?
+'parti oclock choru',?
+'stream month million atleast plzzz',?
+'let go oncee',?
+'pretti sad world wasnt happi cute clean group add crass megan thee stallion',?
+'',?
+'k',?
+'uri tedeungii',?
+'dua puluh koma satu',?
+'strategi strategi',?
+'',?
+'twice',?
+'k',?
+'best video year',?
+'pretti girl',?
+'anladm megan sz',?
+'',?
+'cant stop sing song mom also like cryy',?
+'k',?
+'got rader',?
+'view next let',?
+'love nayeon end one spark strategi',?
+'hey boy imma getcha',?
+'win trademark soon youll never wanna leavr',?
+'congratul twice youv done well promot strategi hard work queen',?
+'real hot girl shhhh',?
+'win trademark',?
+'got radarr',?
+'make ya say',?
+'silhouett tight',?
+'stram onceu',?
+'hey boy',?
+'stream',?
+'strm harder',?
+'stream',?
+'stream streaaaaaammmmmmmmmmm',?
+'',?
+'goood that freak awesom',?
+'hit',?
+'bangerr',?
+'let go',?
+'let gooo',?
+'good job',?
+'great song',?
+'welcom',?
+'k',?
+'let go',?
+'twice',?
+'congrat',?
+'twice',?
+'hey boy ima get ya',?
+'welcom',?
+'keep use song everywher tiktok x fb ig yt',?
+'happi',?
+'comment eyyy ur still stream',?
+'yeyyyyy',?
+'hey boy',?
+'sana marri',?
+'milli yassss',?
+'',?
+'k',?
+'midzi thank support gold itzi',?
+'still want long journey twice els',?
+'congratul million let get million',?
+'twice twice',?
+'twice megan collab best',?
+'hey boy ima getcha ima getcha real good betcha megan thee stallion hey boy getcha youll oh glad metcha twice ahoh step highlight make shine bright moonlight step silhouett tight babi even shadow look good right step arriv make look way heart eye step got floor make say say hi im feel attent hi reason shi aint gonna bite com know wanna move littl closr yeah got plan get ah got radar soon your gonna strategi strategi getcha getcha babi win trademark soon youll never wanna leav strategi strategi getcha getcha babi hey boy ima getcha ima getcha real good betcha hey boy getcha youll oh glad metcha cheek go red that cute wanna danc said oh cool til im head cruel cant forget your feel thing your confus watch bodi get loos dont know your gonna your mine say hi im feel attent hi reason shi aint gonna bite come know wanna move littl closer yeah got plan get ah got radar soon your gonna strategi strategi getcha getcha babi win trademark soon youll never wanna leav strategi strategi getcha getcha babi real hot girl sheeee like smack youwatchitbounceit right back realli lost saw right left ima man eater light snack got press like he workin tricep ima flirt ima teas babi hurt tellem babi what player game sayin need word bring beach jealou girl pleas left right left right beat talkwith bodi that strategi girl tryin im reallyhard beat hell mine strategi left right left right beat talkwith bodi that strategi girl tryin im reallyhard beat hell mine strategi strategi strategi like graviti graviti one look look betcha betcha betcha boy youll yourkne call beg dont leav strategi strategi getcha getcha getcha boy ahoh hey boy ima getcha ima getcha real good betcha hey boy getcha youll oh glad metcha hey boy ima getcha ima getcha real good betcha hey boy getcha youll oh glad metcha hey boy ima getcha ima getcha real good betcha',?
+'',?
+'legend',?
+'love girl',?
+'mysteri sensat',?
+'day sinc releas time fli fast',?
+'today',?
+'day night',?
+'im dream',?
+'chenl',?
+'selamaaatt pagiiiii',?
+'everyth song beauti thank nct dream alway give us masterpiec',?
+'brazil love nct dream',?
+'renjun',?
+'jt yuk hari ini',?
+'voten en higher chart',?
+'',?
+'',?
+'besok bisa nih harusnya apa ga muak kalian liat angka wkwk',?
+'thankyou sing beauti song thankyou alway happi healthi dreami guy realli human medicin wish album success wait dreami td concert jakarta wish chanc meet dreami',?
+'oyi ayukkk stream pli',?
+'nct dream best',?
+'semangat stream guy masih besar di tren',?
+'k',?
+'congrasttt',?
+'sugohesso',?
+'ayoo kita muponnn dari angka keramat ini',?
+'hola renjun te amo precioso',?
+'let go',?
+'kecanduan im',?
+'jeno jaemin mark renjun chenl jisung haechan',?
+'like increas well',?
+'semangat semangat',?
+'',?
+'',?
+'best leader mark',?
+'yo dream',?
+'fight',?
+'come nopogi time stay internet well agre shownu catchi inde',?
+'go dream',?
+'seminggu naik sejuta ini mah',?
+'go go dream',?
+'come guy',?
+'recin lo veo el tema esta bonito',?
+'cute',?
+'dream',?
+'ini yg terakhir buat hari ini yasoalnya udh ngantuk mau bobo dulu',?
+'akhirnya geser ke sembilan eh smangat',?
+'dont forget listen song music platform',?
+'alway listen song wherev let watch listen mv often definit give lot win dream long stay consist',?
+'let stream tgt guy',?
+'k lagi juta semangattt',?
+'lama banget nya ih',?
+'let get th win',?
+'dont forget vote dream allchart pre vote guy',?
+'',?
+'let consist strming let go guy fight',?
+'geme deh sama viewsnya',?
+'pokoknya tetap strame',?
+'met alreadi love love song theyr great im brazil theyv gone far',?
+'let go',?
+'chenl',?
+'still dreami',?
+'mark lee',?
+'sambil mandipun ttp stream',?
+'fight everyon',?
+'renjun',?
+'sad okay',?
+'semangat dreaaamsssssssssssssssssssss',?
+'kenapa sulit naiknya ayo dong semangatt',?
+'keep stream guy dream',?
+'love u foreverr',?
+'yuk bisa yuk sedikit lagii semangat semuanya',?
+'guy kenapa susah banget naiknya',?
+'lesgoo',?
+'ga menang di inkigayo ya',?
+'',?
+'cuando la cancin es tan buena que da gusto escucharla en repeticin',?
+'',?
+'voten en la aplicacion chart higher',?
+'',?
+'guy pl vote korea chart',?
+'sedih mian dream',?
+'yahh kita gagal di inkigayo guyss okeyi keep streamm',?
+'keep strame',?
+'streaminnya sambil nonton live inkigayo',?
+'yo dream',?
+'let goooo',?
+'ini seriu teru',?
+'kajaa',?
+'mark lee',?
+'tetap bolak balik',?
+'kapannn beranjakkk dari nihhhh arrghhhh geramnyaa',?
+'mc jeno back',?
+'let stream',?
+'pliss ayo ttp stream gyu',?
+'harii ini di inkigayo mc nya jeno',?
+'feel jisung shine bright voic sing soo coool',?
+'woww letsgooo',?
+'choreo honestli look fun def teach one studio',?
+'wait behind scene',?
+'stream sambil bungkusin snack buat ultah anak',?
+'semoga nanti menang ya di inkigayo',?
+'',?
+'suka sama lagunya semangat gay',?
+'yokk streamng lagii',?
+'proud dreami',?
+'satu kata keren',?
+'semangat semangat weekend',?
+'kenapa stuck di jt teru sih',?
+'lol flop',?
+'semaangaattt',?
+'hari ini ke inkigayo ya',?
+'day night think dreami',?
+'guy next comeback need spirit nct dream least mv first hs',?
+'nctzen peru',?
+'kerennn im proud dream',?
+'six',?
+'im im blind',?
+'',?
+'felicidad dreami por su tercer win en music core',?
+'best vocal visual',?
+'guy keep vote juga buat dream di idol champ sama allchart',?
+'gara konten denger bridg chenl jd pengen ngakak',?
+'',?
+'favorit part',?
+'',?
+'',?
+'anyon keep spirit',?
+'berasa stream sendirian',?
+'naiknya dikit banget pdhal hari libur',?
+'may pa ayuda pala sa dulo',?
+'subuh lgsg stream',?
+'im',?
+'',?
+'kenapa sekarang jadi gini stream nya',?
+'devoraronnnn',?
+'hermosa cancin',?
+'part chenl bener terngiang ngiang sih',?
+'bangun tidur kuteru im tereteretteret',?
+'vote see encor stage fight czenni',?
+'im armi stay fan heartbreak sad see tiktok twt hate fan hate wtf like im sure work hard comeback even though idk mayb fan expect pleas respect boy idol also human guyss dont like song stfu support guy goddamn fan gosh suppos number support wtf',?
+'wiwi rd win music core',?
+'semangat strmin sama vote ya guysss',?
+'let cmment amaz saturday dream song tell everyon esp knet dream song amaz',?
+'nov happi birthday chenl',?
+'hy stream tht nhiu cp th',?
+'keep watch mv pleas',?
+'dont give everyon',?
+'stream pl otw',?
+'go slowlu',?
+'',?
+'',?
+'',?
+'wiwi rd win',?
+'yall still stream want say thank fight',?
+'semangat stream guysss',?
+'fight',?
+'drimjen stream let go',?
+'yeyyy',?
+'almost like let keep strming use mubank perform week filler',?
+'beautiful',?
+'keep stream guy let go win next mushow fight dream',?
+'let go',?
+'',?
+'omo omo masih',?
+'',?
+'ayo ajak semuanya strming gae biar bisa menang lagii',?
+'ayoo vote dream lagi biar bisa wiwi menang lagi guyss',?
+'rd win selamat ya semoga teru suks ya love',?
+'im still',?
+'letsgoooo dikit lagi',?
+'go gooo',?
+'song amaz',?
+'yu bisa yu sebulan bersyukur bgtt',?
+'im rd win congratul',?
+'im im',?
+'best song year',?
+'im rd winn',?
+'maaf guy baru bisa stream lagi sekarangsoalnya dua hari ini super sibuk',?
+'',?
+'congrast nct dream dreamzen',?
+'stream buat nambahin vote mingdep',?
+'im back',?
+'kereen third win',?
+'k let go',?
+'sayang dream sama dreamzen yang masih setia stream',?
+'lesgooo',?
+'sayang sayang nyaa akuu',?
+'congrat third win dreamiesss',?
+'song masterpiec cant stop listen helppbro done make obsess',?
+'hello guy',?
+'pliiss ajakin dreamzen buat stream biar nambah poin menang di promosinya dream',?
+'dream forev',?
+'keren keren',?
+'im satisfi',?
+'sooooooo',?
+'chenl bridg let go',?
+'happi rd win wiwi',?
+'',?
+'',?
+'pleas watch music bank perform lot add broadcast point',?
+'let go next week',?
+'semangat kejar',?
+'guy let stream littl go go go',?
+'wiwi rd win cheer',?
+'semangatt stream gaise',?
+'th win dreami let strammm guyssss',?
+'im youuuu',?
+'',?
+'',?
+'congrat uri bakwan sayur rd win',?
+'congrat dreami hwait dreamzen',?
+'selamat dream kalian panta mendapatkan kemenangan',?
+'congrat dream',?
+'seneng kan menang pengen liat mereka menang lagi kan yuk semangat streamingnya',?
+'jisung bag',?
+'rd win congrat dreami',?
+'fight',?
+'haechan ili',?
+'wiwi rd win congrat dream',?
+'fight',?
+'rd win',?
+'kerenn banget kalian dreami kalian menang lagii',?
+'',?
+'woylah ini lambat banget huhu',?
+'realli cute help',?
+'nct dream wiwi rd win yeyi',?
+'let make win music show let go let go jeno mc need win keep stream',?
+'jaemin tarik aku bawa aku ke dalam kereta terbang ituuuuu',?
+'congrat dream im rd win whenimwithyourdwin nctdreamrdwin',?
+'us danc song best refresh love',?
+'amaz',?
+'',?
+'ayo semangat naikin nya',?
+'menikmati hujan sambil nonton im',?
+'masa view perharinya ebih banyak rainbow dream stay drpd mv wkwkw anehhh nih view',?
+'chenl bridg let gooo',?
+'let goo',?
+'livvot mucor samp jam brp gae',?
+'',?
+'na jaemin',?
+'yuk bisa',?
+'ive replay album two week great album',?
+'weekend guyss pl keep streamm',?
+'',?
+'hari ini juta yuk bisa yuk',?
+'',?
+'guy kita ini fandom besar ayo tunjukan kekuatan kalian semangatt emo emo love',?
+'im dream',?
+'plsss',?
+'kenapa stuck di jt sih semangat yaa be',?
+'beauti song babi',?
+'ayo gae jangan lupa siapin amunisi dimubeat bisa make banyak akunn caranya gampang',?
+'chenl bridg let gooooo',?
+'semoga bisa nonton td nih pengen denger live wiwi',?
+'yuhuuu almost leggo',?
+'gawat sekarang ingetnya bridg chenl muter',?
+'sumpah lagunya candu dan bagu banget tapi kok komen koreanya dikit banget',?
+'kok sepi bener yg nonton',?
+'',?
+'ayoo semuanya lari dari angka keramat iiniii',?
+'congratul st win show champion nd win music bank rd win music core th win',?
+'obsess song',?
+'ini kyknya hampir semua komen udh aku likein deh',?
+'keren selamat ulang tahun chenl',?
+'like song',?
+'love nct',?
+'ini kok aku kayak spam wkw soalnya kirain ga kekirim yg tadi',?
+'renjun best boy',?
+'jangan lupa nanti ada livvot mucor yyaa',?
+'anyon still stream masterpiec',?
+'congratul dreami',?
+'fan choic male',?
+'nct dream',?
+'bismillah hari enih',?
+'morningggg',?
+'',?
+'renjunnn ili',?
+'semangat semuanya',?
+'bismillah trophi ke',?
+'jangan lupa jam wib gaess',?
+'khajja',?
+'dream forev',?
+'way mv gonna new view week happen everyon collect give stream',?
+'dreami',?
+'hari ini promosi ke music core ga',?
+'replayyyi teruss',?
+'let gooo',?
+'juta letsss gooo',?
+'let consist streme let go sijeuni',?
+'love nct doesnt matter dream wayv wish stream im high five steadi walk',?
+'felicidad dreami por su segundo win en music bank',?
+'pagiii',?
+'fight',?
+'nuestro dreami seguir dndole todo el apoyo que se merecen',?
+'semoga dream hari ini menang mucor',?
+'di mucor nanti kesempatan menang nya berapa persen ya',?
+'kajja',?
+'salin link gyu biar ytb nya view nya ga error',?
+'pleas strem',?
+'view freez',?
+'',?
+'chenl bridg let go',?
+'ahhhhh si odo goooodo',?
+'let go third win',?
+'',?
+'mau bobo dulu nanti pagi lanjut ya',?
+'jam segini sepi ya',?
+'haechan falsettoish highnot ascend heaven yall',?
+'',?
+'yuk teru stream yukkk bisalah',?
+'',?
+'renjun best',?
+'anyway congratul dreami alway proud',?
+'sinc yesterday think yt freez vlew let censor word strm pl idk anymor isnt like first week',?
+'dont count old kpop group count best success young boy group teenag time still ye still young cheer',?
+'es que amo demasiado esta cancin',?
+'dream hwaitinggg',?
+'ayo tembu sebelum besok muscor',?
+'preciou memori happen today jaemin mc chenl bd wiwi nd win mama fan choic take care health dreami',?
+'',?
+'suara mereka banget',?
+'',?
+'woy ayokkk stream',?
+'chenl birthday jaemin mc dream mushow nd trophi mama fan choic best day ever',?
+'album great hope dream happi nct dream never lose',?
+'suka banget',?
+'happi birthday chenl love',?
+'yessssss im blind ur crazi visual',?
+'come everyon',?
+'semoga besok dream menang lagii',?
+'congratul dream win mama fan choic male',?
+'ngga naik woyi',?
+'nct dreammmmm congratulatiooooonnnnn',?
+'',?
+'well done babi',?
+'',?
+'happi birthday chenl enhorabuena por el premio chico',?
+'felicidad por el premio',?
+'happi rd birthday chenl',?
+'keep stream plzz',?
+'nct dream fight nctzennnnnn fight gooo goooo',?
+'feel happi cannot describ success bring home trophi dream let gather energi fight hard regret minim possibl congratul dream dreamzen happi birthday angel chenl',?
+'happi birthday chenl',?
+'nct song beauti wonder like member handsom hardwork idol career like dream concept song im thank haechan haechan doyoung reason enter neo cultur technolog world czenni',?
+'mulai lambat lg ini vwernya pada ga strrmin sih',?
+'wiwi nd win mama fan choic congrat dreami happi birthday uri chenl',?
+'viewer nya seginii yg bener aje',?
+'congrat uri dreami',?
+'',?
+'chenl bridg let go',?
+'congratul nd win wiwi',?
+'happi birthday chenl',?
+'happi jaemin mc day',?
+'aa dreami second win congrat dreamiess',?
+'congratul im nd win',?
+'fight',?
+'nerey gittiniz vey birden durdu izlenm',?
+'addict',?
+'congrat dream happi birthday chenl',?
+'',?
+'congrat dreami happi birthday chenl',?
+'td lima peru',?
+'felicidad por el win _',?
+'let go k like',?
+'renjun',?
+'nana mc',?
+'winner',?
+'congratul nd win',?
+'dream',?
+'best album',?
+'chenl happi birthday',?
+'nd win yay',?
+'dream',?
+'soon',?
+'yeah yeah yeah im',?
+'congrat nd win dreammm',?
+'happi birthday lele',?
+'nd win congrat dreami',?
+'today nd win meaning',?
+'congrat dream',?
+'love dream',?
+'congrat dream untuk kemenangan keduanya',?
+'happi birthday chenl congratul st music bank',?
+'nd win',?
+'',?
+'deserv view deserv win music show deserv soti',?
+'ini kenapa stuck terusss',?
+'yang stream pada kemana ini woyyyi',?
+'dont forget vote dreami mnet guy',?
+'chenl birthday pleas',?
+'smngt',?
+'jangan lupa vote nct dream',?
+'',?
+'yuhuuuu',?
+'cb kali ini outfit nya cakep yaa',?
+'suka',?
+'happiest birthday babi chenlee wish best',?
+'hehhh ini pada kemana ga laa',?
+'honestli best nct song sinc neozon came incred',?
+'fight guysss',?
+'love seven dream',?
+'sehari minim dengerin x biar semangat menjalani hidup',?
+'best',?
+'hbd chenl love song much let go nct dreammm',?
+'love nct dream',?
+'ayoo semangat naikin viewersnyaa mumpung udah weekend nihh',?
+'sedih banget masih nge stuck di jtl',?
+'love im',?
+'',?
+'let give nd win dreami mubank today',?
+'let give dream anoth trophi',?
+'guy let stream still chanc win next week mushow',?
+'happi weekend',?
+'lesgoo',?
+'',?
+'semangat',?
+'havent guy group almost year point id expect someth person least matur concept',?
+'',?
+'realli addict song',?
+'',?
+'',?
+'happi birthday chenl',?
+'cuyyy stuck',?
+'hbd chenl',?
+'czenni love dreami im perfect love brazil',?
+'happi birthday hope best birthday ever',?
+'let get win music bank today super excit encor stage dreami',?
+'sambil nyetrika sambil stream',?
+'let go dream',?
+'love forev',?
+'ayo bisa naik lagi viewnya',?
+'happi birthday chenl',?
+'',?
+'omggg',?
+'stream guyssss',?
+'gilaaaa bisa gila akuuuuuu',?
+'hah gue doang yg stream',?
+'hbd chenlee',?
+'let pray togeth luck dream side guyss',?
+'im fallin love song',?
+'hbd chenl',?
+'ayo raih kemenangan ke dream',?
+'im satisfi',?
+'happi birthday lele',?
+'happi birthday chenl',?
+'pagiiiiii',?
+'dreami kalian keren',?
+'selamat ulang tahun chenl ayo semangat',?
+'let stream moreee',?
+'start morn listen songlet cheer everyon give dream lot win',?
+'happi birthday chenl',?
+'',?
+'feliz cumpleao chenl',?
+'td lima peru',?
+'happi birthday tuan muda chenl',?
+'happi birthday chenl',?
+'td lima pleas nct dream come back peru',?
+'se duerman con el stream',?
+'yeay',?
+'stream teru gayssss',?
+'happi birthday chenlee',?
+'hbd zhong chenl',?
+'vamo por eso',?
+'view stuck keep streamingidk wkwk',?
+'semangattt streamingnyaaa dreamzensss',?
+'happi birthday chenl',?
+'beautiful song',?
+'happi birthday chenl',?
+'',?
+'sepi banget pada kemana nih',?
+'morn',?
+'omg omg',?
+'',?
+'guy',?
+'',?
+'happi chenl dayyy',?
+'pagii',?
+'im still',?
+'iyi ki dodun chenl',?
+'happi birthday chenl',?
+'dnden beri offf izlemey devam edin arkadalar',?
+'congratul nct dream come back third win show champion music bank music core',?
+'today chenl birthday happi birthday chenl',?
+'bugn chenlenun doum gn iyi ki dodun chenl',?
+'hari ini ke musik bank ga',?
+'let go',?
+'ill never get enough jisung sing',?
+'',?
+'guy think need mass sream deserv much express',?
+'dream',?
+'let stop stream hit guy',?
+'nct dream best boy',?
+'im',?
+'guy need make win tomorrow music bank chenl birthday jaemin special mc',?
+'happi',?
+'',?
+'one best album',?
+'kenapa yaa susah banget naiknya',?
+'stream teru guy',?
+'',?
+'love chenl bridg much',?
+'dream',?
+'sumpah berasa balik kpop era kebawah',?
+'happi lele dayi',?
+'icon chenl bridg',?
+'puzzl piec omg',?
+'frz',?
+'haechan berapa ganteng banget',?
+'tak akan pernah bosan layan album ateez mereka di peringkat yang berbeza',?
+'interest love call',?
+'oh good fineeeil stan',?
+'leshgo',?
+'yunho breathtak',?
+'theyr cool',?
+'masterpiec',?
+'ang gwapo ng kantaaaaa',?
+'shock pogiiiii',?
+'think would make sens actual ice teeth like diamond grill',?
+'last one today soon day keep fight atini',?
+'',?
+'happi good morn',?
+'yeayyy good morn',?
+'happi jam',?
+'hate like f handsom hot fine make go crazi omg',?
+'play danger game san',?
+'happi thanksgiv atini celebr',?
+'vamo sempr vendo e escutando ess mv incrvel',?
+'need get diamond dentist stat san slap like',?
+'know song mingi punchlin ice neck draw line name take dollar w upsid necklac ps video mv review pirat search valu shine like diamond',?
+'monkey',?
+'kingsssss',?
+'boy',?
+'stop pleas',?
+'atini let go',?
+'atini fight',?
+'k left wonderland reach gooooo',?
+'let move million soon fight',?
+'hope continu path',?
+'mv beauti well produc',?
+'cant wait',?
+'feel perform go crazi',?
+'ateez go perform saturday melon music award let support',?
+'best kpop song year',?
+'top trend mv',?
+'youd like know possibl interpret iomt check mv review pirat search valu shine like diamond',?
+'rumbo eso',?
+'there someth intruig group dont listen kpop anymor theyr make get',?
+'choi san im love',?
+'adictivo',?
+'yay million',?
+'wow guy fantast congrat',?
+'',?
+'exol support amaz boy kinda remind exo honestli',?
+'ateez mansion',?
+'comment',?
+'happi',?
+'',?
+'ye',?
+'final',?
+'k comentario si si si si atini present',?
+'ye happi',?
+'keep move forward take ship right destin ateez break limit big way everi time cheer atini',?
+'million almost',?
+'song deserv like pleas fuck great song',?
+'carat pass',?
+'neredesiniz',?
+'kesini gara gara lucinta luna',?
+'eye ateez',?
+'good night iomt see morn',?
+'one ateez best mv ever',?
+'atini fight',?
+'ateez mafia era',?
+'mannnnn soti',?
+'who background vocal goe hard asl',?
+'million come soon',?
+'est homem mata kkkk',?
+'wow love song violin sound sooo cool',?
+'',?
+'kq know best group',?
+'',?
+'ice teeth ice om ateez',?
+'good',?
+'keep stream atini',?
+'k like',?
+'close',?
+'',?
+'mention mv came repeat even today cant get part yunho hit differ liter love movement simul play tenni move dont know simpli love',?
+'obsess',?
+'love',?
+'wooooh wooooh wooooh',?
+'dem vizu pro ateez comprar uma merendinha',?
+'confirm seonghwa duck snow shaper saw insta post',?
+'san era insan',?
+'ateez la grand class',?
+'sorri im fan want know',?
+'jongho tell love cover',?
+'xg amaz kard fusion ateez load banger bounci guerilla firework taemin solo artist nd gen group call shine',?
+'drippp tho killaz heart',?
+'let go guerrilla',?
+'think gonna stan ateez',?
+'nd name',?
+'damn never ateez guess',?
+'let go cheer atini',?
+'k carat visit',?
+'comeback time made excit felt strang time cours realli like comeback probabl like like even',?
+'song good',?
+'fight',?
+'ateez still win win',?
+'make move',?
+'ice teeth',?
+'almost let go',?
+'carat pass',?
+'almost week sinc song mv came still obsess',?
+'kayanya gw mulai suka ateez deh',?
+'hongjoong yunho wink make heart flutter',?
+'selfish waltz',?
+'carat pass idea what go w mv storylin bc idk lore crazi good song definit gonna listen lot',?
+'mean masterpiec alright',?
+'smooth',?
+'helloatini ice teeth jam',?
+'sannnnnnnn',?
+'babi atini check debut song pirat king treasur noth passion determin go check youll see growth',?
+'mv goooodddd',?
+'emm yunhoi bia wreck help',?
+'violin heaven',?
+'k',?
+'choic back',?
+'',?
+'wooyoung choha iomt challeng reel one highest highest number view yt wish peopl stop lazi find hello hashtag exist reason googl free leav nice comment appropri age atini pl dont dumb',?
+'vampir vibe',?
+'keep stream guy',?
+'hongjoong seonghwa yunho yeosang san mingi wooyoung jongho handsom boy',?
+'love ateez much',?
+'live aesthet make chest tingl',?
+'',?
+'king',?
+'ignorenm vengo de tiktok',?
+'todayic path',?
+'look like mafia',?
+'cub pass good even',?
+'white tee',?
+'best song ateez mind',?
+'god love',?
+'yang kesini karna ngeliat di vidio sebelah ada lucunya luna ngacunggg',?
+'theyr alway kill',?
+'love instrument',?
+'im fine yall',?
+'san seonghwa wooyoung mingi hongjoong yunho jongho yeosang ajkanshsshh',?
+'happi thursday start thanksgiv ateez main cours mani thank atini friend help stream iomt',?
+'love chocol',?
+'hace mucho frooooo',?
+'dale atinyyyyi',?
+'yoooo san excus',?
+'love song',?
+'ice teeth centr jung wooyoung',?
+'ateez pre chorus never disappoint man',?
+'shtt whisper smack your one im tri finish san shoulder scenedawg ateez',?
+'mafiatini present',?
+'power hold insan',?
+'ice teethic tee ice teeth white tee',?
+'start song',?
+'k wonder thursday atini jensett mantra x ice teeth',?
+'join stationhead streem parti atini',?
+'found ateez finalist bbma vted jam',?
+'hj',?
+'san goshhhhhh',?
+'mv actual fantast magnific',?
+'dayummm',?
+'ice teeth',?
+'back',?
+'today visit leemujin servic san',?
+'ateez alway stylist satisfi mv',?
+'love',?
+'love greec',?
+'sudah kuputar berkalikali tapi mana lucinta luna',?
+'ok atini go crazi tell guy',?
+'jam get ice teeth jo ici x ateez ice teeth',?
+'groovi',?
+'let keep stream atini thank love',?
+'naol boss',?
+'visit snow cover day ice teeth like way ateez kim woojin',?
+'wow',?
+'current contribut view millionand there stop',?
+'interest love call chew em keep em shut ooooooooo',?
+'eyyyi',?
+'kesini gegara lucinta luna',?
+'aye global top music',?
+'answer',?
+'note ice teeth',?
+'whoever convinc ateez sing abt money n dime great job',?
+'onwardsjust banger',?
+'hujan sedapnya tidur',?
+'midzyy',?
+'im',?
+'mau meningg gegara choi san',?
+'keep stream everyday',?
+'ayyy im still atini',?
+'good morn atini friendsm come soonhav fun swim fight',?
+'lawd merci',?
+'let go atini',?
+'trend mantapppppp',?
+'hit booti shake violat',?
+'yunho realli shine cb',?
+'wish everyon great day',?
+'oh capitan',?
+'tomorrow week get',?
+'',?
+'morn',?
+'qu gran trabajo atini soi fantstico',?
+'work art pleasant eye ear',?
+'kq good advertis ateez music get known ateez atini imagin kq put effort advertis thatll huugge',?
+'im die',?
+'let go',?
+'sigamooooo',?
+'take bear work day',?
+'morn happi thursday keep work',?
+'saya masih di sini',?
+'love keep root ateez',?
+'',?
+'ice',?
+'vengo celebrar por sacar buena nota en una clase jdjdjdjdj',?
+'im alway side ice teeth',?
+'get cuntier everybodi comeback',?
+'ot bridg crazi good',?
+'insist mind pay rent live anthem',?
+'let fun today',?
+'yeosang beauti almost hurt',?
+'chess refer',?
+'love u guy',?
+'',?
+'one black mine',?
+'art est nuevo comback cuando sacan gira por latam digan luego para ahorrar',?
+'road let goooo',?
+'datang sini walaupun sibuk',?
+'recontra like temazooo',?
+'glam slam like teni',?
+'ay let go',?
+'yeah ok let go',?
+'im moa im give love song congratul',?
+'keep stream atini go go milion',?
+'',?
+'ateez yu cc anh chng nh ta rt nhiu',?
+'',?
+'vamo airplan',?
+'q sigueel highlight del dia juist',?
+'la eme pregunt qn es luca',?
+'q sucedio con tj picsa',?
+'genuinament creo q contribuimo ma al estrim de eiti q un atun promedio',?
+'mayami le gusga el keipo',?
+'ice teeth ice teeth',?
+'view frozen keep go atini',?
+'yok sebulan view',?
+'',?
+'san defo smack like',?
+'asian rap silli like british peopl rap take violenc emot american rap made sole sex appeal youd everi singl male kpop rapper',?
+'deserv',?
+'risk exam prep stream',?
+'still love',?
+'rise',?
+'repeeat',?
+'gent isso est muito bom',?
+'back',?
+'whaaaaa pink tiktok emoji',?
+'swim carat',?
+'good morn rhyme tenni tenni okay bc fishi fishi like',?
+'definit put money mouth',?
+'',?
+'amo',?
+'divosss',?
+'meu amor',?
+'back show support ice teeth',?
+'congratul let go atini ice teeth',?
+'never enough come pirat',?
+'first katsey ateez chandeli yall',?
+'',?
+'day think becom atini',?
+'semua lagu ateez tak dapat skip berterusan',?
+'morn atini still vote ice teeth st win success support gorgeou pirat king ateez till end gajja',?
+'',?
+'',?
+'vamo por lo',?
+'keep stream',?
+'',?
+'rumo milh',?
+'im happi sing lower regist love deep voic that prefer boy group',?
+'even beat pleas im love song liter',?
+'also mingi rap pleas',?
+'speechless dammmmmmmnnnnnnnnnn first ateez mv forc comment even look youtub like serious damn pleas keep love mv song everi thing',?
+'',?
+'candu dengernya',?
+'juliana troux p c e agr n tem mai volta',?
+'san make melt',?
+'amaz',?
+'who watch',?
+'wonderland work close next million',?
+'final compani place advertis done return',?
+'kinda wish anoth music video made one bside album man fire exampl imagin choreographi track',?
+'last time around todayse tomorrowlet keep good workgood night',?
+'ateez',?
+'ateez amaz',?
+'mingi',?
+'hater back',?
+'godfac hair song aghas show',?
+'que asco',?
+'yooo ateez billboard artist cri byee',?
+'heart stop',?
+'tehagun dediin kii gnnzde benim yannda yok kendi baska hayat yaadn acikladi',?
+'grand slam like tenni',?
+'joke song releas birthday',?
+'your one im tryna finish aliv total',?
+'your one im tryna finish aliv total',?
+'who watch',?
+'woosan present',?
+'mv beauti',?
+'end amaz',?
+'cool',?
+'im total obsess mv song flow rythm stun visual synchro danc everyth cool dont give damn lyric caus im french didnt understood anyth',?
+'yallll wtffff',?
+'make rain',?
+'whole mv knee song repeat sinc came good lord',?
+'amaz',?
+'let move million soon fight',?
+'omgi realli love song',?
+'hope win unit come atini possibl everi grain sand count',?
+'complet videographi love song beat danc style video aesthet everyth point',?
+'fight',?
+'qu es mubeat cmo se vota',?
+'win',?
+'vote mubeat music core',?
+'madr atini soi uno mquina',?
+'mingi say chocol think song work dress like willi wonka',?
+'ateezi',?
+'temon',?
+'amaz',?
+'perfect',?
+'stop pleas',?
+'fight atini let go',?
+'',?
+'crazi finish video go anoth ateez video univers said im finish listen song gotta god say listen song anoth time',?
+'k jensett',?
+'',?
+'keep yunho open ateez song alway amaz',?
+'ear worm love',?
+'oh god oh god oh god',?
+'good night see ya morn',?
+'quiero mv una presentacin especi de selfish waltz men fire',?
+'yaaaaaassssssss',?
+'fantasi enter atini airspac',?
+'give peaki blinder damnnnnn',?
+'dont word describ feel song perfect',?
+'support pirat everyth possibl cheer atini',?
+'atini pleas dont support ai fancal',?
+'mingi guapo ice teeth',?
+'',?
+'cri watch masterpiec love u ateez',?
+'grand slam like tenni',?
+'son tremendo',?
+'lo sigo escuchandoiooooo',?
+'',?
+'enough',?
+'',?
+'bought diamond dentist',?
+'good man',?
+'yunhoo',?
+'good man',?
+'miss opportun coulda put grill',?
+'mi song',?
+'lot love india love u ateez',?
+'pleas atini vote mubeat',?
+'plz tell your one im tryna finish mean im sorryi dont get',?
+'keren lagu nya',?
+'wow',?
+'ateez',?
+'ac estoy seguir estando por lo chico lo amo',?
+'great mv',?
+'let give least one win comeback',?
+'atini pleas help us vote mubeat music core need',?
+'love mv much',?
+'catchi song',?
+'best fk mv ever love',?
+'nai',?
+'carat pass',?
+'k carat visit',?
+'',?
+'theyr crazi good',?
+'korean final enter trill era paulwal',?
+'ive play like tenni',?
+'k fight',?
+'wow expect ateez seonghwa part realli choke fr',?
+'bueno da qu vivan lo hombr ateez',?
+'terngiang ngiang ice teeth',?
+'next target',?
+'video hour long',?
+'muito bom coreografia impecvei e batida ganhou',?
+'',?
+'still get album pleas buy person free fall bb chart',?
+'mingi',?
+'',?
+'ateez',?
+'kesini grgr lucinta luna',?
+'bb top haha slayyy',?
+'hi boss dito n nmn em',?
+'',?
+'love like love iam obsess',?
+'cannot watch song russia',?
+'',?
+'ateez best',?
+'best',?
+'pleas atini vote ateez atini top kpop fan armi poll bbma pleas pleas vote',?
+'',?
+'ateez sentiasa di ata',?
+'ateez ku saya sangat bangga dengan kalian kalianlah terbaik',?
+'bro look like mafia',?
+'good nightatini thank support jam',?
+'mana lucinta luna nya',?
+'gracia ateez por',?
+'ateez billboard artist chart',?
+'im atini vibe got good vibe yeah',?
+'dentist assist part bought diamond dentist agre caus get thous realli realli expens',?
+'like ballet',?
+'era uma vez macho ele eram revoluo pa',?
+'grand slam like tenni',?
+'teruskan stream jangan give upatini boleh',?
+'mana penggemar yang ingin menemui ateez',?
+'yang hadir karna lucinta luna',?
+'keep stream',?
+'watch reaction korean girl english sub realli like reaction mention didnt know ateez debut year ago never heard bounci thought visit channel ask react kill voic mayb korean peopl would get know thought case want see reaction channel mumuto',?
+'omg love',?
+'enakkkk bgt sialannnnnn',?
+'wow ice teeth one best solo amaz kpop ateej love',?
+'obsess',?
+'yessss leader back',?
+'nice song love',?
+'hip hop lover rhyme tenni tenni lazi good song choru rhyme scheme need match great visual alway though',?
+'good morn yay million',?
+'ateez what',?
+'k happi million beauti wednesday atini jensett mantra x ice teeth',?
+'lagu yang wajib di putar setiap hari atau setiap jam enak banget',?
+'ang anga nag elev sila ng todo kudo mv team',?
+'peopl keep search lucinta luna comment someon pirat work make edit mv lure everyon ps indonesian atini respect',?
+'great day atini choic',?
+'ada yang kesini nyari lucintah lunah',?
+'new fan hongjoong stan',?
+'sannnn weeksss im still attacehdjdkndksj',?
+'what cutest thing saw today video iomt mansion made anim cross',?
+'fantasi come check diamond still place great day atini friend ice teeth x dwbh ateez x sf',?
+'katanya ada om lucinta luna',?
+'',?
+'lagu ganteng',?
+'peaki blinder gangster',?
+'ice teeth',?
+'ohhhh hot',?
+'happi',?
+'im obsess',?
+'kpop peaki blinder ahh vibe',?
+'need anoth like button would like press million time',?
+'refresh concept bad boy villain mafia ceo need see matur men concept kpop',?
+'congrat atini addict jam',?
+'crime dont studio choom version',?
+'',?
+'best vocal rap line',?
+'carat right heree_ ateez ice teeth x seventeen love money fame',?
+'guy get mubeat widen gap gogogo',?
+'mana katanya ada lucinta luna',?
+'join ststionhead atini streem parti',?
+'swim carat',?
+'dont forget visit answer left',?
+'mana lucinta luna',?
+'yunho cakeppppppppppppppppppppppp',?
+'eat chocol accord mingi',?
+'visual comeback crazili good happi',?
+'eye hong joong white teeth',?
+'swing answer',?
+'',?
+'yall proudli say probabl million view mv spirit thanksgiv grate piec art lol',?
+'congrat ice teeth u say ateez kim woojin',?
+'continu end',?
+'cant get head',?
+'zaddiiessss',?
+'',?
+'atini tak akan pernah berhenti untuk stream atini sentiasa ada disinifight sayangsayang atini',?
+'teruskan support ateez',?
+'like chocol purpos gave mingiiii',?
+'goddamni fan',?
+'mubeat vote music core ongo',?
+'mil',?
+'',?
+'morn let best today',?
+'thank k like',?
+'littl littl ateez get',?
+'ice teeth ice teeth white tee say unison',?
+'hello atini midzi support let get ice teeth x gold',?
+'ateez music bank pre vote hope theyll receiv st ever win comeback come friday',?
+'good morn atini friendswish wounder wednesday',?
+'happi viw k like',?
+'san look scare',?
+'seonghwa',?
+'ate like devour',?
+'nida benim icin ah sana vah sana soyler misin',?
+'stay keep stream let get',?
+'bad thing song doesnt last long',?
+'anani hic sevmemistim zaten iyi oldu',?
+'keep come back music video liter chang live',?
+'trk varm',?
+'yeni gunlugum burasi artik kims kimseyi tanimiyor',?
+'aqua rubynin babasi cok yakisikli ya',?
+'quiero un brauni',?
+'',?
+'deadpol n skz kombinasi kerenn',?
+'hasta doli la cabeza por el mv',?
+'soy yo escuxh un vamo en espaol',?
+'bluesung geri gel cokozledim lytfen',?
+'happi',?
+'stay ya sali el mv stray kid para que le demo vista',?
+'sister show mv yesterday didnt watch listen sinc came world happi see ryan hugh stray kid mv wholesom friendship sn',?
+'oha nida akan oldu',?
+'birka saatliin akan olmaya karar verdim',?
+'stay por favor darl vista al mv stray kid que ya sali',?
+'everyon tri search stray kid googl there new featur',?
+'skz te amooooo',?
+'cok sklyorum',?
+'amoooooo',?
+'love changbin',?
+'fantstico',?
+'imdatt',?
+'iyi geceleeeeerffrtrrrrr',?
+'ya bu turkceyi nasil anlad imdat',?
+'',?
+'like much babe',?
+'happi birthday stay im proud',?
+'tam srada kral ilk kez gercek korkuyu hissetti',?
+'le saben',?
+'let get win',?
+'buenisimo el kpop vuelv revivir',?
+'goku profilli eleman beni sclasstan beri umursamiyor cok sinirliyim ona',?
+'estaba bien hasta que vi el mv',?
+'siyah sac mi daha guzel kahverengi sac mi',?
+'fli high barudak',?
+'sad discov heard song past fell love ate feel bit sad lost much time preciou moment',?
+'evet sp yemisin',?
+'know stray kid best',?
+'sp mi yedim',?
+'let go',?
+'gece buradayim artik',?
+'kaiseri kiz mi sandin yoksa nida',?
+'nida profilim guzel duruyor mu',?
+'feliz aniversario stay de todo el mundo',?
+'stay',?
+'mani time play stray kid',?
+'',?
+'lo chico ya tienen suscriptor woa',?
+'nida senc bir mangaya dolar vermek deger mi',?
+'',?
+'yup im fan ccb news',?
+'yoksa bu bs bana e pic diyerek kufur mu ediyor',?
+'boyl internetin taaaaaa',?
+'oh god perfect',?
+'ate comeback',?
+'im',?
+'mi rolona',?
+'ebay de cildin ingilizcesini buldum ama bir manga icin cok pahali',?
+'calm give deserv',?
+'talent insan',?
+'mmm',?
+'',?
+'la cancion que escucho cada rato',?
+'happi bd stay',?
+'si es un csncin buena',?
+'nida cok babaproyuz',?
+'nedenkimseyok',?
+'obsess',?
+'like',?
+'stay fight',?
+'yok lanjut pantengin mereka terusss gass streme kajaaaaa',?
+'k',?
+'elektrik sonra internet gittigi icin ugrayamadim buralara nasilsiniz bakem',?
+'changbinin rap partini dinlerim kapatij diyeni siksinl',?
+'sayang bngt sama sti mereka bagu bngt soal urusan streme sama vote gitu',?
+'alo neptu mu nerdesinalo',?
+'good love stray kid',?
+'niy burasi bugun cok bo',?
+'',?
+'rap changbin satisfatrio',?
+'boom boom ratatata',?
+'boom boom',?
+'rechazado por completo',?
+'ahora necesitamo el mv de skzoo ratatata',?
+'',?
+'nida ala japonlar beni seviyormu',?
+'q mal dia para estar vivo ser estai',?
+'ateee mi dulc nio',?
+'atee',?
+'st tayfa uyudunuz mu lan',?
+'one lee know a a',?
+'trendlerd ye dusmu ldracam',?
+'epicnida seni cok seviyorum',?
+'',?
+'epicnida nasilsin',?
+'bir tek ben mi aneml mesajlasirken cok geriliyorum',?
+'come soon',?
+'',?
+'',?
+'omg favorit enhypen mv ever',?
+'epicnida cok havali',?
+'didnt jyp give ad',?
+'woooooow stari kid bangchang chanbin lee know han hyunjin sungmin felix love song much love th year old birthday august love guy cool cute handsom',?
+'reno oyundan knca sava gnlnde sadec bir ksma kadar baklabiliyormu sayamadm',?
+'blue lock cildin ingilizcesini hicbir yerd bulamiyorum aglicam',?
+'yesterday spent whole day listen song stay day kskqjqkak',?
+'stray kid world domin',?
+'itemiatethemnerdesn k gozum',?
+'nasilsiniz bayanlarbeyl yarrami yesin',?
+'iyigecelerrrrr',?
+'viciant',?
+'almina yine nerdesin amina koim',?
+'vamo por lo stay bajen el strim',?
+'ny bb',?
+'bro liter save summer that song special aura hear immedi want danc let get million',?
+'stray kid world domin',?
+'oflamayin',?
+'f',?
+'cecilia first go',?
+'yallll got ryan reinold',?
+'la cancion del aooo',?
+'herhangi',?
+'merhabaa',?
+'chan cok atwslisin',?
+'stray kid music video addict',?
+'yasemij nerelerdesin zledim seni nasilsin',?
+'telefonumda yt music varmi yeni fark ettim',?
+'soti',?
+'stay go',?
+'hayir eleven ya da olemez ama teoril mikein olecegini ba ba bairiyor mike olurs aglarim ama steve de byk ihtimal olecekmi ama umarim olmez yoksa depresyon hirerim ama en cok olmasini istedigim sey eddienin geri gelmesi',?
+'ya',?
+'stranger thing yeni sezonu seney mi geliyor',?
+'profilim cok guzel degil mi ya',?
+'love stray kid want say awesom comeback blew mind especi never disappoint',?
+'ladi gentlemen',?
+'slm bu arqda',?
+'bn ne zaman iyilescem aqq',?
+'ryan siendo rechazado por lo xmen por lo aveng por skz jajaja',?
+'piyanist bana brak',?
+'selamm',?
+'naber',?
+'',?
+'',?
+'chk chk boom',?
+'im stream skincar hahaha',?
+'hesap deitirdiniz la ben kii dnda dierlerini bilemedim',?
+'moralim yine gece gece bozuk lan hadi mutlu olalm awnna',?
+'dn ben gidinc reno geldi',?
+'selamun aleykum',?
+'puedo sacar esta cancin de la ment',?
+'eat ryan fool us',?
+'grrz gitmem lazm',?
+'even day still continu listen without get bore made legendari song skz',?
+'slm',?
+'song best song ive ever heard',?
+'star abla niy hep depresifsin sana abla diyorum diy mi yoksa',?
+'ay domino',?
+'jalem se desanimen que hoy cumpl ao stay',?
+'turkc de strmak diy bir kelim mi varmi',?
+'',?
+'ateeeeee devoraronnnn',?
+'changbin',?
+'hyunjin',?
+'',?
+'saat getiin gre kendim doum gn hediyesi olarak bu arki seiyorum',?
+'omg soo cool',?
+'stray kid ateeeeeee',?
+'pensaron en la tercermundista tenemo link del lolla aaaaa',?
+'definitivament se lucieron con est regreso',?
+'',?
+'',?
+'amaz guy love',?
+'need point mushow pleas rememb dont give',?
+'slasysjjsjxjxjxslay',?
+'goethe gre de ask zaman kaybindan baska bir sey degilmi',?
+'nunca sido tan fan como lo soy de skz son increbl',?
+'misa unutabildin mi okul degistirinc',?
+'aint one like stray kid period',?
+'omg spanish ryan cameo ate',?
+'ofsenaof',?
+'',?
+'en uzun ask karisilikli olmayan askmi',?
+'',?
+'',?
+'simpli incred',?
+'cant get mv love',?
+'lo amo skz sin usted muero',?
+'',?
+'stray kid secret boyfriend think cute im sad',?
+'tin tin tintintintin chk chk boom',?
+'podremo llegar al me si se pued stay',?
+'gune al paran ile iek falanda al sevdiini syle',?
+'song bang boil face doesnt look normal korean repres korea makeup shit toxic cultur seem',?
+'love word catastroph sound dont hear often even impact song',?
+'gidecekyerinyokmisa',?
+'tekrar merhaba',?
+'said need older groupmatei think mean new groupmat came stray kidsguy pl say mean that joke',?
+'',?
+'k pop take right reason',?
+'gune sevdifin kimmi kim laf atti',?
+'stray kid thank everyth us channi thank make beauti name minho thank good job binni thank power effort hyunni thank emot feel hanni thank song lyric smile lixi thank sunshin sweet messag minni thank diamond voic support us inni thank tell us beauti word smile stag cutest face love moon',?
+'puf',?
+'stray kid gen leader',?
+'happi anniversari dear stay everi year member togeth well take care selv ilov im proud stayyyyy',?
+'',?
+'ok',?
+'alcancemo eso millon pronto',?
+'ben geldim ama gidiyoeum',?
+'im addict thisssnkdkdn',?
+'merhaba grrz',?
+'love love life may etern ate muero hablaron espaol',?
+'k',?
+'stray kid world domin',?
+'tropa do br',?
+'stay keep stramng soon',?
+'boom boom',?
+'boom boom',?
+'still cant believ well skz done god dududu that deadpool theme deadpool wolverin mv im proud',?
+'ay tan lindo ryan gracia por todo',?
+'atee',?
+'',?
+'suit green vest give lokiiii sorri theyr move fast see',?
+'ceyli nbrr',?
+'platinum blond felix give major hector castlevania vibe',?
+'stray kid fair',?
+'stray kid made revolutionari special amaz album',?
+'vi amo un sacco raga siet migliori',?
+'felix voic ughhh soo hot video',?
+'ugh song damn good',?
+'comentar cada q vea est video',?
+'danceracha outdid themself time cant believ talent peopl exist rap line vocal goin',?
+'ele ate',?
+'omg mv got soo emot like end mv damnnn',?
+'com demasiada victoria estoy lleno dio que icnico',?
+'chef kiss',?
+'hic tanidik yok nfrt edyrm hpnzdn',?
+'best',?
+'good amaz well done stray kid came support fellow stay well go back brought heat back engen',?
+'bc cheap trick obv stream silent stream instead flaunt fan work chariti idk know fandom beg activ group fandom view bc help stram also bc xyz group get success bc fandom help like trick mafia behind new stan would understand whole scenario lot type comment hope understand im tri say',?
+'happi stay day last time today yall',?
+'back watch stray kid mv caus heart cant take grown much proud happi stay day last time today yall log',?
+'que lindo',?
+'perfeito demai',?
+'boommm',?
+'freakin bombshel',?
+'could anyon beat stray kid',?
+'love song',?
+'beniml evlen minho ltfen marri minho pleas',?
+'million view let goooooooooooooo let get win',?
+'changbin kill',?
+'stray kid handsom perceft mv bia jeongin',?
+'vamo galerinha',?
+'soon youtub block russia',?
+'stray kid leader fourth gener',?
+'collab jyp pleas',?
+'boy grow well stay',?
+'',?
+'everytim watch stray kid mv',?
+'might stupid ccb news stand chk chk book news coz know bbc news',?
+'encanto cantan bien mi hermoso',?
+'amooooo',?
+'hyunjin leeknow last part one tge histori',?
+'benim mmin gardam nerd',?
+'por q cuando reproduzco el vdeo lo pone como su fuera mix',?
+'davam davam stayhvsdn dmrk milyona doru irli',?
+'ben geldimm',?
+'k happi million goodnight stay jensett spot x chk chk boom',?
+'han',?
+'good even',?
+'hermosisimo saludo desd espaa',?
+'seungmin best smile take pictur like pleas she beautifulth hater say seungmin crook smile fool dont deserv humanso seungmin ignor smile best',?
+'',?
+'u great',?
+'hh',?
+'',?
+'birin baka av bul denmez krc',?
+'boom boom chk chk boom surpass',?
+'utterli complet obsess video song god menu final competitor st place heart',?
+'bana ilac lazim',?
+'',?
+'felic',?
+'acemi',?
+'mfik nerelerd',?
+'la part de changbin es la mejor',?
+'sipariimi verdim gidiyorum gelirim bi ara zamana kadar avm bul',?
+'',?
+'',?
+'ok kandn',?
+'',?
+'boom boom chk chk boom',?
+'okk like ate plsss guyss',?
+'stray kid amaz',?
+'neys bay bag ptummm ben hannah vlog izliycem eskil cok sariyo',?
+'',?
+'millon ms',?
+'bu teklifini bulduun ava gre deerlendiricem',?
+'merecedor de tudoooo',?
+'refer love skzzz',?
+'gustan todo lo bt',?
+'yt kendin gel',?
+'sick life',?
+'fantasi bibora x love x chk chk boom',?
+'make sob',?
+'arriv week aee chk chk boom',?
+'enam puluh dua juta',?
+'lee know soo hot',?
+'dig deeper',?
+'detpol',?
+'bang christoph chan look good damn u look good edit thx much like like omg like sec',?
+'trend ne ya',?
+'hablo espaol que lindooo la vida loca',?
+'kk avm nerdeymi',?
+'chan',?
+'wanna know know know know',?
+'daha yeni geldim ne ara spm yemiim',?
+'skzoo el mv',?
+'selammmm',?
+'mv',?
+'la vida es bien loc con skz',?
+'coolest mv ever',?
+'love bangchan wish could get autograph wish',?
+'beauti',?
+'boom boom ratatata boom',?
+'la vida loca',?
+'feel much effort spent comeback one ate realll',?
+'rio avm ol',?
+'pastamiz oldu stayi afiyet olsunn',?
+'first time watch',?
+'',?
+'even youtub think shit ate',?
+'ok konuma avm olursun anlad kii',?
+'',?
+'',?
+'',?
+'music video insan cant get enough',?
+'yalan soylem',?
+'bu cocuk bir harika',?
+'fill truck yeah want riiiiiiiid boom hit like truck imma make flyyyyi',?
+'yemek yerken srdm arkadalar yanl yerler ekmeyin',?
+'addict',?
+'let make real quick',?
+'hic yakismadi',?
+'bu niy hayla deil',?
+'ateeeeee',?
+'vengo despu de escuchar stray kid la cancin muy bueno todo maravilloso lbum',?
+'aramizdada dudagini kanatanlar var artik ne yaptiysa',?
+'aramz da fesatlar var',?
+'rebeca vamooooo',?
+'im gonna sleep',?
+'rio hala depresyondamisin',?
+'min qalbamma saatlar kck bilirm',?
+'stray kid best world',?
+'im save self',?
+'dudam kanyor',?
+'love',?
+'news',?
+'oha lan kims yok ortam nerd',?
+'afraid summer would like',?
+'olsund emeklioliyim',?
+'',?
+'rap vocal visual choreographi perfect',?
+'felix changbin rrrrrrra part give newton vibe like uhh even say scienc student realli song attract graviti',?
+'thing brain forev',?
+'canso de ver el video esta genial',?
+'ate swallow leav crumb',?
+'god im freak',?
+'let goooo',?
+'whole song part',?
+'hermana llor un montn',?
+'song',?
+'haftada mn olur dedigimiz sarki gund mnde takili kaldi yaw',?
+'',?
+'happi birthday stay',?
+'turk stayler backsrooma dustul galiba',?
+'boom',?
+'super el temaaaaaa ameeew',?
+'k',?
+'stay let work hard music core inkiyago win',?
+'ccb',?
+'chk chk boom',?
+'come',?
+'beauti mv ever seen',?
+'support skz',?
+'nini',?
+'love ya',?
+'rio yokmu bb',?
+'selamm',?
+'close million',?
+'',?
+'eviten usar emoji',?
+'',?
+'stay debemo parar hasta lo',?
+'stray kid kid everywher around world make stray kid stay life choic fandom light hous spark hellav hugour knowour dwekkiour jinnieour quokkaour chickenour puppyour babi breadour world cant hurt r sheild sword homew protect dont worri go ur waypur wing never whatev happen go love stay love stray kid',?
+'straykid dominando el mundo',?
+'',?
+'misa seni cok ozledim',?
+'yine yoklar',?
+'',?
+'vamo stay inviten ms seguir aqui compartan lo link',?
+'benim tayfa yine yok hadi gorusuruz',?
+'lo amo jam cansar de decirlo',?
+'favorit music video ever oh gosh guy make best music',?
+'',?
+'solo ver kpop por esto',?
+'song soooo fckggg gowdddddd',?
+'good',?
+'stray kid forev favorit group stray kid everywher around world',?
+'lo amo dio mo new favorit song',?
+'stray kid chk chk boom highest chart th gener boy group song circl weekli global chart chk chk boom maniac sclass good boy gone bad lalalala sugar rush ride',?
+'lee know',?
+'cool',?
+'que cancin tan de la verga',?
+'never understand feel love someon never met found stray kid help toughest moment life im forev grate',?
+'happi birthday stayi',?
+'long watch chk chk boom',?
+'haha',?
+'woww',?
+'yyyi',?
+'uuu',?
+'',?
+'well alway',?
+'stay pleas keep strame need high point sn',?
+'inviten enimen',?
+'support stray kid forev',?
+'guy come let get soon',?
+'soti',?
+'selamat malam stay selamat istirahat',?
+'let week',?
+'like soon',?
+'best releas mannnn',?
+'k',?
+'puffff',?
+'best cameo',?
+'thank hugh ryan',?
+'fav part omg',?
+'enserio amo est cancin',?
+'member shine comeback',?
+'forev proud stay im grate found right time stray kid',?
+'want see felix drama',?
+'slay skz',?
+'hyunjin devour',?
+'',?
+'aye domino',?
+'stray kid everywher around world',?
+'chk chk boom',?
+'first dayi one sing along kingsbut whole famili sing alongayeee chk chk boom',?
+'trkiyeeeee bayrak bulamadim',?
+'ateeeeeeeeeee',?
+'wtf changbin',?
+'stray kid home',?
+'bit late happi birthday stay',?
+'mll goo',?
+'',?
+'stay fight',?
+'alway great comeback stray kid leader kpop industri',?
+'goooooooooo stayyyi',?
+'est cancin creo superarla jam',?
+'skz nuestro lugar seguro siempr',?
+'second man alreadi actor watch six seri',?
+'watch lighten mood watch stray kid mv',?
+'',?
+'',?
+'',?
+'crossov song video danc that want',?
+'intercalar con mountain skz',?
+'nhc hay qu',?
+'stayyyi acaba de salir el mv de stray kid',?
+'',?
+'who sound goe viral',?
+'k lobo cannot stop hunt jensett spot x chk chk boom',?
+'ateeeeee',?
