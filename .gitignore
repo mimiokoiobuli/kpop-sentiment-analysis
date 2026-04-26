@@ -1,3 +1,7 @@
-credentials/ 
-.ipynb_checkpoints/ 
-10_scripts/anaconda_projects/ 
+credentials/
+.ipynb_checkpoints/
+10_scripts/anaconda_projects/db/
+01_raw_data/reddit/comments/*.zst
+05_models/youtube_predictions.arff
+05_models/reddit_predictions.arff
+09_reports/~$*
