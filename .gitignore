@@ -6,4 +6,5 @@ anaconda_projects/
 05_models/reddit_predictions.arff
 09_reports/~$*
 09_reports/*.txt
-09_reports/*.pdf
+09_reports/*.docx
+09_reports/*.bib
